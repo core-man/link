@@ -1,7 +1,7 @@
 baseURL = "https://core-man.github.io/link/"
 languageCode = "zh-cn"
 defaultContentLanguage = "zh-cn"            # en / zh-cn / ... (This field determines which i18n file to use)
-title = "core-man"
+title = "core-man's links"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
-paginate = 5                                              # 首页每页显示的文章数
+paginate = 20                                             # 首页每页显示的文章数
 disqusShortname = ""                                      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
@@ -28,11 +28,11 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]             # config your menu              # 配置目录
-  name = "首页"
-  weight = 10
-  identifier = "home"
-  url = "/"
+#[[menu.main]]             # config your menu              # 配置目录
+#  name = "首页"
+#  weight = 10
+#  identifier = "home"
+#  url = "/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
@@ -45,8 +45,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = ""            # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["地震学", "反演"]
-  description = "地震学个人小众博客"
+  keywords = ["地震学"]
+  description = "地震学链接"
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 20
