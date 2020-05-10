@@ -8,7 +8,9 @@ categories: ["Geoscience code"]
 slug: codes
 ---
 
-## Data Request Tools
+## Seismic Data Downloading and Processing
+
+### Data Request Tools
 
 - [SOD](http://www.seis.sc.edu/sod): The best seismic data request tool | [Tutorial (in Chinese)](https://blog.seisman.info/sod-notes) | [Recipes](https://github.com/seisman/SODrecipes)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
@@ -24,7 +26,7 @@ slug: codes
 
 
 
-## Seismic Data Format Conversion
+### Seismic Data Format Conversion
 
 - [rdseed](https://github.com/iris-edu-legacy/rdseed): Convert seismic data from SEED format to other common format, e.g., SAC
     - Data extraction has some problems with the sources. We have to use the binary instead, which can be found in [IRIS](http://ds.iris.edu/pub/programs). | [Chinese install manual](https://blog.seisman.info/rdseed-install) | [Chinese note](https://blog.seisman.info/tags/SEED)
@@ -37,7 +39,7 @@ slug: codes
 
 
 
-## Seismic Data Processing
+### Seismic Data Processing
 
 - [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac): The most commonly used seismic data processing software | [Chinese manual](https://seisman.github.io/SAC_Docs_zh)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
@@ -47,7 +49,7 @@ slug: codes
 
 
 
-----------
+--------------------
 ## Plot
 
 - [GMT](https://www.generic-mapping-tools.org): The most popular mapping tools in Earth Science
@@ -68,7 +70,7 @@ slug: codes
 
 
 
------------
+---------------------------
 ## Traveltime Calculation/Ray Tracing
 
 - [TauP](http://www.seis.sc.edu/TauP): Calculate travel times, ray paths, pierce and turning points etc. | [Chinese introduction](https://blog.seisman.info/tags/TauP)
@@ -209,7 +211,9 @@ slug: codes
 
 
 ---------------
-## Earthquake detection
+## Seismic source
+
+### Earthquake detection
 
 - [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location
 - [Match&Locate](https://github.com/Dal-mzhang/MatchLocate2): Template detecting and locating of small earthquakes
@@ -219,7 +223,7 @@ slug: codes
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector, written in Python
 
 
-## Earthquake location
+### Earthquake location
 
 - [GrowClust](https://github.com/dttrugman/GrowClust): Relative relocation for earthquake hypocenters
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html): Double-difference earthquake location
@@ -232,7 +236,7 @@ slug: codes
 
 
 
-## Focal Mechanism
+### Focal Mechanism
 
 - [gCAP](http://www.eas.slu.edu/People/LZhu/home.html): Focal mechanism inversion using cut and paste method | [Chinese note](https://blog.seisman.info/gcap-install)
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
@@ -251,14 +255,13 @@ slug: codes
 - [PCA-DECOMPOSITION](https://www.ig.cas.cz/en/pca-decomposition): A Matlab software package for the Principal Component Decomposition of seismic traces for extracting the common wavelet
 
 
-
-## Seismicity
+### Seismicity
 
 - [CLUSTER2000](https://www.usgs.gov/software/cluster2000): Identify clusters (e.g., aftershocks) in an earthquake catalog
 - [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP): A software package to analyze seismicity
 
 
-## Stress
+### Stress
 
 - [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress changes on mapped faults and earthquake nodal planes
 - [SATSI](https://www.usgs.gov/software/satsi): Spatially and/or temporally varying stress field from focal mechanisms
@@ -266,13 +269,15 @@ slug: codes
 - [STRESSINVERSE](https://www.ig.cas.cz/en/stress-inverse): A Matlab or Python software package for an iterative joint inversion for stress and fault orientations from focal mechanisms
 
 
-## Source Spectrum
+### Source Spectrum
 
 - [Multitaper Spectrum Estimation Library](https://www.gaprieto.com/software)
 
 
+---------------------------
+## Seismic imaging
 
-## Body-wave tomography
+### Body-wave tomography
 
 - [Nick Rawlinson's softwares](http://rses.anu.edu.au/~nick)
     - [FMTOMO](http://rses.anu.edu.au/~nick/fmtomo.html): 3-D traveltime tomography based on fast marching method | [FMTOMO at iEarth](http://www.iearth.org.au/codes/FMTOMO)
@@ -280,9 +285,9 @@ slug: codes
 - [SIMUL2000](https://www.usgs.gov/software/3d-velocity-modeling): Traveltime tomography
 
 
-## Surface-wave traveltime tomography
+### Surface-wave traveltime tomography
 
-### Teleseismic surface-wave tomography
+#### Teleseismic surface-wave tomography
 
 - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
     - Surface-wave two-station dispersion analysis GUI software in Matlab (What's the tomography method?)
@@ -290,9 +295,9 @@ slug: codes
 - Yingjie Yang's method
 
 
-### Ambient noise surface-wave tomography
+#### Ambient noise surface-wave tomography
 
-#### Measuring traveltime delay
+##### Measuring traveltime delay
 - [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
     - [ancc](http://ciei.colorado.edu/Products/ancc-1.0-1.src.tgz): Ambient noise data processing code and database for processing: available from the CU, in C
     - [AFTAN](http://ciei.colorado.edu/Products/aftan-1.1.tgz): Automatic frequency-time analysis, in C and Fortran
@@ -303,21 +308,21 @@ slug: codes
 - [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
 
 
-#### Inverting phase/group velocity maps
+##### Inverting phase/group velocity maps
 
 - [tomo_sp_cu_s](http://ciei.colorado.edu/Products/tomo_sp_cu_s-v1.1.tgz): Surface wave tomography based on ray theory | [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
 - [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
 - [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
 
 
-### One-step surface-wave traveltime tomography
+#### One-step surface-wave traveltime tomography
 
 - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran
 - [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
 
 
 
-### Surface-wave dispersion calculation
+#### Surface-wave dispersion calculation
 
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
@@ -325,12 +330,12 @@ slug: codes
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
 
 
-## Rayleigh-wave HV
+### Rayleigh-wave HV
 
 - `TBA`
 
 
-## Noise HVSR
+### Noise HVSR
 
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 - [IRIS HVSR](https://github.com/iris-edu/HVSR): A set of Python scripts to compute and plot HVSR curves using MUSTANG PDF-PSD web service from IRIS | [IRIS website](https://ds.iris.edu/ds/products/hvsr)
@@ -342,15 +347,15 @@ slug: codes
 
 
 
-## Ambient Noise Inversion
+### Ambient Noise Inversion
 
 - [MSNoise](http://www.msnoise.org): A Python Package for Monitoring seismic velocity changes using ambient seismic noise
 - [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography): Python framework for seismic noise tomography
 
 
-## Receiver Function
+### Receiver Function
 
-### Synthetic RF
+#### Synthetic RF
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (synthetic RF, deconvolution, and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
 - [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
@@ -361,7 +366,7 @@ slug: codes
 
 
 
-### RF measurements and inversion
+#### RF measurements and inversion
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (deconvolution and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
 - [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
@@ -377,14 +382,14 @@ slug: codes
 
 
 
-## Joint inversion of seismological data
+### Joint inversion of seismological data
 
 - [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code for inverting Vs and anisotropy data (Rayleigh and Love phase and/or group velocities, ellipticity (Z/H ratio) and receiver functions) with a Markov Chain Monte Carlo method. (Released soon)
 - [Huajiang Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Inversion of Vs, Vp/Vs, and interface depth using (multimode, Rayleigh and/or Love, phase and/or) dispersion data and Rayleigh wave fundamental mode ZH data (ellipticity) based on the Neighborhood Algorithm in Fortran
 
 
 
-## Multi-observable modelling of geophysical data
+### Multi-observable modelling of geophysical data
 
 - [LitMod](https://www.juanafonso.com/software): Multi-observable modelling of geophysical data
     - [LitMod_2D](https://www.juanafonso.com/software): An interactive software to perform multi-observable modelling of geophysical data for 2D whole lithospheric structure of the Earth and/or other terrestrial planets
@@ -394,7 +399,7 @@ slug: codes
 
 
 
-## Full Waveform Inversion
+### Full Waveform Inversion
 
 - [TOY2DAC](https://seiscope2.osug.fr/TOY2DAC,82?lang=fr): 2D Acoustic frequency-domain Full Waveform modeling and inversion code
 - [ASKI](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/aski.html): Modularized program suite for sensitivity analysis and iterative full waveform inversion
@@ -411,8 +416,9 @@ slug: codes
 - [Salvus](https://salvus.io): Full waveform modelling and inversion
 
 
+### Other imaging methods
 
-## Shear Wave Splitting
+#### Shear Wave Splitting
 
 - [SplitLab](http://splitting.gm.univ-montp2.fr): Shear-wave birefringence analysis code, written in Matlab | [An updated version](https://robporritt.wordpress.com/software)
 - [MFAST](http://mfast-package.geo.vuw.ac.nz): Multiple Filter Automatic Splitting Technique written in Fortran
@@ -421,7 +427,15 @@ slug: codes
 - [SplitRacer](http://www.geophysik.uni-frankfurt.de/64002762/Software): Shear-wave splitting analysis written in Matlab
 
 
-## Phase Picking
+#### Imaging of Earth interior
+
+- [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Locating seismic scatterers in the lower mantle, using PKP precursor onsets
+
+
+----------------------
+## Seismic data analysis
+
+### Phase Picking
 
 - [Adaptive Stacking](http://rses.anu.edu.au/seismology/soft/astack/index.html): Adaptive stacking to estimating traveltime residual patterns across a network of seismic stations | [Adaptive stacking at iEarth](http://www.iearth.edu.au/codes/AdaptiveStacking)
 - [AIMBAT](https://seiscode.iris.washington.edu/projects/pysmo-aimbat): A Python/Matplotlib Tool for Measuring Teleseismic Arrival Times
@@ -432,8 +446,7 @@ slug: codes
 - [P-Phase Picker](https://www.usgs.gov/software/p-phase-picker): Detecting P-phase onset written in Java and Matlab
 
 
-
-## Single station signal analysis
+### Single station signal analysis
 
 - [Station Analysis Tools](https://robporritt.wordpress.com/software): A set of c routines for computation of power spectral densities, coherence, probability density functions, and a handful of other tools for monitoring the health of a station | [iris code site](https://seiscode.iris.washington.edu/projects/station-analysis-tools)
 - [MUSTANG](http://service.iris.edu/mustang): A quality assurance system at the IRIS DMC that provides metrics pertaining to seismic data quality | [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang)
@@ -449,49 +462,47 @@ slug: codes
 - [BCseis](http://www.ceri.memphis.edu/people/clangstn/software.html): a MatLab GUI and set of inline functions for performing various non-linear thresholding operations using the Continuous Wavelet Transform
 
 
-
-## Array seismology
+### Array seismology
 
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 
 
-## Seismic data digitization and correction
+### Seismic data digitization and correction
 
 - [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration
 - [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html): A Digitization Software for Analog Seismograms, written in Matlab
 
 
-## Earth interior
+### Cross-correlation
 
-- [PKPprecursor](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Locating seismic scatterers in the lower mantle, using PKP precursor onsets
+- [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
 
 
+---------------------
+## Geosciences
 
-## Tectonics
+### Tectonics
 
 - [GPlates](https://www.earthbyte.org/category/gplates): A desktop software for the interactive visualisation of plate-tectonics
 
 
-## Geodecy
+### Geodecy
 
 - [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
 
 
-## Geophysics
+### Geophysics
 
 - [distaz](http://www.seis.sc.edu/software/distaz): Classic codes to calculate distance, azimuth and back-azimuth of any two points at the Earth's surface | [Chinese note](https://blog.seisman.info/calculate-dist-az-baz)
 - [AFAT](http://cpc.cs.qub.ac.uk/summaries/AFAT_v1_0.html): Solving the Christoffel equation: phase and group velocities
 
 
-## Signal analysis
-
-- [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
-
-
 
 ---------------
-## Mathmatical library
+## Software library
+
+### Mathmatical library
 
 - [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
 - [Shansyn](http://www.spice-rtn.org/library/software/shansyn): Spherical Harmonic ANalysis and SYNthesis
@@ -505,24 +516,25 @@ slug: codes
     - [Natural Neighbours](http://rses.anu.edu.au/geodynamics/nn/nn.html)
 
 
-## Seismic Library
+### Seismic Library
 
 - [William Menke's codes](https://www.ldeo.columbia.edu/users/menke/software.html)
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that provides a framework for manipulation of SEED data records
 
 
-## Matlab Library
+### Matlab Library
 
 - [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware)
 
 
 
-## Other Library
+### Other Library
 
 - [Free Intel® Software Development Tools](https://software.intel.com/en-us/qualify-for-free-software) | [Chinese introduction](https://blog.seisman.info/intel-non-commercial-software) and [How to uninstall](https://blog.seisman.info/uninstall-intel-parallel-studio-completely)
     - [Educator](https://software.intel.com/en-us/qualify-for-free-software/educator) | [Open Source Contributor](https://software.intel.com/en-us/qualify-for-free-software/opensourcecontributor) | [Student](https://software.intel.com/en-us/qualify-for-free-software/student)
 
 
+----------------------
 ## Software centers
 
 - [IRIS SeisCode](https://seiscode.iris.washington.edu)
