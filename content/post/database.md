@@ -1,7 +1,7 @@
 ---
 title: "Database"
-date: 2019-12-20
-lastmod: 2019-12-20
+date: 2020-05-10
+lastmod: 2020-05-10
 author: core-man
 draft: false
 categories: ["Geoscience database"]
@@ -231,6 +231,6 @@ slug: database
 
 ## Revision history
 
-- 2019-12-25: update some links, commit to seisman
-- 2019-10-20: initial draft, reference to [Seisman's links](https://link.seisman.info)
+- 2019-12-25: update some links, commit to SeisMan
+- 2019-10-20: initial draft, reference to [SeisMan's links](https://link.seisman.info)
 
