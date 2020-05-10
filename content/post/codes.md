@@ -211,9 +211,9 @@ slug: codes
 
 
 ---------------
-## Seismic source
+## Seismic Source
 
-### Earthquake detection
+### Earthquake Detection
 
 - [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location
 - [Match&Locate](https://github.com/Dal-mzhang/MatchLocate2): Template detecting and locating of small earthquakes
@@ -223,7 +223,7 @@ slug: codes
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector, written in Python
 
 
-### Earthquake location
+### Earthquake Location
 
 - [GrowClust](https://github.com/dttrugman/GrowClust): Relative relocation for earthquake hypocenters
 - [HypoDD](https://www.ldeo.columbia.edu/~felixw/hypoDD.html): Double-difference earthquake location
@@ -275,7 +275,7 @@ slug: codes
 
 
 ---------------------------
-## Seismic imaging
+## Seismic Imaging
 
 ### Body-wave tomography
 
@@ -366,7 +366,7 @@ slug: codes
 
 
 
-#### RF measurements and inversion
+#### RF Measurements and Inversion
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (deconvolution and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
 - [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
@@ -382,14 +382,14 @@ slug: codes
 
 
 
-### Joint inversion of seismological data
+### Joint Inversion of Seismological Data
 
 - [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code for inverting Vs and anisotropy data (Rayleigh and Love phase and/or group velocities, ellipticity (Z/H ratio) and receiver functions) with a Markov Chain Monte Carlo method. (Released soon)
 - [Huajiang Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Inversion of Vs, Vp/Vs, and interface depth using (multimode, Rayleigh and/or Love, phase and/or) dispersion data and Rayleigh wave fundamental mode ZH data (ellipticity) based on the Neighborhood Algorithm in Fortran
 
 
 
-### Multi-observable modelling of geophysical data
+### Multi-observable Modelling of Geophysical Data
 
 - [LitMod](https://www.juanafonso.com/software): Multi-observable modelling of geophysical data
     - [LitMod_2D](https://www.juanafonso.com/software): An interactive software to perform multi-observable modelling of geophysical data for 2D whole lithospheric structure of the Earth and/or other terrestrial planets
@@ -416,7 +416,7 @@ slug: codes
 - [Salvus](https://salvus.io): Full waveform modelling and inversion
 
 
-### Other imaging methods
+### Other Imaging Methods
 
 #### Shear Wave Splitting
 
@@ -433,7 +433,7 @@ slug: codes
 
 
 ----------------------
-## Seismic data analysis
+## Seismic Data Analysis
 
 ### Phase Picking
 
@@ -446,7 +446,7 @@ slug: codes
 - [P-Phase Picker](https://www.usgs.gov/software/p-phase-picker): Detecting P-phase onset written in Java and Matlab
 
 
-### Single station signal analysis
+### Single Station Signal Analysis
 
 - [Station Analysis Tools](https://robporritt.wordpress.com/software): A set of c routines for computation of power spectral densities, coherence, probability density functions, and a handful of other tools for monitoring the health of a station | [iris code site](https://seiscode.iris.washington.edu/projects/station-analysis-tools)
 - [MUSTANG](http://service.iris.edu/mustang): A quality assurance system at the IRIS DMC that provides metrics pertaining to seismic data quality | [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang)
@@ -462,13 +462,13 @@ slug: codes
 - [BCseis](http://www.ceri.memphis.edu/people/clangstn/software.html): a MatLab GUI and set of inline functions for performing various non-linear thresholding operations using the Continuous Wavelet Transform
 
 
-### Array seismology
+### Array Seismology
 
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 
 
-### Seismic data digitization and correction
+### Seismic Data Digitization and Correction
 
 - [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration
 - [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html): A Digitization Software for Analog Seismograms, written in Matlab
@@ -500,9 +500,9 @@ slug: codes
 
 
 ---------------
-## Software library
+## Software Library
 
-### Mathmatical library
+### Mathmatical Library
 
 - [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
 - [Shansyn](http://www.spice-rtn.org/library/software/shansyn): Spherical Harmonic ANalysis and SYNthesis
@@ -535,7 +535,7 @@ slug: codes
 
 
 ----------------------
-## Software centers
+## Software Centers
 
 - [IRIS SeisCode](https://seiscode.iris.washington.edu)
 - [CIG Software](https://geodynamics.org/cig/software)
