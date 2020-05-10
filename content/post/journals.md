@@ -110,6 +110,6 @@ slug: journals
 
 ## Revision history
 
-- 2019-12-25: commit to seisman
-- 2019-11-06: initial draft, reference to [Seisman's links](https://link.seisman.info) & [Seisman's blog](https://blog.seisman.info/journals)
+- 2019-12-25: commit to SeisMan
+- 2019-11-06: initial draft, reference to [SeisMan's links](https://link.seisman.info) & [SeisMan's blog](https://blog.seisman.info/journals)
 
