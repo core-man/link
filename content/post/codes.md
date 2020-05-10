@@ -556,5 +556,5 @@ slug: codes
 ## Revision history
 
 - 2019-12-25: update some links，commit to  SeisMan
-- 2019/11/07: initial draft, reference to [SeisMan's links](https://link.seisman.info)
+- 2019-11-07: initial draft, reference to [SeisMan's links](https://link.seisman.info)
 
