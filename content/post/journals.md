@@ -1,7 +1,7 @@
 ---
 title: "Journals"
-date: 2020-03-15T20:50:00+08:00
-lastmod: 2020-03-15T20:50:00+08:00
+date: 2020-03-15
+lastmod: 2020-03-15
 author: core-man
 draft: false
 categories: ["Geoscience Journal"]
