@@ -7,4 +7,5 @@ The links are available on [GitHub](https://github.com/core-man/link).
 
 - [Journal](content/post/journals.md)
 - [Codes](content/post/codes.md)
+- [Database](content/post/database.md)
 
