@@ -5,7 +5,7 @@ lastmod: 2020-05-14
 author: core-man
 draft: false
 categories: ["NTU"]
-slug: ntu-singapore
+slug: ntu
 ---
 
 
