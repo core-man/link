@@ -10,13 +10,13 @@ This site collects a lot of useful sites I found during my daily life and resear
 
 The links are available on [GitHub](https://github.com/core-man/link).
 
-- [Journal](post/journals/)
-- [Codes](post/codes/)
-- [Database](post/database/)
-- [Learning](post/learning/)
-- [Tools](post/tools/)
-- [Institutions](post/institutions/)
-- [Scientists](post/scientists/)
-- [Jobs](post/jobs/)
-- [NTU](post/ntu/)
+- [Journal](../post/journals/)
+- [Codes](../post/codes/)
+- [Database](../post/database/)
+- [Learning](../post/learning/)
+- [Tools](../post/tools/)
+- [Institutions](../post/institutions/)
+- [Scientists](../post/scientists/)
+- [Jobs](../post/jobs/)
+- [NTU](../post/ntu/)
 
