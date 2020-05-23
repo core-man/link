@@ -13,4 +13,10 @@ The links are available on [GitHub](https://github.com/core-man/link).
 - [Journal](https://core-man.github.io/link/post/journals/)
 - [Codes](https://core-man.github.io/link/post/codes/)
 - [Database](https://core-man.github.io/link/post/database/)
+- [Learning](../learning/)
+- [Tools](../tools/)
+- [Institutions](../institutions/)
+- [Scientists](../scientists/)
+- [Jobs](../jobs/)
+- [NTU](../ntu/)
 
