@@ -292,12 +292,13 @@ slug: codes
 - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
     - Surface-wave two-station dispersion analysis GUI software in Matlab (What's the tomography method?)
 - [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography
-- Yingjie Yang's method
+- Yingjie Yang's method: 2D sensitivity kernel ([Yang & Forsythn, 2006, GJI](https://doi.org/10.1111/j.1365-246X.2006.02972.x), [Yang & Forsythn, 2006, JGR](https://doi.org/10.1029/2005JB004180))
 
 
 #### Ambient noise surface-wave tomography
 
-##### Measuring traveltime delay
+##### Data pre-processing and Measuring phase velocity (traveltime difference) between station pair
+
 - [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
     - [ancc](http://ciei.colorado.edu/Products/ancc-1.0-1.src.tgz): Ambient noise data processing code and database for processing: available from the CU, in C
     - [AFTAN](http://ciei.colorado.edu/Products/aftan-1.1.tgz): Automatic frequency-time analysis, in C and Fortran

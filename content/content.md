@@ -10,7 +10,7 @@ This site collects a lot of useful sites I found during my daily life and resear
 
 The links are available on [GitHub](https://github.com/core-man/link).
 
-- [Journal](../post/journals/)
+- [Journals](../post/journals/)
 - [Codes](../post/codes/)
 - [Database](../post/database/)
 - [Learning](../post/learning/)
