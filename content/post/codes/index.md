@@ -285,7 +285,7 @@ slug: codes
 - [SIMUL2000](https://www.usgs.gov/software/3d-velocity-modeling): Traveltime tomography
 
 
-### Surface-wave traveltime tomography
+### Surface-wave tomography
 
 #### Teleseismic surface-wave tomography
 
@@ -297,30 +297,24 @@ slug: codes
 
 #### Ambient noise surface-wave tomography
 
-##### Data pre-processing and Measuring phase velocity (traveltime difference) between station pair
+- Data pre-processing and measuring phase velocity (traveltime difference) between station pair
+    - [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
+        - [ancc](http://ciei.colorado.edu/Products/ancc-1.0-1.src.tgz): Ambient noise data processing code and database for processing: available from the CU, in C
+        - [AFTAN](http://ciei.colorado.edu/Products/aftan-1.1.tgz): Automatic frequency-time analysis, in C and Fortran
+    - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
+        - Ambient noise cross-correlation codes for daily long SAC format data in Matlab
+        - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
+    - [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
+    - [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
 
-- [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
-    - [ancc](http://ciei.colorado.edu/Products/ancc-1.0-1.src.tgz): Ambient noise data processing code and database for processing: available from the CU, in C
-    - [AFTAN](http://ciei.colorado.edu/Products/aftan-1.1.tgz): Automatic frequency-time analysis, in C and Fortran
-- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
-    - Ambient noise cross-correlation codes for daily long SAC format data in Matlab
-    - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
-- [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
-- [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
+- Inverting phase/group velocity maps
+    - [tomo_sp_cu_s](http://ciei.colorado.edu/Products/tomo_sp_cu_s-v1.1.tgz): Surface wave tomography based on ray theory | [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
+    - [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
+    - [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
 
-
-##### Inverting phase/group velocity maps
-
-- [tomo_sp_cu_s](http://ciei.colorado.edu/Products/tomo_sp_cu_s-v1.1.tgz): Surface wave tomography based on ray theory | [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
-- [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
-- [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
-
-
-##### One-step surface-wave traveltime tomography
-
-- [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran
-- [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
-
+- One-step surface-wave traveltime tomography
+    - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran
+    - [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
 
 
 #### Surface-wave dispersion calculation
