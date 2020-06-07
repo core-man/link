@@ -313,6 +313,9 @@ slug: codes
         - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
     - [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
     - [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
+    - [Corr_stack](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Ambient Noise Processing Tools for Phase Cross Correlation and time-frequency Phase Weighted Stack written in Fortran
+    - [PCC](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in C
+    - [PCC2](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in Python
     - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
 
 - Inverting phase/group velocity maps
@@ -349,7 +352,8 @@ slug: codes
 
 ### Rayleigh-wave HV
 
-- `TBA`
+- [DOP-E](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Rayleigh wave ellipticity, measurement and inversion from ambient noise written in Fortran and Python
+- [Quake-E](https://github.com/berbellini/Quake-E): Measure Rayleigh wave ellipticity from earthquake data written in Python
 
 
 ### Noise HVSR
@@ -465,6 +469,8 @@ slug: codes
 
 ### Single Station Signal Analysis
 
+- [Polfre](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Time-Frequency Dependent Polarization written in Fortran
+- [Station Analysis Tools](https://robporritt.wordpress.com/software): A set of c routines for computation of power spectral densities, coherence, probability density functions, and a handful of other tools for monitoring the health of a station | [iris code site](https://seiscode.iris.washington.edu/projects/station-analysis-tools)
 - [MUSTANG](http://service.iris.edu/mustang): A quality assurance system at the IRIS DMC that provides metrics pertaining to seismic data quality | [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang)
 - [IRIS DMC Noise Toolkit Products](http://ds.iris.edu/ds/products/noise-toolkit)
     - [Noise Toolkit](https://seiscode.iris.washington.edu/projects/iris-dmc-noise-toolkit)
@@ -472,7 +478,6 @@ slug: codes
         - [microseism energy](https://seiscode.iris.washington.edu/projects/noise-toolkit-microseism-energy-me-bundle): Performing microseism energy computations from PSDs
         - [Polarization attributes](https://seiscode.iris.washington.edu/projects/noise-toolkit-polarization-attributes-bundle): Performing frequency dependent polarization analysis of seismograms
 - [PQLX](https://www.usgs.gov/software/pqlx-a-software-tool-evaluate-seismic-station-performance): An open-source software system for evaluating seismic station performance and data quality
-- [Station Analysis Tools](https://robporritt.wordpress.com/software): A set of c routines for computation of power spectral densities, coherence, probability density functions, and a handful of other tools for monitoring the health of a station | [iris code site](https://seiscode.iris.washington.edu/projects/station-analysis-tools)
 - [Est_noise](https://www.usgs.gov/software/estnoise): Analyze time-series data to quantify temporal correlations and simultaneously estimate rates, offsets, and other functional dependencies.
 - Time-frequency analysis
     - [TF-SIGNAL](http://www.nuquake.eu/Computer_Codes/tfsig.htm): Computation and visualization of time-frequency representations of time signals using one or more of seven alternative methods of time-frequency analysis
@@ -483,6 +488,7 @@ slug: codes
 
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
+- [ts-PWS](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Time-scale phase weighted stacking written in C
 
 
 ### Seismic data digitization
@@ -490,7 +496,7 @@ slug: codes
 - [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html): A Digitization Software for Analog Seismograms, written in Matlab
 
 
-### Seismic data problem detection and correction
+### Seismograph problem detection and correction
 
 - [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration
 - [ATacR](https://github.com/helenjanisz/ATaCR): Automated Tilt and Compliance Removal (for ocean bottoms seismometers)
