@@ -508,6 +508,7 @@ slug: codes
 
 ### Geodecy
 
+- [Moho inversion](https://github.com/pinga-lab/paper-moho-inversion-tesseroids): Fast non-linear gravity inversion in spherical coordinates with application to the South American Moho.
 - [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
 - [SDM](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Geodetic finite-fault slip inversion based on co-seismic surface deformation data (GPS, InSAR, etc.)
 
