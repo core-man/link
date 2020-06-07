@@ -26,6 +26,7 @@ slug: database
 - [LITHO1.0](https://igppweb.ucsd.edu/~gabi/litho1.0.html): An updated crust and lithospheric model of the Earth
 - [LithoRef18](https://www.juanafonso.com/software): A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets.
 - [Age, Spreading Rates and Spreading Asymmetry of the World's Ocean Crust](http://www.earthbyte.org/Resources/agegrid2008.html): Also at [here](https://www.earthbyte.org/age-spreading-rates-and-spreading-asymmetry-of-the-worlds-ocean-crust) | [Chinese Introduction](https://blog.seisman.info/ocean-floor-crustal-age)
+- [Subduction zone initiation](https://www.szidatabase.org/)
 
 
 ## Seismic Databases and Models
@@ -221,11 +222,10 @@ slug: database
 - [NIED K-net, KiK-net](http://www.kyoshin.bosai.go.jp)
 - [Jarray](http://jarray.eri.u-tokyo.ac.jp)
 - [Southern California Seismic Network](https://www.scsn.org)
-    - [Southern California Earthquake Data Center](https://scedc.caltech.edu)
+    - [Southern California Earthquake Data Center](https://scedc.caltech.edu) | [web services](https://service.scedc.caltech.edu/)
 - [Northern California Earthquake Data Center](http://www.ncedc.org)
 - [Alaska Earthquake Information Center](http://earthquake.alaska.edu)
 - [Canadian National Seismic Network](http://www.earthquakescanada.nrcan.gc.ca/stndon/CNSN-RNSC/index-en.php)
-
 
 
 
