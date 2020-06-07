@@ -127,7 +127,9 @@ slug: codes
 
 #### Normal modes
 
-- [Mineos](https://github.com/geodynamics/mineos): Computes synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes
+- [CIG's Mineos](https://github.com/geodynamics/mineos): Computes synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes
+- [Colleen Dalton's Mineos](https://github.com/jbrussell/MINEOS): All the tools one should need to compile and run the MINEOS program, including MATLAB driver scripts.
+    - [Matlab to MINEOS](https://github.com/jbrussell/matlab_to_mineos): Wrapper scripts for running MINEOS through MATLAB.
 - [Generalized Eigenproblem Spectral Collocation](https://github.com/mdenolle/gesc)
 - [Normal modes](http://www.spice-rtn.org/library/software/Normal%20Modes.html): Normal-mode based computation of seismograms for spherically symmetric Earth models
 - [QSSP](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Calculating complete synthetic seismograms of a spherical earth using the normal mode theory
@@ -291,7 +293,7 @@ slug: codes
 
 - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
     - Surface-wave two-station dispersion analysis GUI software in Matlab (What's the tomography method?)
-- [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography
+- [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography | [code in GitHub](https://github.com/jinwar/matgsdf)
 - Two-plane wave with 2D sensitivity kernel ([Yang & Forsythn, 2006, GJI](https://doi.org/10.1111/j.1365-246X.2006.02972.x); [Yang & Forsythn, 2006, JGR](https://doi.org/10.1029/2005JB004180))
 
 
@@ -317,12 +319,17 @@ slug: codes
     - [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
 
 
-#### Surface-wave dispersion calculation
+#### Surface-wave dispersion forward calculation
 
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 - [senskernel](http://ciei.colorado.edu/Products/senskernel-1.0.tgz): Calculate sensitivity kernal of group velocity and phase velocity
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
+
+
+#### Surface-wave dispersion inversion
+
+- [dispinversion](https://github.com/jinwar/dispinversion): Surface Wave Dispersion Inversion Code written in Matlab
 
 
 ### Rayleigh-wave HV
