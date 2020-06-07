@@ -11,10 +11,10 @@ slug: tools
 ## Geophysics
 
 - IRIS Tools
-    - [IRIS DMC Web Services](http://service.iris.edu)
-    - [IRIS MetaData Aggregator](http://ds.iris.edu/mda)
-    - [IRIS DMC Google Map Service](http://ds.iris.edu/gmap)
     - [IRIS Message Center](http://ds.iris.edu/message-center)
+    - [IRIS MetaData Aggregator](http://ds.iris.edu/mda)
+    - [IRIS DMC Web Services](http://service.iris.edu)
+    - [IRIS DMC Google Map Service](http://ds.iris.edu/gmap)
 - [FDSN](http://www.fdsn.org/about)
     - [FDSN Newtork Codes](http://www.fdsn.org/networks)
     - [Data Centers Supporting FDSN Web Services](http://www.fdsn.org/datacenters)
@@ -45,11 +45,9 @@ slug: tools
 - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer): Web based tool to extract data from plots, images, and maps
 
 
-
 ## Web
 
-- [IPIP](https://en.ipip.net): The best IP database I've used
-
+- [IPIP](https://en.ipip.net): The best IP database
 
 
 ## Programming

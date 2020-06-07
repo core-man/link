@@ -14,6 +14,10 @@ slug: codes
 
 - [SOD](http://www.seis.sc.edu/sod): The best seismic data request tool | [Tutorial (in Chinese)](https://blog.seisman.info/sod-notes) | [Recipes](https://github.com/seisman/SODrecipes)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
+    - [ObsPy docs](https://github.com/obspy/docs): Some teaching materials including data request
+    - Some obspy scripts
+        - [fetch_Events](https://github.com/jbrussell/fetch_EVENTS): Download event data from IRIS-DMC
+        - [fetch_NOISE](https://github.com/jbrussell/fetch_NOISE): Download daily seismograms from the IRIS-DMC
 - [HinetPy](https://seisman.github.io/HinetPy): Request data from Hi-net server, written in Python | [Hinet notes](https://blog.seisman.info/hinet)
 - [FDSN Web Services](http://www.fdsn.org/webservices) | [Chinese note](https://blog.seisman.info/web-service-clients)
 - [IRIS DMC Web Services](http://service.iris.edu)

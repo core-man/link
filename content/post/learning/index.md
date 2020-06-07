@@ -43,10 +43,13 @@ slug: Learning
 
 - Seisman’s blog
     - [地震波形数据格式](https://blog.seisman.info/seismic-data-formats)
-    - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94)
-    - [SAC技巧](https://blog.seisman.info/tags/SAC%E6%8A%80%E5%B7%A7)
     - [SAC不同格式间的转换](https://blog.seisman.info/conversion-of-different-sac-formats)
+    - [SAC技巧](https://blog.seisman.info/tags/SAC%E6%8A%80%E5%B7%A7)
     - [调用SAC进行Hilbert变换](https://blog.seisman.info/trash/sac-hilbert-transform)
+    - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94)
+- 仪器效应
+    - [仪器效应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
+    - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
 
 
 ## Geodecy
