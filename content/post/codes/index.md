@@ -499,9 +499,9 @@ slug: codes
 
 ### Seismograph problem detection and correction
 
-- [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration
-- [ATacR](https://github.com/helenjanisz/ATaCR): Automated Tilt and Compliance Removal (for ocean bottoms seismometers)
-- [DLOPy](https://github.com/jbrussell/DLOPy_v1.0): Calculate OBS horizontal orientations based on Raleigh-wave arrival angle
+- [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration written in Matlab
+- [ATacR](https://github.com/helenjanisz/ATaCR): Automated Tilt and Compliance Removal (for ocean bottoms seismometers) written in Matlab
+- [DLOPy](https://github.com/jbrussell/DLOPy_v1.0): Calculate OBS horizontal orientations based on Raleigh-wave arrival angle written in Python
 
 
 ### Cross-correlation
