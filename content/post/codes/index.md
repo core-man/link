@@ -314,9 +314,19 @@ slug: codes
     - [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
     - [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
 
-- One-step surface-wave traveltime tomography
+- One-step surface-wave dispersion inversion
     - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran
     - [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
+
+- Other
+    - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
+
+
+
+#### Surface-wave dispersion inversion
+
+- [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+- [dispinversion](https://github.com/jinwar/dispinversion): Surface wave dispersion inversion code written in Matlab
 
 
 #### Surface-wave dispersion forward calculation
@@ -326,10 +336,10 @@ slug: codes
 - [senskernel](http://ciei.colorado.edu/Products/senskernel-1.0.tgz): Calculate sensitivity kernal of group velocity and phase velocity
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
 
+#### Surface-wave dispersion measuring
 
-#### Surface-wave dispersion inversion
+- [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode surface wave dispersion using the Linear Radon Transform (LRT) written in Matlab
 
-- [dispinversion](https://github.com/jinwar/dispinversion): Surface Wave Dispersion Inversion Code written in Matlab
 
 
 ### Rayleigh-wave HV
