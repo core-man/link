@@ -130,6 +130,7 @@ slug: codes
 - [CIG's Mineos](https://github.com/geodynamics/mineos): Computes synthetic seismograms in a spherically symmetric non-rotating Earth by summing normal modes
 - [Colleen Dalton's Mineos](https://github.com/jbrussell/MINEOS): All the tools one should need to compile and run the MINEOS program, including MATLAB driver scripts.
     - [Matlab to MINEOS](https://github.com/jbrussell/matlab_to_mineos): Wrapper scripts for running MINEOS through MATLAB.
+    - [MINEOS_synthetics](https://github.com/jbrussell/MINEOS_synthetics): Calculate dispersion tables and synthetic seismograms for layered models using MINEOS and idagrn6 housed within MATLAB wrappers
 - [Generalized Eigenproblem Spectral Collocation](https://github.com/mdenolle/gesc)
 - [Normal modes](http://www.spice-rtn.org/library/software/Normal%20Modes.html): Normal-mode based computation of seismograms for spherically symmetric Earth models
 - [QSSP](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Calculating complete synthetic seismograms of a spherical earth using the normal mode theory
@@ -308,19 +309,18 @@ slug: codes
         - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
     - [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
     - [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
+    - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
 
 - Inverting phase/group velocity maps
     - [tomo_sp_cu_s](http://ciei.colorado.edu/Products/tomo_sp_cu_s-v1.1.tgz): Surface wave tomography based on ray theory | [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
     - [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
     - [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
-
-- One-step surface-wave dispersion inversion
-    - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran
-    - [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
-
-- Other
     - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
 
+
+#### Other method to measure surface-wave dispersion
+
+- [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode surface wave dispersion using the Linear Radon Transform (LRT) written in Matlab
 
 
 #### Surface-wave dispersion inversion
@@ -329,17 +329,18 @@ slug: codes
 - [dispinversion](https://github.com/jinwar/dispinversion): Surface wave dispersion inversion code written in Matlab
 
 
+#### Surface-wave dispersion inversion
+
+- [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran
+- [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
+
+
 #### Surface-wave dispersion forward calculation
 
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 - [senskernel](http://ciei.colorado.edu/Products/senskernel-1.0.tgz): Calculate sensitivity kernal of group velocity and phase velocity
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
-
-#### Surface-wave dispersion measuring
-
-- [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode surface wave dispersion using the Linear Radon Transform (LRT) written in Matlab
-
 
 
 ### Rayleigh-wave HV
@@ -460,14 +461,14 @@ slug: codes
 
 ### Single Station Signal Analysis
 
-- [Station Analysis Tools](https://robporritt.wordpress.com/software): A set of c routines for computation of power spectral densities, coherence, probability density functions, and a handful of other tools for monitoring the health of a station | [iris code site](https://seiscode.iris.washington.edu/projects/station-analysis-tools)
 - [MUSTANG](http://service.iris.edu/mustang): A quality assurance system at the IRIS DMC that provides metrics pertaining to seismic data quality | [Tutorial](https://ds.iris.edu/ds/nodes/dmc/tutorials/getting-started-with-mustang)
-- [PQLX](https://www.usgs.gov/software/pqlx-a-software-tool-evaluate-seismic-station-performance): An open-source software system for evaluating seismic station performance and data quality
 - [IRIS DMC Noise Toolkit Products](http://ds.iris.edu/ds/products/noise-toolkit)
     - [Noise Toolkit](https://seiscode.iris.washington.edu/projects/iris-dmc-noise-toolkit)
         - [PDF-PSD](https://seiscode.iris.washington.edu/projects/noise-toolkit-pdf-psd-bundle): Computing Power Spectral Densities (PSD) of waveform data
         - [microseism energy](https://seiscode.iris.washington.edu/projects/noise-toolkit-microseism-energy-me-bundle): Performing microseism energy computations from PSDs
         - [Polarization attributes](https://seiscode.iris.washington.edu/projects/noise-toolkit-polarization-attributes-bundle): Performing frequency dependent polarization analysis of seismograms
+- [PQLX](https://www.usgs.gov/software/pqlx-a-software-tool-evaluate-seismic-station-performance): An open-source software system for evaluating seismic station performance and data quality
+- [Station Analysis Tools](https://robporritt.wordpress.com/software): A set of c routines for computation of power spectral densities, coherence, probability density functions, and a handful of other tools for monitoring the health of a station | [iris code site](https://seiscode.iris.washington.edu/projects/station-analysis-tools)
 - [Est_noise](https://www.usgs.gov/software/estnoise): Analyze time-series data to quantify temporal correlations and simultaneously estimate rates, offsets, and other functional dependencies.
 - Time-frequency analysis
     - [TF-SIGNAL](http://www.nuquake.eu/Computer_Codes/tfsig.htm): Computation and visualization of time-frequency representations of time signals using one or more of seven alternative methods of time-frequency analysis
@@ -480,10 +481,16 @@ slug: codes
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 
 
-### Seismic Data Digitization and Correction
+### Seismic data digitization
+
+- [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html): A Digitization Software for Analog Seismograms, written in Matlab
+
+
+### Seismic data problem detection and correction
 
 - [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration
-- [DigitSeis](http://www.seismology.harvard.edu/research/DigitSeis.html): A Digitization Software for Analog Seismograms, written in Matlab
+- [ATacR](https://github.com/helenjanisz/ATaCR): Automated Tilt and Compliance Removal (for ocean bottoms seismometers)
+- []()
 
 
 ### Cross-correlation
