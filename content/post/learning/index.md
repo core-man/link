@@ -48,6 +48,7 @@ slug: Learning
     - [调用SAC进行Hilbert变换](https://blog.seisman.info/trash/sac-hilbert-transform)
     - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94)
 - 地震学仪器
+    - [Instrumentation for Observational Seismology](https://www.iris.edu/hq/webinar/2020/04/instrumentation_for_observational_seismology__where_our_wiggles_come_from): Adam Ringler's talk
     - [Ocean Bottom Seismology](https://www.iris.edu/hq/webinar/2013/03/under_the_sea__ocean_bottom_seismology_for_landlubbers): Doug Wiens's talk
     - [Rotational seismology](https://www.youtube.com/watch?v=oUcVbZKRQfk): Heiner Igel's talk begins on `2:22:30`
         - [International Working Group on Rotational Seismology](http://www.rotational-seismology.org/)
@@ -56,6 +57,11 @@ slug: Learning
 - 仪器效应
     - [仪器效应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
     - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
+
+
+### 参考手册
+
+- [IRIS DMC](http://ds.iris.edu/ds/nodes/dmc/)'s [manuals](http://ds.iris.edu/ds/nodes/dmc/manuals/) and [tutorials](http://ds.iris.edu/ds/nodes/dmc/tutorials/)
 
 
 ## Geodesy

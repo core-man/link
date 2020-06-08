@@ -43,7 +43,8 @@ slug: codes
 
 ### Seismic Data Processing
 
-- [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac): The most commonly used seismic data processing software | [Chinese manual](https://seisman.github.io/SAC_Docs_zh)
+- [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac): The most commonly used seismic data processing software
+    - [Chinese manual](https://seisman.github.io/SAC_Docs_zh) (best) | [Zhigang Peng's tutorial](http://geophysics.eas.gatech.edu/classes/SAC/) | [IRIS's manual](http://ds.iris.edu/ds/nodes/dmc/manuals/sac/) | [An intro video](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
 - [GISMO](http://geoscience-community-codes.github.io/GISMO): Data download, processing and visulization software written in Matlab
 - [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl): Data download, processing and visulization software written in Julia

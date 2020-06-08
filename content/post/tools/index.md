@@ -12,7 +12,7 @@ slug: tools
 
 - IRIS Tools
     - [IRIS Message Center](http://ds.iris.edu/message-center)
-    - [IRIS MetaData Aggregator](http://ds.iris.edu/mda)
+    - [IRIS MetaData Aggregator](http://ds.iris.edu/mda) | [manual](http://ds.iris.edu/ds/nodes/dmc/manuals/mda/)
     - [IRIS DMC Web Services](http://service.iris.edu)
     - [IRIS DMC Google Map Service](http://ds.iris.edu/gmap)
 - [FDSN](http://www.fdsn.org/about)
