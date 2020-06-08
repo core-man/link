@@ -11,11 +11,17 @@ slug: institutions
 
 ## Institutions
 
+### International
+
 - [International Union of Geodesy and Geophysics (IUGG)](http://www.iugg.org): [Associations of the IUGG](http://www.iugg.org/associations)
 - [Incorporated Research Institutions for Seismology (IRIS)](https://www.iris.edu/hq)
     - [IRIS Data Services](https://ds.iris.edu/ds)
         - [IRIS Data Management Center (DMC)](https://ds.iris.edu/ds/nodes/dmc)
 - [International Seismological Centre (ISC)](http://www.isc.ac.uk)
+- [Global Earthquake Model Foundation](https://www.globalquakemodel.org)
+
+### Regional
+
 - [中国地震局](https://www.cea.gov.cn)
     - [中国地震台网中心](http://www.cenc.ac.cn)
 - [European Plate Observing System (EPOS)](https://www.epos-ip.org): [EPOS Thematic Core Services (EPOS-TCS)](https://www.epos-ip.org/thematic-core-service-index)
@@ -31,8 +37,8 @@ slug: institutions
             - [New website](https://www.usgs.gov/natural-hazards/earthquake-hazards)
             - [Old website](https://earthquake.usgs.gov/earthquakes)
                 - [Data and Products](https://earthquake.usgs.gov/data)
-- [Global Earthquake Model Foundation](https://www.globalquakemodel.org)
-
+- [Southern California Seismic Network](https://www.scsn.org): [Southern California Earthquake Data Center](https://scedc.caltech.edu)
+- [Northern California Earthquake Data Center](http://www.ncedc.org)
 
 
 ## Academic unions

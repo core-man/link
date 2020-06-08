@@ -61,13 +61,12 @@ slug: Learning
 ## Geodesy
 
 - [计算某点离海岸线的距离](https://blog.seisman.info/calculate-distance-to-coast)
-
+- [Pacific Northwest Earth Science Animations](https://www.youtube.com/playlist?list=PLngDHXr1w29SVVyip5E9bYnuCcEeL-CGw): some interesting animation about deformation at the subduction zone
 
 
 ## Physics
 
 - [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
-
 
 
 ## Programming
@@ -89,8 +88,8 @@ slug: Learning
 
 ### Collections
 
-- [CIDER Lecture Collection](http://seismo.berkeley.edu/wiki_cider/CIDER_Lecture_Collection)
 - [IRIS Webinars](https://www.iris.edu/hq/webinar/)
+- [CIDER Lecture Collection](http://seismo.berkeley.edu/wiki_cider/CIDER_Lecture_Collection)
 
 ### Course & Workshop
 
