@@ -531,10 +531,11 @@ slug: codes
 
 ### Geodecy
 
+- [Harmonica](https://www.fatiando.org/): Forward modeling, inversion, and processing gravity and magnetic data
 - [Moho inversion](https://github.com/pinga-lab/paper-moho-inversion-tesseroids): Fast non-linear gravity inversion in spherical coordinates with application to the South American Moho.
-- [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
 - [GRAV3D](https://grav3d.readthedocs.io/en/latest/index.html): Forward modelling and inversion of surface, borehole, and airborne gravity data in 3D
 - [SDM](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Geodetic finite-fault slip inversion based on co-seismic surface deformation data (GPS, InSAR, etc.)
+- [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
 
 
 ### Geophysics
@@ -572,16 +573,21 @@ slug: codes
 ### Seismic Library
 
 - [William Menke's codes](https://www.ldeo.columbia.edu/users/menke/software.html)
-- [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): some python scripts used in seismology
-- [uOttawa Geophysics](https://www.uogeophysics.com/#software): some seismic softwares by geophysics group at University of Ottawa
+- [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): Some python scripts used in seismology
+- [uOttawa Geophysics](https://www.uogeophysics.com/#software): Some seismic softwares by geophysics group at University of Ottawa
 - [Seismic waves in complex 3D structures](http://seis.karlov.mff.cuni.cz/)
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that provides a framework for manipulation of SEED data records
+
+
+### Geophysical Library
+
+- [Fatiando](https://www.fatiando.org/): Open-source Python tools for geophysics
+    - [fatiando package](https://www.fatiando.org/v0.5/): An open-source Python library for modeling and inversion in geophysics. Its development has been stoped in favor of [new libraries](https://www.fatiando.org/#projects).
 
 
 ### Matlab Library
 
 - [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware)
-
 
 
 ### Other Library
