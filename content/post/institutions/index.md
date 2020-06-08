@@ -45,16 +45,16 @@ slug: institutions
 
 - [International Union of Geodesy and Geophysics](http://iugg.org)
     - [International Association of Seismology and Physics of the Earth's Interior (IASPEI)](http://www.iaspei.org)
+    - [Study of the Earth's Deep Interior](https://hope.simons-rock.edu/~bergman/sedi/index.html)
 - [American Geophysical Union (AGU)](https://www.agu.org)
 - [European Geosciences Union](https://www.egu.eu)
-
 
 
 ## Academic communities
 
 - [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org)
 - [Cooperative Institute for Dynamic Earth Research (CIDER)](https://www.deep-earth.org/index)
-
+- [Gordon Research Conferences](https://www.grc.org/find-a-conference/)
 
 
 ## Academic Medias
@@ -64,7 +64,6 @@ slug: institutions
 - [ORCID](https://orcid.org): A persistent digital identifier for researcher
 - [Publons](https://publons.com/about/home): Your publications, citation metrics, peer reviews and journal editing work, in one place
 - [Scopus](https://www.scopus.com/home.uri): The largest abstract and citation database of peer-reviewed literature
-
 
 
 ## Revision history

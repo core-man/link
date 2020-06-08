@@ -19,6 +19,7 @@ slug: Learning
 - [Emile A. Okal’s notes](https://www.earth.northwestern.edu/individ/emile/462.Spring16)
 - [William Menke’s research notes 1977-present](https://www.ldeo.columbia.edu/users/menke/research_notes/index.html)
 - [Lupei Zhu’s research notes](https://docplayer.net/62058516-Synthetic-seismograms-and-seismic-waveform-modeling-lupei-zhu-saint-louis-university.html)
+- [Community Online Resource for Statistical Seismicity Analysis](http://www.corssa.org/en/home/)
 
 
 ### 地震学物理量
