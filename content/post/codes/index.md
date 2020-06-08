@@ -509,6 +509,11 @@ slug: codes
 - [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
 
 
+### Some interesting tools
+
+- [datamovies](https://github.com/jbrussell/datamovies): a couple of demo codes for sonifying data
+
+
 ---------------------
 ## Geosciences
 
