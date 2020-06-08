@@ -199,7 +199,7 @@ slug: codes
 - [AxiSEM3D](https://github.com/kuangdai/AxiSEM3D)
 - [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html): Nodal Discontinuous Galerkin Method | [1D](https://github.com/seismology-RUB/NEXD-1D) | [2D](https://github.com/seismology-RUB/NEXD-2D) | [3D](https://github.com/seismology-RUB/NEXD-3D)
 - [2DSPEC](http://www.spice-rtn.org/library/software/2DSPEC.html): A parallel/serial 2d spectral element code for wave propagation and rupture dynamics
-- [sem2dpack](http://www.spice-rtn.org/library/software/sem2dpack.html): A spectral element package for 2D wave propagation and earthquake rupture dynamics
+- [sem2dpack](https://github.com/jpampuero/sem2dpack): A spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics.
 
 
 ### Discontinuous Galerkin Method
@@ -421,7 +421,7 @@ slug: codes
     - [LitMod_T](https://www.juanafonso.com/software): the "transient" equivalent of LitMod_2D
     - [LitMod_3D](https://www.juanafonso.com/software): 3D integrated geophysical-petrological interactive forward modelling of the lithosphere and underlying upper mantle | new version in [Github](https://github.com/javfurchu/litmod)
     - [LitMod_4INV](https://www.juanafonso.com/software): A fully nonlinear probabilistic inversion code in spherical coordinates for the compositional and thermal structure of the lithosphere and upper mantle, simultaneously inverting gravity gradients, gravity anomalies, geoid height, surface heat flow, magnetotelluric data, receiver functions, surface-wave data, absolute elevation (including both static and dynamic effects) and body-wave data, together with petrological information.
-
+- [Weisen Shen](https://www.stonybrook.edu/commcms/geosciences/people/_faculty/shen.php)'s MCMC inversion [code](http://weisen.wustl.edu/For_Comrades/for_self/PKU_Workshop/) for a workshop in Peking University in 2017.
 
 
 ### Full Waveform Inversion
