@@ -199,7 +199,7 @@ slug: codes
 - [AxiSEM3D](https://github.com/kuangdai/AxiSEM3D)
 - [NEXD](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/nexd.html): Nodal Discontinuous Galerkin Method | [1D](https://github.com/seismology-RUB/NEXD-1D) | [2D](https://github.com/seismology-RUB/NEXD-2D) | [3D](https://github.com/seismology-RUB/NEXD-3D)
 - [2DSPEC](http://www.spice-rtn.org/library/software/2DSPEC.html): A parallel/serial 2d spectral element code for wave propagation and rupture dynamics
-- [sem2dpack](http://www.spice-rtn.org/library/software/sem2dpack.html): A spectral element package for 2D wave propagation and earthquake rupture dynamics
+- [sem2dpack](https://github.com/jpampuero/sem2dpack): A spectral element method for 2D wave propagation and fracture dynamics, with emphasis on computational seismology and earthquake source dynamics.
 
 
 ### Discontinuous Galerkin Method
@@ -417,11 +417,11 @@ slug: codes
 ### Multi-observable Modelling of Geophysical Data
 
 - [LitMod](https://www.juanafonso.com/software): Multi-observable modelling of geophysical data
-    - [LitMod_2D](https://www.juanafonso.com/software): An interactive software to perform multi-observable modelling of geophysical data for 2D whole lithospheric structure of the Earth and/or other terrestrial planets
+    - [LitMod_2D](https://www.juanafonso.com/software): An interactive software to perform multi-observable forward modelling of geophysical data for 2D whole lithospheric structure of the Earth and/or other terrestrial planets | new version in [Github](https://github.com/ajay6763/LitMod2D_2.0_package_dist_users)
     - [LitMod_T](https://www.juanafonso.com/software): the "transient" equivalent of LitMod_2D
-    - [LitMod_3D](https://www.juanafonso.com/software): A 3D version LitMod | [Github code](https://github.com/javfurchu/litmod)
-    - [LitMod_4INV](https://www.juanafonso.com/software): A fully nonlinear probabilistic inversion code(s) in spherical coordinates for the compositional and thermal structure of the lithosphere and upper mantle, simultaneously inverting gravity gradients, gravity anomalies, geoid height, surface heat flow, magnetotelluric data, receiver functions, surface-wave data, absolute elevation (including both static and dynamic effects) and body-wave data, together with petrological information.
-
+    - [LitMod_3D](https://www.juanafonso.com/software): 3D integrated geophysical-petrological interactive forward modelling of the lithosphere and underlying upper mantle | new version in [Github](https://github.com/javfurchu/litmod)
+    - [LitMod_4INV](https://www.juanafonso.com/software): A fully nonlinear probabilistic inversion code in spherical coordinates for the compositional and thermal structure of the lithosphere and upper mantle, simultaneously inverting gravity gradients, gravity anomalies, geoid height, surface heat flow, magnetotelluric data, receiver functions, surface-wave data, absolute elevation (including both static and dynamic effects) and body-wave data, together with petrological information.
+- [Weisen Shen](https://www.stonybrook.edu/commcms/geosciences/people/_faculty/shen.php)'s MCMC inversion [code](http://weisen.wustl.edu/For_Comrades/for_self/PKU_Workshop/) for a workshop in Peking University in 2017.
 
 
 ### Full Waveform Inversion
@@ -515,10 +515,9 @@ slug: codes
 - [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
 
 
-### Some interesting tools
+### Interesting tools
 
 - [datamovies](https://github.com/jbrussell/datamovies): a couple of demo codes for sonifying data
-- [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data): IRIS webinar
 
 
 ---------------------
@@ -529,11 +528,18 @@ slug: codes
 - [GPlates](https://www.earthbyte.org/category/gplates): A desktop software for the interactive visualisation of plate-tectonics
 
 
-### Geodecy
+### Geodesy
 
+#### Gravity
+
+- [Harmonica](https://www.fatiando.org/): Forward modeling, inversion, and processing gravity and magnetic data
 - [Moho inversion](https://github.com/pinga-lab/paper-moho-inversion-tesseroids): Fast non-linear gravity inversion in spherical coordinates with application to the South American Moho.
-- [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
 - [GRAV3D](https://grav3d.readthedocs.io/en/latest/index.html): Forward modelling and inversion of surface, borehole, and airborne gravity data in 3D
+- [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
+
+#### GPS & InSAR
+
+- [GMTSAR](https://topex.ucsd.edu/gmtsar/): An InSAR processing system based on GMT
 - [SDM](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Geodetic finite-fault slip inversion based on co-seismic surface deformation data (GPS, InSAR, etc.)
 
 
@@ -542,6 +548,10 @@ slug: codes
 - [distaz](http://www.seis.sc.edu/software/distaz): Classic codes to calculate distance, azimuth and back-azimuth of any two points at the Earth's surface | [Chinese note](https://blog.seisman.info/calculate-dist-az-baz)
 - [AFAT](http://cpc.cs.qub.ac.uk/summaries/AFAT_v1_0.html): Solving the Christoffel equation: phase and group velocities
 - [PlateFlex](https://paudetseis.github.io/PlateFlex/): Estimate lithosphere elstatic thickness written in Python and Fortran
+
+### Interesting tools
+
+- [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data): IRIS webinar
 
 
 ## Inversion
@@ -571,17 +581,26 @@ slug: codes
 
 ### Seismic Library
 
+- [uOttawa Geophysics](https://www.uogeophysics.com/#software): Some seismic softwares by geophysics group at University of Ottawa
+- [GPIAG-Software](https://git.scc.kit.edu/GPIAG-Software): Software developed in the working group: [applied geophysics at the geophysical institut of the KIT (Karlsruhe Institute of Technology)](https://www.gpi.kit.edu/english/AppliedGeophysics.php)
 - [William Menke's codes](https://www.ldeo.columbia.edu/users/menke/software.html)
-- [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): some python scripts used in seismology
-- [uOttawa Geophysics](https://www.uogeophysics.com/#software): some seismic softwares by geophysics group at University of Ottawa
+- [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): Some python scripts used in seismology
 - [Seismic waves in complex 3D structures](http://seis.karlov.mff.cuni.cz/)
+- [pyrocko](https://pyrocko.org/): an open source seismology toolbox and library written in the Python
+- [seisan](http://www.seisan.info/): SeisAn Earthquake analysis software
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that provides a framework for manipulation of SEED data records
+
+
+### Geophysical Library
+
+- [Fatiando](https://www.fatiando.org/): Open-source Python tools for geophysics
+    - [fatiando package](https://www.fatiando.org/v0.5/): An open-source Python library for modeling and inversion in geophysics. Its development has been stoped in favor of [new libraries](https://www.fatiando.org/#projects).
+- [softwares in UNAVCO](https://www.unavco.org/software/software.html): softwares used in Geodesy studies.
 
 
 ### Matlab Library
 
 - [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware)
-
 
 
 ### Other Library
@@ -604,7 +623,7 @@ slug: codes
 - [USC Software](http://www.seis.sc.edu/software.html)
 - [ETH Seismology and Geodynamics](https://seg.ethz.ch/software.html)
 - [GPIAG-Software](https://git.scc.kit.edu/GPIAG-Software)
-- [GFZ software](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/data-products-services/downloads-software)
+- [GFZ software](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
 - [EarthByte software](https://www.earthbyte.org/category/resources/software-workflows)
 
 
