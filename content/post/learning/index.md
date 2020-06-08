@@ -47,12 +47,18 @@ slug: Learning
     - [SAC技巧](https://blog.seisman.info/tags/SAC%E6%8A%80%E5%B7%A7)
     - [调用SAC进行Hilbert变换](https://blog.seisman.info/trash/sac-hilbert-transform)
     - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94)
+- 地震学仪器
+    - [Ocean Bottom Seismology](https://www.iris.edu/hq/webinar/2013/03/under_the_sea__ocean_bottom_seismology_for_landlubbers): Doug Wiens's talk
+    - [Rotational seismology](https://www.youtube.com/watch?v=oUcVbZKRQfk): Heiner Igel's talk begins on `2:22:30`
+        - [International Working Group on Rotational Seismology](http://www.rotational-seismology.org/)
+        - [Jupyter Notebooks](http://www.seismo-live.org/)
+    - [Fiber-optic Seismology](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice): Nate Lindsey's talk
 - 仪器效应
     - [仪器效应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
     - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
 
 
-## Geodecy
+## Geodesy
 
 - [计算某点离海岸线的距离](https://blog.seisman.info/calculate-distance-to-coast)
 
@@ -81,9 +87,15 @@ slug: Learning
 
 ## Lectures
 
+### Collections
+
 - [CIDER Lecture Collection](http://seismo.berkeley.edu/wiki_cider/CIDER_Lecture_Collection)
 - [IRIS Webinars](https://www.iris.edu/hq/webinar/)
+
+### Course & Workshop
+
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
+- [Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 - [Southern University of Science and Technology 2019 Workshop (password: SUSTech2019)](https://owncloud.sustc.edu.cn/s/aF4ZK5C5SoLcejj)
 
 
