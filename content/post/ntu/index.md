@@ -36,6 +36,7 @@ slug: ntu
 - [NTU email](http://outlook.com/owa/e.ntu.edu.sg)
 - [NTU Libraries Facilities Booking System](https://ntupcb.ntu.edu.sg/fbscbs/Account/SignIn?ReturnUrl=%2ffbscbs)
 - [NTU-Subscribed Articles](https://www.ntu.edu.sg/library/About_NTULibrary/Pages/Tools.aspx)
+- [DR-NTU (data)](https://researchdata.ntu.edu.sg/): Deposit, archive and share your final research data
 - [NTU Academic Calendar](https://www.ntu.edu.sg/sasd/oas/AcademicCalendar/Pages/index.aspx)
 - [NTU Intranet Search](https://ts.ntu.edu.sg/sites/search)
 - [NTU Transportation](http://www.ntu.edu.sg/has/Transportation/Pages/GettingAroundNTU.aspx)
