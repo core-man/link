@@ -533,6 +533,7 @@ slug: codes
 
 - [Moho inversion](https://github.com/pinga-lab/paper-moho-inversion-tesseroids): Fast non-linear gravity inversion in spherical coordinates with application to the South American Moho.
 - [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
+- [GRAV3D](https://grav3d.readthedocs.io/en/latest/index.html): Forward modelling and inversion of surface, borehole, and airborne gravity data in 3D
 - [SDM](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Geodetic finite-fault slip inversion based on co-seismic surface deformation data (GPS, InSAR, etc.)
 
 
@@ -541,6 +542,19 @@ slug: codes
 - [distaz](http://www.seis.sc.edu/software/distaz): Classic codes to calculate distance, azimuth and back-azimuth of any two points at the Earth's surface | [Chinese note](https://blog.seisman.info/calculate-dist-az-baz)
 - [AFAT](http://cpc.cs.qub.ac.uk/summaries/AFAT_v1_0.html): Solving the Christoffel equation: phase and group velocities
 - [PlateFlex](https://paudetseis.github.io/PlateFlex/): Estimate lithosphere elstatic thickness written in Python and Fortran
+
+
+## Inversion
+
+### Monte Carlo methods
+
+- [MCMC codes](http://helios.fmi.fi/~lainema/): some MCMC codes written by Marko Laine
+- [Delayed Rejection Adaptive Metropolis (DRAM) in Fortran](https://www.juanafonso.com/software): A simple teaching code in Fortran of the DRAM method
+- [rj-MCMC](http://www.iearth.org.au/codes/rj-MCMC): A library providing routines for running Reversible Jump Monte-Carlo Markov chains for 1-D and 2-D spatial regression problems
+- [emcee](https://emcee.readthedocs.io/en/stable/): Affine Invariant Markov chain Monte Carlo (MCMC) Ensemble sampler
+- [Malcolm Sambridge's softwares](http://rses.anu.edu.au/~malcolm/_pages/Research)
+    - [Neighbourhood Algorithm](http://rses.anu.edu.au/~malcolm/na/na.html) | [Neighbourhood Algorithm at iEarth](http://www.iearth.org.au/codes/NA)
+    - [Natural Neighbours](http://rses.anu.edu.au/geodynamics/nn/nn.html)
 
 
 ---------------
@@ -553,11 +567,6 @@ slug: codes
 - [SEISCOPE TOOLBOX](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=fr): Seiscope optimization toolbox
 - [Parameter Estimation and Inverse Problems Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode): a compilation of inverse and parameter estimation code that accompanies the second edition of the textbook "Parameter Estimation and Inverse Problems"
 - [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html)
-- [Delayed Rejection Adaptive Metropolis (DRAM) in Fortran](https://www.juanafonso.com/software): A simple teaching code in Fortran of the DRAM method
-- [rj-MCMC](http://www.iearth.org.au/codes/rj-MCMC): A library providing routines for running Reversible Jump Monte-Carlo Markov chains for 1-D and 2-D spatial regression problems
-- [Malcolm Sambridge's softwares](http://rses.anu.edu.au/~malcolm/_pages/Research)
-    - [Neighbourhood Algorithm](http://rses.anu.edu.au/~malcolm/na/na.html) | [Neighbourhood Algorithm at iEarth](http://www.iearth.org.au/codes/NA)
-    - [Natural Neighbours](http://rses.anu.edu.au/geodynamics/nn/nn.html)
 
 
 ### Seismic Library

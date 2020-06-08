@@ -83,6 +83,11 @@ slug: Learning
     - [Mechanics of Materials](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw/playlists)
 
 
+## 数学
+
+- [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
+
+
 ## Programming
 
 - [判断字节序的多种方法](https://blog.seisman.info/linux-endian)
