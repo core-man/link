@@ -106,6 +106,7 @@ slug: codes
 - [fk](http://www.eas.slu.edu/People/LZhu/home.html): Calculate synthetic seismograms in layered isotropic models, using frequency-wavenumber method | [Chinese introduction](https://blog.seisman.info/fk-notes) | [Intall fk](https://blog.seisman.info/fk-install)
 - [QSEIS](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Calculating synthetic seismograms based on a layered viscoelastic half-space earth model
 - [Reflectivity method](http://www.spice-rtn.org/library/software/ERZSOL3.html): Calculating the response of a layered uniform solid layers to excitation by a point moment tensor source using the reflectivity method
+- [telewavesim](https://paudetseis.github.io/Telewavesim/): Calculate teleseismic body-wave synthetics using the matrix propagator method written in Python and Fortran
 
 
 #### Wavenumber integration (Another name is discrete wavenumber?)
@@ -383,6 +384,7 @@ slug: codes
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
+- [RfPy](https://paudetseis.github.io/RfPy/): Calculating teleseismic receiver function in Python
 - [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic RF in two-dimensional localized hetergeneous structures based on PSV Hybrid method (GRT-FD).
 
 
@@ -446,6 +448,7 @@ slug: codes
 - [multisplit](https://github.com/ftilmann/multisplit): Shear-wave birefringence analysis code
 - [SHEBA](https://github.com/jwookey/sheba): Shear-wave birefringence analysis code
 - [SplitRacer](http://www.geophysik.uni-frankfurt.de/64002762/Software): Shear-wave splitting analysis written in Matlab
+- [SplitPy](https://paudetseis.github.io/SplitPy/): Teleseismic shear-wave (SKS) Splitting Toolbox written in Python
 
 
 #### Imaging of Earth interior
@@ -498,9 +501,11 @@ slug: codes
 
 ### Seismograph problem detection and correction
 
+- [OrientPy](https://nfsi-canada.github.io/OrientPy/): Estimate seismometer orientation written in Python
+- [DLOPy](https://github.com/jbrussell/DLOPy_v1.0): Calculate OBS horizontal orientations based on Raleigh-wave arrival angle written in Python
 - [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration written in Matlab
 - [ATacR](https://github.com/helenjanisz/ATaCR): Automated Tilt and Compliance Removal (for ocean bottoms seismometers) written in Matlab
-- [DLOPy](https://github.com/jbrussell/DLOPy_v1.0): Calculate OBS horizontal orientations based on Raleigh-wave arrival angle written in Python
+- [OBStools](https://nfsi-canada.github.io/OBStools/): Removing vertical component noise from tilt and compliance effects written in Python
 
 
 ### Cross-correlation
@@ -533,7 +538,7 @@ slug: codes
 
 - [distaz](http://www.seis.sc.edu/software/distaz): Classic codes to calculate distance, azimuth and back-azimuth of any two points at the Earth's surface | [Chinese note](https://blog.seisman.info/calculate-dist-az-baz)
 - [AFAT](http://cpc.cs.qub.ac.uk/summaries/AFAT_v1_0.html): Solving the Christoffel equation: phase and group velocities
-
+- [PlateFlex](https://paudetseis.github.io/PlateFlex/): Estimate lithosphere elstatic thickness written in Python and Fortran
 
 
 ---------------
@@ -556,7 +561,9 @@ slug: codes
 ### Seismic Library
 
 - [William Menke's codes](https://www.ldeo.columbia.edu/users/menke/software.html)
-- [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/)
+- [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): some python scripts used in seismology
+- [uOttawa Geophysics](https://www.uogeophysics.com/#software): some seismic softwares by geophysics group at University of Ottawa
+- [Seismic waves in complex 3D structures](http://seis.karlov.mff.cuni.cz/)
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that provides a framework for manipulation of SEED data records
 
 
