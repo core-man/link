@@ -69,7 +69,7 @@ slug: Learning
 ## Geodesy
 
 - [计算某点离海岸线的距离](https://blog.seisman.info/calculate-distance-to-coast)
-- [Pacific Northwest Earth Science Animations](https://www.youtube.com/playlist?list=PLngDHXr1w29SVVyip5E9bYnuCcEeL-CGw): some interesting animation about deformation at the subduction zone
+- [Pacific Northwest Earth Science Animations](https://www.youtube.com/playlist?list=PLngDHXr1w29SVVyip5E9bYnuCcEeL-CGw): 俯冲带变形过程的卡通描述
 
 
 ## Physics
