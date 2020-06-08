@@ -587,6 +587,7 @@ slug: codes
 - [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): Some python scripts used in seismology
 - [Seismic waves in complex 3D structures](http://seis.karlov.mff.cuni.cz/)
 - [pyrocko](https://pyrocko.org/): an open source seismology toolbox and library written in the Python
+- [seisan](http://www.seisan.info/): SeisAn Earthquake analysis software
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that provides a framework for manipulation of SEED data records
 
 
@@ -622,7 +623,7 @@ slug: codes
 - [USC Software](http://www.seis.sc.edu/software.html)
 - [ETH Seismology and Geodynamics](https://seg.ethz.ch/software.html)
 - [GPIAG-Software](https://git.scc.kit.edu/GPIAG-Software)
-- [GFZ software](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/data-products-services/downloads-software)
+- [GFZ software](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
 - [EarthByte software](https://www.earthbyte.org/category/resources/software-workflows)
 
 
