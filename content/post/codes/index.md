@@ -417,10 +417,10 @@ slug: codes
 ### Multi-observable Modelling of Geophysical Data
 
 - [LitMod](https://www.juanafonso.com/software): Multi-observable modelling of geophysical data
-    - [LitMod_2D](https://www.juanafonso.com/software): An interactive software to perform multi-observable modelling of geophysical data for 2D whole lithospheric structure of the Earth and/or other terrestrial planets
+    - [LitMod_2D](https://www.juanafonso.com/software): An interactive software to perform multi-observable forward modelling of geophysical data for 2D whole lithospheric structure of the Earth and/or other terrestrial planets | new version in [Github](https://github.com/ajay6763/LitMod2D_2.0_package_dist_users)
     - [LitMod_T](https://www.juanafonso.com/software): the "transient" equivalent of LitMod_2D
-    - [LitMod_3D](https://www.juanafonso.com/software): A 3D version LitMod | [Github code](https://github.com/javfurchu/litmod)
-    - [LitMod_4INV](https://www.juanafonso.com/software): A fully nonlinear probabilistic inversion code(s) in spherical coordinates for the compositional and thermal structure of the lithosphere and upper mantle, simultaneously inverting gravity gradients, gravity anomalies, geoid height, surface heat flow, magnetotelluric data, receiver functions, surface-wave data, absolute elevation (including both static and dynamic effects) and body-wave data, together with petrological information.
+    - [LitMod_3D](https://www.juanafonso.com/software): 3D integrated geophysical-petrological interactive forward modelling of the lithosphere and underlying upper mantle | new version in [Github](https://github.com/javfurchu/litmod)
+    - [LitMod_4INV](https://www.juanafonso.com/software): A fully nonlinear probabilistic inversion code in spherical coordinates for the compositional and thermal structure of the lithosphere and upper mantle, simultaneously inverting gravity gradients, gravity anomalies, geoid height, surface heat flow, magnetotelluric data, receiver functions, surface-wave data, absolute elevation (including both static and dynamic effects) and body-wave data, together with petrological information.
 
 
 
