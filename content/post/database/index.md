@@ -22,6 +22,7 @@ slug: database
     - Reference Earth models
     - Earth models
     - Visualization tools
+- [Earth Models](http://www.earthmodels.org/): a platform to store and exchange modeling tools and data sets related to the Earth
 - [Crust1.0](https://igppweb.ucsd.edu/~gabi/crust1.html) | [Chinese Introduction](https://blog.seisman.info/crust1): A New Global Crustal Model at 1x1 Degrees
 - [LITHO1.0](https://igppweb.ucsd.edu/~gabi/litho1.0.html): An updated crust and lithospheric model of the Earth
 - [LithoRef18](https://www.juanafonso.com/software): A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets.
@@ -136,6 +137,7 @@ slug: database
 
 ## Geotherm
 
+- [Global temperature datasets](https://www.nodc.noaa.gov/General/temperature.html)
 - [TC1](http://www.lithosphere.info/downloads.html): Global thermal model for the continental lithosphere
 - Heat flow
     - [Global heat flow database](https://ihfc-iugg.org/products/global-heat-flow-database)
