@@ -58,6 +58,14 @@ slug: Learning
     - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
 
 
+### 连续介质力学
+
+- 卡通解释
+    - [Malleable And Ductile](https://www.youtube.com/watch?v=99DQdM29ib8)
+    - [Behaviour of Springs and Materials](https://www.youtube.com/playlist?list=PLlDtVvefFYT8h1s5owifl85J92_9ulwYg)
+    - [Mechanics of Materials](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw/playlists)
+
+
 ## Geodesy
 
 - [计算某点离海岸线的距离](https://blog.seisman.info/calculate-distance-to-coast)
