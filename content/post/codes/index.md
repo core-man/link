@@ -563,6 +563,7 @@ slug: codes
 - [MCMC codes](http://helios.fmi.fi/~lainema/): some MCMC codes written by Marko Laine
 - [Delayed Rejection Adaptive Metropolis (DRAM) in Fortran](https://www.juanafonso.com/software): A simple teaching code in Fortran of the DRAM method
 - [rj-MCMC](http://www.iearth.org.au/codes/rj-MCMC): A library providing routines for running Reversible Jump Monte-Carlo Markov chains for 1-D and 2-D spatial regression problems
+- [rjmcmc](https://cran.r-project.org/web/packages/rjmcmc/index.html): Reversible-Jump MCMC Using Post-Processing written in R
 - [emcee](https://emcee.readthedocs.io/en/stable/): Affine Invariant Markov chain Monte Carlo (MCMC) Ensemble sampler
 - [Malcolm Sambridge's softwares](http://rses.anu.edu.au/~malcolm/_pages/Research)
     - [Neighbourhood Algorithm](http://rses.anu.edu.au/~malcolm/na/na.html) | [Neighbourhood Algorithm at iEarth](http://www.iearth.org.au/codes/NA)
@@ -579,6 +580,7 @@ slug: codes
 - [SEISCOPE TOOLBOX](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=fr): Seiscope optimization toolbox
 - [Parameter Estimation and Inverse Problems Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode): a compilation of inverse and parameter estimation code that accompanies the second edition of the textbook "Parameter Estimation and Inverse Problems"
 - [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html)
+- [The Comprehensive R Archive Network](https://cran.r-project.org/)
 
 
 ### Seismic Library
