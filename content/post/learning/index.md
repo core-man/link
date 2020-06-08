@@ -57,6 +57,7 @@ slug: Learning
 - 仪器效应
     - [仪器效应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
     - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
+    - [IRIS DMC Library of Nominal Responses for Seismic Instruments](http://ds.iris.edu/NRL/)
 
 
 ### 参考手册

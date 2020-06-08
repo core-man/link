@@ -42,6 +42,7 @@ slug: tools
 - [cpdf](https://blog.seisman.info/cpdf): Trans-platform PDF process tookit
 - [PDFtk](https://blog.seisman.info/pdftk): Trans-platform PDF process tookit
 - [ImageMagick convert](https://blog.seisman.info/imagemagick-convert)
+- [Logoly](https://www.logoly.pro/#/): A Simple Online Logo Generator
 - [WebPlotDigitizer](https://automeris.io/WebPlotDigitizer): Web based tool to extract data from plots, images, and maps
 
 
