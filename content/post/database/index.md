@@ -67,7 +67,10 @@ slug: database
     - [IRIS EMC](http://ds.iris.edu/ds/products/emc-referencemodels): IRIS EMC - Reference Earth Models
     - AK135: [model, travletime tables, plots and software](http://rses.anu.edu.au/seismology/ak135/intro.html) | [traveltime tables and ellipticity corrections](http://rses.anu.edu.au/seismology/AK135tables.pdf) with the ellipticity correction method for iasp91
 - [3D shear-wave velocity models from CU-Boulder](http://ciei.colorado.edu/Models)
-- [Global 3-D Seismic Tomography](https://www-gs.llnl.gov/nuclear-threat-reduction/nuclear-explosion-monitoring/global-3d-seismic-tomography)
+- 3D body-wave tomographic models
+    - [Global 3-D Seismic Tomography](https://www-gs.llnl.gov/nuclear-threat-reduction/nuclear-explosion-monitoring/global-3d-seismic-tomography)
+    - [GAP_P4](http://www.jamstec.go.jp/pacific21/google_earth/en/kmlgenerator/tomography.html)
+    - [UU-P07](http://www.atlas-of-the-underworld.org/uu-p07-model/)
 - Slab
     - [Slab1.0](https://earthquake.usgs.gov/data/slab/index.php)
     - [Slab2](https://github.com/usgs/slab2): [Interactive Map](https://usgs.maps.arcgis.com/apps/webappviewer/index.html?id=de81616029224bf699813ef7941a2ee0) | [Slab2 model](https://cmerwebmap.cr.usgs.gov/catalog/item/5aa1b00ee4b0b1c392e86467)
