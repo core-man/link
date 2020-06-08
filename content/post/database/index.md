@@ -28,6 +28,7 @@ slug: database
 - [LithoRef18](https://www.juanafonso.com/software): A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets.
 - [Age, Spreading Rates and Spreading Asymmetry of the World's Ocean Crust](http://www.earthbyte.org/Resources/agegrid2008.html): Also at [here](https://www.earthbyte.org/age-spreading-rates-and-spreading-asymmetry-of-the-worlds-ocean-crust) | [Chinese Introduction](https://blog.seisman.info/ocean-floor-crustal-age)
 - [Subduction zone initiation](https://www.szidatabase.org/)
+- [Ben Horner-Johnson's GMT & Geophysics Links](http://www.ruf.rice.edu/~ben/gmt.html)
 
 
 ## Seismic Databases and Models
