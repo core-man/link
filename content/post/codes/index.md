@@ -581,10 +581,12 @@ slug: codes
 
 ### Seismic Library
 
+- [uOttawa Geophysics](https://www.uogeophysics.com/#software): Some seismic softwares by geophysics group at University of Ottawa
+- [GPIAG-Software](https://git.scc.kit.edu/GPIAG-Software): Software developed in the working group: [applied geophysics at the geophysical institut of the KIT (Karlsruhe Institute of Technology)](https://www.gpi.kit.edu/english/AppliedGeophysics.php)
 - [William Menke's codes](https://www.ldeo.columbia.edu/users/menke/software.html)
 - [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): Some python scripts used in seismology
-- [uOttawa Geophysics](https://www.uogeophysics.com/#software): Some seismic softwares by geophysics group at University of Ottawa
 - [Seismic waves in complex 3D structures](http://seis.karlov.mff.cuni.cz/)
+- [pyrocko](https://pyrocko.org/): an open source seismology toolbox and library written in the Python
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that provides a framework for manipulation of SEED data records
 
 
