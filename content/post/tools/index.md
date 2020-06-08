@@ -15,6 +15,8 @@ slug: tools
     - [IRIS MetaData Aggregator](http://ds.iris.edu/mda) | [manual](http://ds.iris.edu/ds/nodes/dmc/manuals/mda/)
     - [IRIS DMC Web Services](http://service.iris.edu)
     - [IRIS DMC Google Map Service](http://ds.iris.edu/gmap)
+    - [IRIS Seismic Monitor](http://ds.iris.edu/seismon/index.phtml)
+    - [IRIS Station Monitor](https://www.iris.edu/app/station_monitor/)
 - [FDSN](http://www.fdsn.org/about)
     - [FDSN Newtork Codes](http://www.fdsn.org/networks)
     - [Data Centers Supporting FDSN Web Services](http://www.fdsn.org/datacenters)

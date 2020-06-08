@@ -201,6 +201,11 @@ slug: database
 - [SLU Moment Tensor Solutions](http://www.eas.slu.edu/eqc/eqcmt.html)
 
 
+### Special earthquakes
+
+- [World Tremor Database](http://www-solid.eps.s.u-tokyo.ac.jp/~idehara/wtd0/Welcome.html)
+- [Slow Earthquake Database](http://www-solid.eps.s.u-tokyo.ac.jp/~sloweq/)
+
 
 ## Arrival Time/Phase Data
 
@@ -210,8 +215,6 @@ slug: database
     - [JMA Arrival Time Data](http://www.data.jma.go.jp/svd/eqev/data/bulletin/deck_e.html): Arrival time data based on the Seismological Bulletin of Japan
 - [中国台网震相数据](http://data.earthquake.cn/data/datashare_weekphase_query.jsp)
 - [中国国家台网震相数据](http://data.earthquake.cn/data/csn24_phase_p001_new.jsp)
-
-
 
 
 ## Networks/Waveforms
