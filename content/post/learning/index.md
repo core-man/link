@@ -72,9 +72,9 @@ slug: Learning
 - [Pacific Northwest Earth Science Animations](https://www.youtube.com/playlist?list=PLngDHXr1w29SVVyip5E9bYnuCcEeL-CGw): 俯冲带变形过程的卡通描述
 
 
-## Physics
+## Geology
 
-- [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
+- [Geology Cafe](http://geologycafe.com/)
 
 
 ## 连续介质力学
@@ -85,9 +85,23 @@ slug: Learning
     - [Mechanics of Materials](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw/playlists)
 
 
+## Physics
+
+- [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
+
+
 ## 数学
 
 - [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
+
+
+## Data analysis
+
+- [Machine Learning Plus](https://www.machinelearningplus.com/)
+    - [Data Manipulation](https://www.machinelearningplus.com/category/data-manipulation/)
+    - [Plots](https://www.machinelearningplus.com/category/plots/)
+    - [Time Series](https://www.machinelearningplus.com/category/time-series/)
+    - [Principal Components Analysis (PCA)](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
 
 
 ## Programming
