@@ -12,20 +12,29 @@ slug: codes
 
 ### Data Request Tools
 
+- [FDSN Web Services](http://www.fdsn.org/webservices) | [Chinese note](https://blog.seisman.info/web-service-clients)
+- IRIS DMC
+    - [Web Services](http://service.iris.edu): [clients](http://service.iris.edu/clients/)
+        - [FDSNWS](http://service.iris.edu/fdsnws/): [Chinese note of IRIS Fetch scripts](https://blog.seisman.info/web-service-fetch-scripts)
+        - [IRISWS](http://service.iris.edu/irisws/): e.g., [fedcatalog](http://service.iris.edu/irisws/fedcatalog/1/) & [sacpz](http://service.iris.edu/irisws/fedcatalog/1/)
+        - [MUSTANG](http://service.iris.edu/mustang/): data quality analysis services
+        - [PH5WS](http://service.iris.edu/ph5ws/): provide PH5 data and metadata
+    - [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly retrieve geophysical timeseries data from data centers
+    - [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast): Seismic data request by sending email | [Chinese note](https://blog.seisman.info/tags/breq_fast)
+    - [IRIS Wilber 3](http://ds.iris.edu/wilber3/find_event): A web GUI to request waveform data of individual seismic events | [Chinese note](https://blog.seisman.info/wilber3)
+    - [jweed](http://ds.iris.edu/ds/nodes/dmc/software/downloads/jweed): Data request client written in Java
 - [SOD](http://www.seis.sc.edu/sod): The best seismic data request tool | [Tutorial (in Chinese)](https://blog.seisman.info/sod-notes) | [Recipes](https://github.com/seisman/SODrecipes)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-    - [ObsPy docs](https://github.com/obspy/docs): Some teaching materials including data request
-    - Some obspy scripts
-        - [fetch_Events](https://github.com/jbrussell/fetch_EVENTS): Download event data from IRIS-DMC
-        - [fetch_NOISE](https://github.com/jbrussell/fetch_NOISE): Download daily seismograms from the IRIS-DMC
+    - [Retrieving Data from Data Centers](http://docs.obspy.org/tutorial/code_snippets/retrieving_data_from_datacenters.html): e.g., `FDSN Web Services` & `IRIS Web Services`
+    - Some scripts
+        - [EIDA's examples](https://www.orfeus-eu.org/data/eida/webservices/examples/workflow/): `using direct HTTP requests` and `ObsPy FDSN Client`
+        - [ObsPy docs](https://github.com/obspy/docs): Some teaching materials including data request
+        - Other examples
+            - [fetch_Events](https://github.com/jbrussell/fetch_EVENTS): Download event data from IRIS-DMC
+            - [fetch_NOISE](https://github.com/jbrussell/fetch_NOISE): Download daily seismograms from the IRIS-DMC
+- [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl): Data download, processing and visulization software written in Julia
+- [GISMO](http://geoscience-community-codes.github.io/GISMO): Data download, processing and visulization software written in Matlab
 - [HinetPy](https://seisman.github.io/HinetPy): Request data from Hi-net server, written in Python | [Hinet notes](https://blog.seisman.info/hinet)
-- [FDSN Web Services](http://www.fdsn.org/webservices) | [Chinese note](https://blog.seisman.info/web-service-clients)
-- [IRIS DMC Web Services](http://service.iris.edu)
-    - [Dedicated clients](http://service.iris.edu/clients/): [Chinese note for IRIS Fetch scripts](https://blog.seisman.info/web-service-fetch-scripts)
-- [ROVER](https://iris-edu.github.io/rover): A command line tool to robustly retrieve geophysical timeseries data from data centers
-- [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast): Seismic data request by sending email | [Chinese note](https://blog.seisman.info/tags/breq_fast)
-- [IRIS Wilber 3](http://ds.iris.edu/wilber3/find_event): A web GUI to request waveform data of individual seismic events | [Chinese note](https://blog.seisman.info/wilber3)
-- [jweed](http://ds.iris.edu/ds/nodes/dmc/software/downloads/jweed): Data request client written in Java
 - [StrongMotion Fetch](https://www.usgs.gov/software/strongmotion-fetch): download and/or process strong motion data from various networks
 
 
@@ -47,8 +56,8 @@ slug: codes
 - [SAC](http://ds.iris.edu/ds/nodes/dmc/forms/sac): The most commonly used seismic data processing software
     - [Chinese manual](https://seisman.github.io/SAC_Docs_zh) (best) | [Zhigang Peng's tutorial](http://geophysics.eas.gatech.edu/classes/SAC/) | [IRIS's manual](http://ds.iris.edu/ds/nodes/dmc/manuals/sac/) | [An intro video](https://www.youtube.com/watch?v=zZeUvHkOOAM&list=PLD4D607C2FA317E6D&index=147)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-- [GISMO](http://geoscience-community-codes.github.io/GISMO): Data download, processing and visulization software written in Matlab
 - [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl): Data download, processing and visulization software written in Julia
+- [GISMO](http://geoscience-community-codes.github.io/GISMO): Data download, processing and visulization software written in Matlab
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 
 
