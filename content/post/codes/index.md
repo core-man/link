@@ -23,7 +23,7 @@ slug: codes
     - [BREQ_FAST](http://ds.iris.edu/ds/nodes/dmc/manuals/breq_fast): Seismic data request by sending email | [Chinese note](https://blog.seisman.info/tags/breq_fast)
     - [IRIS Wilber 3](http://ds.iris.edu/wilber3/find_event): A web GUI to request waveform data of individual seismic events | [Chinese note](https://blog.seisman.info/wilber3)
     - [jweed](http://ds.iris.edu/ds/nodes/dmc/software/downloads/jweed): Data request client written in Java
-- [SOD](http://www.seis.sc.edu/sod): The best seismic data request tool | [Tutorial (in Chinese)](https://blog.seisman.info/sod-notes) | [Recipes](https://github.com/seisman/SODrecipes)
+- [SOD](http://www.seis.sc.edu/sod): The best seismic data request tool | [Chinese tutorial](https://blog.seisman.info/sod-notes) | [SeisMan's recipes](https://github.com/seisman/SODrecipes) | [coreman's recipes](https://github.com/core-man/seismic-data)
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
     - [Retrieving Data from Data Centers](http://docs.obspy.org/tutorial/code_snippets/retrieving_data_from_datacenters.html): e.g., `FDSN Web Services` & `IRIS Web Services`
     - Some scripts
