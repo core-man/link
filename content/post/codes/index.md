@@ -13,7 +13,7 @@ slug: codes
 ### Data Request Tools
 
 - [FDSN Web Services](http://www.fdsn.org/webservices) | [Chinese note](https://blog.seisman.info/web-service-clients)
-- IRIS DMC
+- [IRIS DMC](https://ds.iris.edu/ds/nodes/dmc/): IRIS Data Management Center
     - [Web Services](http://service.iris.edu): [clients](http://service.iris.edu/clients/)
         - [FDSNWS](http://service.iris.edu/fdsnws/): [Chinese note of IRIS Fetch scripts](https://blog.seisman.info/web-service-fetch-scripts)
         - [IRISWS](http://service.iris.edu/irisws/): e.g., [fedcatalog](http://service.iris.edu/irisws/fedcatalog/1/) & [sacpz](http://service.iris.edu/irisws/fedcatalog/1/)
