@@ -430,7 +430,7 @@ slug: codes
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (deconvolution and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
 - [CCP](http://www.eas.slu.edu/People/LZhu/home.html): Common-Conversion-Point (CCP) stacking of receiver functions | [Chinses note](https://blog.seisman.info/ccp-install)
-- [RF_INV](https://github.com/core-man/RF_INV): Receiver function inversion by reversible-jump Markov-chain Monte Carlo in Fortran
+- [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by reversible-jump Markov-chain Monte Carlo in Fortran
 - [rj-RF](http://www.iearth.org.au/codes/rj-RF): Inversion of Receiver Functions using Reversible jump Markov chain Monte Carlo algorithm
 - [IRFFM](http://rses.anu.edu.au/~hrvoje/IRFFMv1.1.html): An interactive Java program for joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
 - [CrazySeismic](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
@@ -443,7 +443,7 @@ slug: codes
 
 ### Inversion of teleseismic waveforms
 
-- [MC3deconv](https://github.com/core-man/MC3deconv): Bayeisan inversion to recover Green's functions of receiver-side structures from teleseismic waveforms
+- [MC3deconv](https://github.com/akuhara/MC3deconv): Bayeisan inversion to recover Green's functions of receiver-side structures from teleseismic waveforms
 
 
 ### Joint Inversion of Seismological Data
@@ -451,7 +451,7 @@ slug: codes
 - [BayHunter](https://github.com/jenndrei/BayHunter): McMC transdimensional Bayesian inversion of surface wave dispersion and receiver functions in Python
 - [Huajiang Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Inversion of Vs, Vp/Vs, and interface depth using (multimode, Rayleigh and/or Love, phase and/or) dispersion data and Rayleigh wave fundamental mode ZH data (ellipticity) based on the Neighborhood Algorithm in Fortran
 - [Weisen Shen](https://www.stonybrook.edu/commcms/geosciences/people/_faculty/shen.php)'s MCMC inversion [code](http://weisen.wustl.edu/For_Comrades/for_self/PKU_Workshop/) for a workshop in Peking University in 2017: joint inversion of surface-wave dispersion data and receiver function
-- [SEIS_FILO](https://github.com/core-man/SEIS_FILO): SEISmological inversion tools for Flat and Isotropic Layered structure in the Ocean (Transdimensional inversion of surface wave and receiver functions)
+- [SEIS_FILO](https://github.com/akuhara/SEIS_FILO): SEISmological inversion tools for Flat and Isotropic Layered structure in the Ocean (Transdimensional inversion of surface wave and receiver functions)
 - [RfSurfHmc](https://github.com/nqdu/RfSurfHmc): Joint inversion of Receiver Function and Surface Wave Disperion by Hamilton Monte Carlo Method
 - [jointBSVpVs](https://github.com/HongjianFang/jointBSVpVs): Joint inversion of body and surface wave data for Vp/Vs
 - [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code for inverting Vs and anisotropy data (Rayleigh and Love phase and/or group velocities, ellipticity (Z/H ratio) and receiver functions) with a Markov Chain Monte Carlo method. (Released soon)
