@@ -250,6 +250,7 @@ slug: codes
 - [HypoRelocate](https://github.com/sun1022/hypoRelocate): High-resolution earthquake relocation method
 - [HYPOINVERSE2000](https://www.usgs.gov/software/hypoinverse-earthquake-location): Locate earthquakes and determine magnitudes in a local or regional seismic network
 - [NonLinLoc](https://seiscode.iris.washington.edu/projects/nonlinloc): Probabilistic, Non-Linear, Global-Search Earthquake Location in 3D Media.
+- [PhaseLink](https://github.com/interseismic/PhaseLink): A deep learning approach to seismic phase association
 - [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location
 - [Velest](https://seg.ethz.ch/software/velest.html): 1-D inversion of velocities and hypocenter locations
     - This code is modified to be used in [REAL](https://github.com/Dal-mzhang/REAL)
@@ -490,6 +491,8 @@ slug: codes
 - [CrazySeismic](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
 - [CrazyTremor](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to display and picking multi-channel seismic data
 - [mccc](https://github.com/xumi1993/mccc): Determines optimum relative delay times for seismograms by multi-channel cross-correlation
+- [generalized-phase-detection](https://github.com/interseismic/generalized-phase-detection): Generalized Seismic Phase Detection with Deep Learning
+- [PhaseNet](https://github.com/wayneweiqiang/PhaseNet): A Deep-Neural-Network-Based Seismic Arrival Time Picking Method
 - [PhasePApy](https://github.com/austinholland/PhasePApy): Seismic Phase Picker and Associator, written in Python
 - [P-Phase Picker](https://www.usgs.gov/software/p-phase-picker): Detecting P-phase onset written in Java and Matlab
 
