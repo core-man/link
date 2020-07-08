@@ -268,6 +268,10 @@ slug: codes
 ### Focal Mechanism
 
 - [gCAP](http://www.eas.slu.edu/People/LZhu/home.html): Focal mechanism inversion using cut and paste method | [Chinese note](https://blog.seisman.info/gcap-install)
+    - [oh-my-cap](https://github.com/wangliang1989/oh-my-cap): some experiences in using gCAP by Liang Wang
+- [CAPjoint](https://github.com/bqpseismology/CAPjoint): earthquake source parameter inversion
+    - [capjoint](https://github.com/wangliang1989/capjoint): some experiences in using CAPjoint by Liang Wang
+- [gCAPjoint](https://github.com/bqpseismology/gCAPjoint): earthquake source parameter inversion with seismic waves
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [W Phase](http://eost.u-strasbg.fr/wphase): Moment tensor inversion using W phase
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec): Package for determining and displaying double-couple earthquake focal mechanisms based on polarities and amplitude ratios
