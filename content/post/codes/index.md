@@ -318,7 +318,7 @@ slug: codes
 
 #### Ambient noise surface-wave tomography
 
-- Data pre-processing and measuring phase velocity (traveltime difference) between station pair
+- Data pre-processing and dispersion measuring
     - [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
         - [ancc](http://ciei.colorado.edu/Products/): Ambient noise data processing code and database for processing in C | [github](https://github.com/NoiseCIEI/ANCC)
         - [Seed2Cor](https://github.com/NoiseCIEI/Seed2Cor): Seismic Ambient Noise Cross-Correlation in Parallel written in C
@@ -341,24 +341,29 @@ slug: codes
     - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
 
 
-#### Other method to measure surface-wave dispersion
+#### Other method to measure surface-wave dispersion data & phase/group velocity maps
 
 - [NoisePy](https://github.com/NoiseCIEI/NoisePy): Some simple methods for seismic surface wave analysis written in Python
 - [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode surface wave dispersion using the Linear Radon Transform (LRT) written in Matlab
 
 
-#### Surface-wave dispersion inversion (traditional two-steps: 1. phase/group velocity maps; 2. inversion)
+#### Inverting seismic structures from phase/group velocities (traditional two-steps: 1. phase/group velocity maps; 2. inversion)
 
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [dispinversion](https://github.com/jinwar/dispinversion): Surface wave dispersion inversion code written in Matlab
 
 
-#### Surface-wave dispersion inversion (Direct inversion of surface wave dispersion data)
+#### Direct inversion of surface wave dispersion data
 
 - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran written in Fortran
 - [DSurfRTomo](https://github.com/ShaoqianHu/DSurfRTomo): Direct Surface Wave Radial Anisotropy Tomography written in Fortran
 - [DAzimSurfTomo](https://github.com/Chuanming-Liu/DAzimSurfTomo): Direct inversion of Rayleigh wave dispersion data for 3-D azimuthal anisotropy based on ray tracing written in Fortran
 - [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
+
+
+#### All in one for surface-wave imaging
+
+- [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography): Python framework for seismic noise tomography
 
 
 #### Surface-wave dispersion forward calculation
@@ -391,7 +396,7 @@ slug: codes
 ### Ambient Noise Inversion
 
 - [MSNoise](http://www.msnoise.org): A Python Package for Monitoring seismic velocity changes using ambient seismic noise
-- [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography): Python framework for seismic noise tomography
+- [yam](https://github.com/trichter/yam): Yet another monitoring tool using correlations of ambient noise written in Python
 
 
 ### Receiver Function
