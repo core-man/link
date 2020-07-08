@@ -547,6 +547,13 @@ slug: codes
 - [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
 
 
+### Pattern Recognition and Machine Learning
+
+- [Detex](https://github.com/d-chambers/Detex): A Python package for subspace detection and waveform similarity clustering
+- [dbscan1d](https://github.com/d-chambers/dbscan1d): An efficient 1D implementation of the DBSCAN clustering algorithm in Python
+- [Sequencer](https://github.com/dalya/Sequencer): An algorithm that detects one-dimensional sequences in complex datasets in Python
+
+
 ### Interesting tools
 
 - [datamovies](https://github.com/jbrussell/datamovies): a couple of demo codes for sonifying data
