@@ -121,13 +121,13 @@ slug: codes
 - [Reflectivity method](http://www.spice-rtn.org/library/software/ERZSOL3.html): Calculating the response of a layered uniform solid layers to excitation by a point moment tensor source using the reflectivity method
 - [telewavesim](https://paudetseis.github.io/Telewavesim/): Calculate teleseismic body-wave synthetics using the matrix propagator method written in Python and Fortran
 - [RMATRIX](http://seis.karlov.mff.cuni.cz/software/sw3dcd22/rmatrix/rmatrix.htm): Calculate the frequency-dependent transmission coefficients written in Fortran
+- [rf_respknt](https://github.com/Chuanming-Liu/rf_respknt): Reflection matrix approach to computing the seismic response of a cylindrically symmetric medium
 
 
 #### Wavenumber integration (Another name is discrete wavenumber?)
 
 - [Wavenumber integration method in CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [Discrete wavenumber method in seisan](http://seisan.info): [Seismology at GEUS](http://seis.geus.net)
-
 
 
 #### Modal Summation
@@ -230,6 +230,11 @@ slug: codes
 - [PSV Hybrid](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic seismograms involving two-dimensional localized hetergeneous structures based on GRT-FD hybrid method.
 
 
+### Other forward modelling
+
+- [CPSPy](https://github.com/NoisyLeon/CPSPy): Python interface for CPS330
+
+
 ---------------
 ## Seismic Source
 
@@ -309,7 +314,7 @@ slug: codes
 
 ### Surface-wave tomography
 
-#### Teleseismic surface-wave tomography
+#### Teleseismic surface-wave phase/group velocity maps
 
 - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
     - [Auto_TAnaylsis_GUI](https://github.com/Chuanming-Liu/Auto_TAnaylsis_GUI): Automatic Surface Wave Two-station Dispersion Analysis (Matlab GUI)
@@ -318,13 +323,13 @@ slug: codes
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 
 
-#### Ambient noise surface-wave tomography
+#### Ambient noise surface-wave phase/group velocity maps
 
 - Data pre-processing and dispersion measuring
     - [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
         - [ancc](http://ciei.colorado.edu/Products/): Ambient noise data processing code and database for processing in C | [github](https://github.com/NoiseCIEI/ANCC)
         - [Seed2Cor](https://github.com/NoiseCIEI/Seed2Cor): Seismic Ambient Noise Cross-Correlation in Parallel written in C
-        - [AFTAN](http://ciei.colorado.edu/Products/): Automatic Frequency-Time Analysis (AFTAN) of cros-correlogram of ambient seismic noise in Fortran | [github](https://github.com/NoiseCIEI/AFTAN)
+        - [AFTAN](http://ciei.colorado.edu/Products/): Automatic Frequency-Time Analysis (AFTAN) of cros-correlogram of ambient seismic noise in Fortran | [github](https://github.com/NoiseCIEI/AFTAN) | [Python package of AFTAN](https://github.com/NoisyLeon/pyaftan)
     - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
         - Ambient noise cross-correlation codes for daily long SAC format data in Matlab
         - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
@@ -343,19 +348,20 @@ slug: codes
     - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
 
 
-#### Other method to measure surface-wave dispersion data & phase/group velocity maps
+#### Other methods to measure surface-wave dispersion data & phase/group velocity maps
 
 - [NoisePy](https://github.com/NoiseCIEI/NoisePy): Some simple methods for seismic surface wave analysis written in Python
 - [mat-LRTdisp](https://github.com/jbrussell/mat-LRTdisp): Measuring multi-mode surface wave dispersion using the Linear Radon Transform (LRT) written in Matlab
 
 
-#### Inverting seismic structures from phase/group velocities (traditional two-steps: 1. phase/group velocity maps; 2. inversion)
+#### Inversion from phase/group velocities (traditional two-steps: 1. phase/group velocity maps; 2. inversion)
 
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [dispinversion](https://github.com/jinwar/dispinversion): Surface wave dispersion inversion code written in Matlab
+- [srfpython](https://github.com/obsmax/srfpython): compute, display, invert 1D depth models based on CPS330
 
 
-#### Direct inversion of surface wave dispersion data
+#### Direct inversion of surface-wave dispersion data
 
 - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran written in Fortran
 - [DSurfRTomo](https://github.com/ShaoqianHu/DSurfRTomo): Direct Surface Wave Radial Anisotropy Tomography written in Fortran
@@ -371,6 +377,8 @@ slug: codes
 #### Surface-wave dispersion forward calculation
 
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+- [pysurf96](https://github.com/miili/pysurf96): Python wrapper for modelling surface wave dispersion curves from surf96 in CPS330
+- [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
 - [senskernel](http://ciei.colorado.edu/Products/): Calculate sensitivity kernal of group velocity and phase velocity | [github](https://github.com/NoiseCIEI/SensKernel)
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
@@ -412,7 +420,7 @@ slug: codes
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
 - [RfPy](https://paudetseis.github.io/RfPy/): Calculating teleseismic receiver function in Python
 - [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic RF in two-dimensional localized hetergeneous structures based on PSV Hybrid method (GRT-FD).
-
+- [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
 
 
 #### RF Measurements and Inversion
@@ -433,19 +441,20 @@ slug: codes
 
 ### Joint Inversion of Seismological Data
 
-- [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code for inverting Vs and anisotropy data (Rayleigh and Love phase and/or group velocities, ellipticity (Z/H ratio) and receiver functions) with a Markov Chain Monte Carlo method. (Released soon)
+- [BayHunter](https://github.com/jenndrei/BayHunter): McMC transdimensional Bayesian inversion of surface wave dispersion and receiver functions in Python
 - [Huajiang Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Inversion of Vs, Vp/Vs, and interface depth using (multimode, Rayleigh and/or Love, phase and/or) dispersion data and Rayleigh wave fundamental mode ZH data (ellipticity) based on the Neighborhood Algorithm in Fortran
+- [Weisen Shen](https://www.stonybrook.edu/commcms/geosciences/people/_faculty/shen.php)'s MCMC inversion [code](http://weisen.wustl.edu/For_Comrades/for_self/PKU_Workshop/) for a workshop in Peking University in 2017.
+- [jointBSVpVs](https://github.com/HongjianFang/jointBSVpVs): Joint inversion of body and surface wave data for Vp/Vs
+- [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code for inverting Vs and anisotropy data (Rayleigh and Love phase and/or group velocities, ellipticity (Z/H ratio) and receiver functions) with a Markov Chain Monte Carlo method. (Released soon)
 
 
-
-### Multi-observable Modelling of Geophysical Data
+### Multi-observable Modelling and Inversion of Geophysical Data
 
 - [LitMod](https://www.juanafonso.com/software): Multi-observable modelling of geophysical data
     - [LitMod_2D](https://www.juanafonso.com/software): An interactive software to perform multi-observable forward modelling of geophysical data for 2D whole lithospheric structure of the Earth and/or other terrestrial planets | new version in [Github](https://github.com/ajay6763/LitMod2D_2.0_package_dist_users)
     - [LitMod_T](https://www.juanafonso.com/software): the "transient" equivalent of LitMod_2D
     - [LitMod_3D](https://www.juanafonso.com/software): 3D integrated geophysical-petrological interactive forward modelling of the lithosphere and underlying upper mantle | new version in [Github](https://github.com/javfurchu/litmod)
     - [LitMod_4INV](https://www.juanafonso.com/software): A fully nonlinear probabilistic inversion code in spherical coordinates for the compositional and thermal structure of the lithosphere and upper mantle, simultaneously inverting gravity gradients, gravity anomalies, geoid height, surface heat flow, magnetotelluric data, receiver functions, surface-wave data, absolute elevation (including both static and dynamic effects) and body-wave data, together with petrological information.
-- [Weisen Shen](https://www.stonybrook.edu/commcms/geosciences/people/_faculty/shen.php)'s MCMC inversion [code](http://weisen.wustl.edu/For_Comrades/for_self/PKU_Workshop/) for a workshop in Peking University in 2017.
 
 
 ### Full Waveform Inversion
@@ -475,6 +484,7 @@ slug: codes
 - [SHEBA](https://github.com/jwookey/sheba): Shear-wave birefringence analysis code
 - [SplitRacer](http://www.geophysik.uni-frankfurt.de/64002762/Software): Shear-wave splitting analysis written in Matlab
 - [SplitPy](https://paudetseis.github.io/SplitPy/): Teleseismic shear-wave (SKS) Splitting Toolbox written in Python
+- [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
 
 
 #### Imaging of Earth interior
