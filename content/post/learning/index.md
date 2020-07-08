@@ -129,6 +129,7 @@ slug: Learning
 
 ### Course & Workshop
 
+- [Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
 - [Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 - [Southern University of Science and Technology 2019 Workshop (password: SUSTech2019)](https://owncloud.sustc.edu.cn/s/aF4ZK5C5SoLcejj)
