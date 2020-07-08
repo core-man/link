@@ -382,6 +382,7 @@ slug: codes
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [pysurf96](https://github.com/miili/pysurf96): Python wrapper for modelling surface wave dispersion curves from surf96 in CPS330
 - [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
+- [MCMC_ANISO_FORWARD](https://github.com/hejunzhu/MCMC_ANISO_FORWARD): Forward code to compute surface wave dispersion curves and receiver functions in anisotropic models with hexagonally symmetry
 - [senskernel](http://ciei.colorado.edu/Products/): Calculate sensitivity kernal of group velocity and phase velocity | [github](https://github.com/NoiseCIEI/SensKernel)
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 - [Vphase](http://www.spice-rtn.org/library/software/vphase.html): A training code to calculation of phase velocity dispersion curves
@@ -405,7 +406,6 @@ slug: codes
 - [HVResPy](https://www.researchgate.net/publication/283085984_HVResPy_an_open-source_Python_tool_for_Geopsy_HVSR_post-processing?channel=doi&linkId=5629ff6308ae518e347ef829&showFulltext=true): An open-source Python tool for Geopsy HVSR post-processing
 
 
-
 ### Ambient Noise Inversion
 
 - [MSNoise](http://www.msnoise.org): A Python Package for Monitoring seismic velocity changes using ambient seismic noise
@@ -422,8 +422,9 @@ slug: codes
 - [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
 - [RfPy](https://paudetseis.github.io/RfPy/): Calculating teleseismic receiver function in Python
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
-- [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic RF in two-dimensional localized hetergeneous structures based on PSV Hybrid method (GRT-FD).
+- [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic RF in two-dimensional localized hetergeneous structures based on PSV Hybrid method (GRT-FD)
 - [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
+- [MCMC_ANISO_FORWARD](https://github.com/hejunzhu/MCMC_ANISO_FORWARD): Forward code to compute surface wave dispersion curves and receiver functions in anisotropic models with hexagonally symmetry
 
 
 #### RF Measurements and Inversion
@@ -482,6 +483,14 @@ slug: codes
 - [LASIF](http://www.lasif.net): Framework for large scale full waveform inversion
 - [seisDD](https://github.com/yanhuay/seisDD): Double-difference adjoint seismic tomography
 - [Salvus](https://salvus.io): Full waveform modelling and inversion
+
+
+### Attenuation
+
+- [CodaNorm](https://github.com/cormorant/CodaNorm): a software package for the body-wave attenuation calculation by coda-normalization method
+- [MuRAT](https://github.com/LucaDeSiena/MuRAT): a Matlab Package for Seismic Attenuation Tomography at multiple Earth scales using Body and Coda Waves
+- [qopen](https://github.com/trichter/qopen): Separation of intrinsic and scattering Q by envelope inversion
+- [usattenuation](https://github.com/trichter/usattenuation): Intrinsic attenuation, scattering attenuation and site amplification for the contiguous U.S.
 
 
 ### Other Imaging Methods
