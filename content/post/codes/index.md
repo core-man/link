@@ -148,10 +148,11 @@ slug: codes
 - [Colleen Dalton's Mineos](https://github.com/jbrussell/MINEOS): All the tools one should need to compile and run the MINEOS program, including MATLAB driver scripts.
     - [Matlab to MINEOS](https://github.com/jbrussell/matlab_to_mineos): Wrapper scripts for running MINEOS through MATLAB.
     - [MINEOS_synthetics](https://github.com/jbrussell/MINEOS_synthetics): Calculate dispersion tables and synthetic seismograms for layered models using MINEOS and idagrn6 housed within MATLAB wrappers
-- [Generalized Eigenproblem Spectral Collocation](https://github.com/mdenolle/gesc)
-- [Normal modes](http://www.spice-rtn.org/library/software/Normal%20Modes.html): Normal-mode based computation of seismograms for spherically symmetric Earth models
 - [QSSP](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/): Calculating complete synthetic seismograms of a spherical earth using the normal mode theory
+- [Normal modes](http://www.spice-rtn.org/library/software/Normal%20Modes.html): Normal-mode based computation of seismograms for spherically symmetric Earth models
 - DISPER80: Calculation of normal modes, which is a very old fortran code. You have to ask for it from someone who conducts surface-wave studies.
+- [Normal-mode](https://github.com/nqdu/Normal-mode): A fortran program to compute normal mode eigenfunctions and eigenvalues for SNREI earth, and synthetic seismograph
+- [Generalized Eigenproblem Spectral Collocation](https://github.com/mdenolle/gesc)
 
 
 #### Direct solution method
@@ -197,6 +198,7 @@ slug: codes
 ### Spectral Element Methods
 
 - [SPECFEM1D](https://github.com/geodynamics/specfem1d): A small code that allows users to learn how a spectral-element program is written
+- [Specfem1d](https://github.com/nqdu/Specfem1d): An implementation of Spectrum Element Method for 1-D wave equation
 - [SPECFEM2D](https://github.com/geodynamics/specfem2d): Simulates seismic wave propagation in a 2D heterogeneous medium, using spectral element method (spherical coordinate system)
     - FK-2DSEM can be requested from Ping Tong. Is the 2D SEM in spherical coordinate?
 - [SPECFEM3D](https://github.com/geodynamics/specfem3d): Simulates seismic wave propagation in a 3D heterogeneous medium, using spectral element method (Cartesian coordinate system)
@@ -246,6 +248,7 @@ slug: codes
 - [FastMatchedFilter](https://github.com/beridel/fast_matched_filter): An efficient seismic matched-filter search for both CPU and GPU architectures.
 - [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan): A python package for the detection and analysis of repeating and near-repeating earthquakes
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector, written in Python
+- [repeating-earthquake](https://github.com/core-man/repeating-earthquake): Search repeating earthquakes based on cross-correlation of seismic waveforms of event pairs at same stations.
 
 
 ### Earthquake Location
@@ -414,11 +417,11 @@ slug: codes
 #### Synthetic RF
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (synthetic RF, deconvolution, and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
-- [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+- [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
 - [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
-- [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
 - [RfPy](https://paudetseis.github.io/RfPy/): Calculating teleseismic receiver function in Python
+- [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
 - [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic RF in two-dimensional localized hetergeneous structures based on PSV Hybrid method (GRT-FD).
 - [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
 
@@ -426,8 +429,8 @@ slug: codes
 #### RF Measurements and Inversion
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (deconvolution and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
-- [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
 - [CCP](http://www.eas.slu.edu/People/LZhu/home.html): Common-Conversion-Point (CCP) stacking of receiver functions | [Chinses note](https://blog.seisman.info/ccp-install)
+- [RF_INV](https://github.com/core-man/RF_INV): Receiver function inversion by reversible-jump Markov-chain Monte Carlo in Fortran
 - [rj-RF](http://www.iearth.org.au/codes/rj-RF): Inversion of Receiver Functions using Reversible jump Markov chain Monte Carlo algorithm
 - [IRFFM](http://rses.anu.edu.au/~hrvoje/IRFFMv1.1.html): An interactive Java program for joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
 - [CrazySeismic](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
@@ -438,12 +441,17 @@ slug: codes
 - [Some group codes for RF analysis](https://github.com/rmartinshort/RecieverFunctions): Ammon's & Cheng's codes
 
 
+### Inversion of teleseismic waveforms
+
+- [MC3deconv](https://github.com/core-man/MC3deconv): Bayeisan inversion to recover Green's functions of receiver-side structures from teleseismic waveforms
+
 
 ### Joint Inversion of Seismological Data
 
 - [BayHunter](https://github.com/jenndrei/BayHunter): McMC transdimensional Bayesian inversion of surface wave dispersion and receiver functions in Python
 - [Huajiang Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Inversion of Vs, Vp/Vs, and interface depth using (multimode, Rayleigh and/or Love, phase and/or) dispersion data and Rayleigh wave fundamental mode ZH data (ellipticity) based on the Neighborhood Algorithm in Fortran
 - [Weisen Shen](https://www.stonybrook.edu/commcms/geosciences/people/_faculty/shen.php)'s MCMC inversion [code](http://weisen.wustl.edu/For_Comrades/for_self/PKU_Workshop/) for a workshop in Peking University in 2017: joint inversion of surface-wave dispersion data and receiver function
+- [SEIS_FILO](https://github.com/core-man/SEIS_FILO): SEISmological inversion tools for Flat and Isotropic Layered structure in the Ocean (Transdimensional inversion of surface wave and receiver functions)
 - [RfSurfHmc](https://github.com/nqdu/RfSurfHmc): Joint inversion of Receiver Function and Surface Wave Disperion by Hamilton Monte Carlo Method
 - [jointBSVpVs](https://github.com/HongjianFang/jointBSVpVs): Joint inversion of body and surface wave data for Vp/Vs
 - [LitMod_seis](https://www.juanafonso.com/software): A joint inversion code for inverting Vs and anisotropy data (Rayleigh and Love phase and/or group velocities, ellipticity (Z/H ratio) and receiver functions) with a Markov Chain Monte Carlo method. (Released soon)
@@ -587,6 +595,7 @@ slug: codes
 - [Moho inversion](https://github.com/pinga-lab/paper-moho-inversion-tesseroids): Fast non-linear gravity inversion in spherical coordinates with application to the South American Moho.
 - [GRAV3D](https://grav3d.readthedocs.io/en/latest/index.html): Forward modelling and inversion of surface, borehole, and airborne gravity data in 3D
 - [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
+- [SphGraGLQ](https://github.com/nqdu/SphGraGLQ): A fast and adaptive gravity forward computation method by Gauss-Legendre Quadrature in spherical coordinates in C
 
 #### GPS & InSAR
 
@@ -617,6 +626,7 @@ slug: codes
 - [Malcolm Sambridge's softwares](http://rses.anu.edu.au/~malcolm/_pages/Research)
     - [Neighbourhood Algorithm](http://rses.anu.edu.au/~malcolm/na/na.html) | [Neighbourhood Algorithm at iEarth](http://www.iearth.org.au/codes/NA)
     - [Natural Neighbours](http://rses.anu.edu.au/geodynamics/nn/nn.html)
+- [Neighborhood-Algorithm](https://github.com/nqdu/Neighborhood-Algorithm): A simple NA implementation in c++
 
 
 ---------------
