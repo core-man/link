@@ -293,6 +293,7 @@ slug: codes
 ### Source Spectrum
 
 - [Multitaper Spectrum Estimation Library](https://www.gaprieto.com/software)
+- [mtspec](https://github.com/krischer/mtspec): Python (ctypes) wrapper for the **Multitaper Spectrum Estimation Library**
 
 
 ---------------------------
@@ -495,6 +496,12 @@ slug: codes
 - [PhaseNet](https://github.com/wayneweiqiang/PhaseNet): A Deep-Neural-Network-Based Seismic Arrival Time Picking Method
 - [PhasePApy](https://github.com/austinholland/PhasePApy): Seismic Phase Picker and Associator, written in Python
 - [P-Phase Picker](https://www.usgs.gov/software/p-phase-picker): Detecting P-phase onset written in Java and Matlab
+
+
+### Seismic interferometry
+
+- [inter_source_interferometry](https://github.com/trichter/inter_source_interferometry): Inter-source interferometry by cross-correlation of coda waves written in Python
+- [ThreeStation](https://github.com/NoiseCIEI/ThreeStation): Three-station interferometry
 
 
 ### Single Station Signal Analysis
