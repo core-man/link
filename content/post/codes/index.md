@@ -289,6 +289,7 @@ slug: codes
 - [CAPjoint](https://github.com/bqpseismology/CAPjoint): earthquake source parameter inversion
     - [capjoint](https://github.com/wangliang1989/capjoint): some experiences in using CAPjoint by Liang Wang
 - [gCAPjoint](https://github.com/bqpseismology/gCAPjoint): earthquake source parameter inversion with seismic waves
+- [CAPsf](https://doi.org/10.1785/0220190349): invert source mechanisms for single‐force events
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [W Phase](http://eost.u-strasbg.fr/wphase): Moment tensor inversion using W phase
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec): Package for determining and displaying double-couple earthquake focal mechanisms based on polarities and amplitude ratios
