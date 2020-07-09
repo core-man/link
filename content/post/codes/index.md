@@ -364,12 +364,12 @@ slug: codes
 
 ### Inverting 2D surface-wave phase/group velocity maps
 
-- [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography | [code in GitHub](https://github.com/jinwar/matgsdf)
 - [tomo_sp_cu_s](http://ciei.colorado.edu/Products/): Surface wave tomography based on ray theory | [github](https://github.com/NoiseCIEI/RayTomo)
 - [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
-- [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
 - [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
+- [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography | [code in GitHub](https://github.com/jinwar/matgsdf)
 - [SurfwaveTomoPrograms](https://github.com/chukren/SurfwaveTomoPrograms): finite frequency Rayleigh wave tomography programs (Two-plane wave with 2D sensitivity kernel; [Yang & Forsythn, 2006, GJI](https://doi.org/10.1111/j.1365-246X.2006.02972.x), [Yang & Forsythn, 2006, JGR](https://doi.org/10.1029/2005JB004180))
+- [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
 
 
 ### Other methods to measure surface-wave dispersion data & phase/group velocity maps
