@@ -337,38 +337,39 @@ slug: codes
 - [SIMUL2000](https://www.usgs.gov/software/3d-velocity-modeling): Traveltime tomography
 
 
-### Teleseismic surface-wave phase/group velocity maps
+### Teleseismic surface-wave phase/group velocity dispersion
 
 - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
     - [Auto_TAnaylsis_GUI](https://github.com/Chuanming-Liu/Auto_TAnaylsis_GUI): Automatic Surface Wave Two-station Dispersion Analysis (Matlab GUI)
 - [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography | [code in GitHub](https://github.com/jinwar/matgsdf)
-- [SurfwaveTomoPrograms](https://github.com/chukren/SurfwaveTomoPrograms): finite frequency Rayleigh wave tomography programs (Two-plane wave with 2D sensitivity kernel; [Yang & Forsythn, 2006, GJI](https://doi.org/10.1111/j.1365-246X.2006.02972.x), [Yang & Forsythn, 2006, JGR](https://doi.org/10.1029/2005JB004180))
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 
 
-### Ambient noise surface-wave phase/group velocity maps
+### Ambient noise surface-wave phase/group velocity dispersion
 
-- Data pre-processing and dispersion measuring
-    - [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
-        - [ancc](http://ciei.colorado.edu/Products/): Ambient noise data processing code and database for processing in C | [github](https://github.com/NoiseCIEI/ANCC)
-        - [Seed2Cor](https://github.com/NoiseCIEI/Seed2Cor): Seismic Ambient Noise Cross-Correlation in Parallel written in C
-        - [AFTAN](http://ciei.colorado.edu/Products/): Automatic Frequency-Time Analysis (AFTAN) of cros-correlogram of ambient seismic noise in Fortran | [github](https://github.com/NoiseCIEI/AFTAN) | [Python package of AFTAN](https://github.com/NoisyLeon/pyaftan)
-    - [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
-        - Ambient noise cross-correlation codes for daily long SAC format data in Matlab
-        - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
-    - [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
-    - [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
-    - [Martin Schimmel's codes](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software)
-        - [Corr_stack](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Ambient Noise Processing Tools for Phase Cross Correlation and time-frequency Phase Weighted Stack written in Fortran | [IRIS Webinar](https://www.youtube.com/watch?v=qr5EFhQzPwg)
-        - [PCC](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in C
-        - [PCC2](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in Python
-    - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
+- [Research Products from CU-Boulder](http://ciei.colorado.edu/Products)
+    - [ancc](http://ciei.colorado.edu/Products/): Ambient noise data processing code and database for processing in C | [github](https://github.com/NoiseCIEI/ANCC)
+    - [Seed2Cor](https://github.com/NoiseCIEI/Seed2Cor): Seismic Ambient Noise Cross-Correlation in Parallel written in C
+    - [AFTAN](http://ciei.colorado.edu/Products/): Automatic Frequency-Time Analysis (AFTAN) of cros-correlogram of ambient seismic noise in Fortran | [github](https://github.com/NoiseCIEI/AFTAN) | [Python package of AFTAN](https://github.com/NoisyLeon/pyaftan)
+- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
+    - Ambient noise cross-correlation codes for daily long SAC format data in Matlab
+    - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
+- [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
+- [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
+- [Martin Schimmel's codes](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software)
+    - [Corr_stack](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Ambient Noise Processing Tools for Phase Cross Correlation and time-frequency Phase Weighted Stack written in Fortran | [IRIS Webinar](https://www.youtube.com/watch?v=qr5EFhQzPwg)
+    - [PCC](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in C
+    - [PCC2](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in Python
+- [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
 
-- Inverting phase/group velocity maps
-    - [tomo_sp_cu_s](http://ciei.colorado.edu/Products/): Surface wave tomography based on ray theory | [github](https://github.com/NoiseCIEI/RayTomo)
-    - [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
-    - [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
-    - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
+### Inverting 2D surface-wave phase/group velocity maps
+
+- [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography | [code in GitHub](https://github.com/jinwar/matgsdf)
+- [tomo_sp_cu_s](http://ciei.colorado.edu/Products/): Surface wave tomography based on ray theory | [github](https://github.com/NoiseCIEI/RayTomo)
+- [FMST](http://rses.anu.edu.au/~nick/surftomo.html): traveltime tomography code in 2-D spherical shell coordinates based on fast marching method | [FMST at iEarth](http://www.iearth.org.au/codes/FMST)
+- [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
+- [rj-TOMO](http://www.iearth.org.au/codes/rj-TOMO): 2-D transdimensional travel time tomography based on Reversible jump Markov chain Monte Carlo algorithm
+- [SurfwaveTomoPrograms](https://github.com/chukren/SurfwaveTomoPrograms): finite frequency Rayleigh wave tomography programs (Two-plane wave with 2D sensitivity kernel; [Yang & Forsythn, 2006, GJI](https://doi.org/10.1111/j.1365-246X.2006.02972.x), [Yang & Forsythn, 2006, JGR](https://doi.org/10.1029/2005JB004180))
 
 
 ### Other methods to measure surface-wave dispersion data & phase/group velocity maps
@@ -392,7 +393,7 @@ slug: codes
 - [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
 
 
-### Some workflows for surface-wave tomography
+### Workflows for surface-wave tomography
 
 - [seismic-noise-tomography](https://github.com/bgoutorbe/seismic-noise-tomography): Python framework for seismic noise tomography
 
@@ -498,6 +499,8 @@ slug: codes
 
 - [MSNoise](http://www.msnoise.org): A Python Package for Monitoring seismic velocity changes using ambient seismic noise
 - [yam](https://github.com/trichter/yam): Yet another monitoring tool using correlations of ambient noise written in Python
+- [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
+- [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
 
 
 ### Imaging of Earth interior
