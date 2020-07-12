@@ -109,6 +109,7 @@ slug: journals
 - [Chinese Academy of Sciences Institutional Repositories Grid](http://www.irgrid.ac.cn): 中国科学院机构知识库网格
 - [Scopus](https://www.scopus.com/): Abstract and citation database
 - [Web of Science](https://www.webofknowledge.com): Abstract and citation database
+- [InCites Journal Citation Reports](https://jcr.clarivate.com/JCRLandingPageAction.action): click *Browse by Journal*, and then choose `Geochemistry&Geophysics`, `Geology`, and `Geosciences, Multidisciplinary` under *Select Catagories*.
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations): Search Science and Engineering Journal Abbreviations
 - [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php): Publisher copyright policies & self-archiving
 - [Library Genesis](http://gen.lib.rus.ec): A lots of books can be found here
