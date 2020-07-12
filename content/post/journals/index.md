@@ -65,7 +65,7 @@ slug: journals
 - [Seismological Research Letters](https://pubs.geoscienceworld.org/srl): 3.888 | [GeoScienceWorld](https://pubs.geoscienceworld.org)
 
 
-## Other
+## Preprint & Open Sources
 
 - [ESSOAr](https://www.essoar.org/): Earth and Space Science Open Archive
 - [EarthArXiv](https://eartharxiv.org/): a free preprint service for the Earth sciences
@@ -112,8 +112,9 @@ slug: journals
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations): Search Science and Engineering Journal Abbreviations
 - [SHERPA RoMEO](http://www.sherpa.ac.uk/romeo/index.php): Publisher copyright policies & self-archiving
 - [Library Genesis](http://gen.lib.rus.ec): A lots of books can be found here
-- [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science! | [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
-- [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors
+- [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science!
+    - [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
+    - [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors
 
 
 
