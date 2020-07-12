@@ -33,6 +33,7 @@ slug: journals
 - [Earth-Science Reviews](https://www.sciencedirect.com/journal/earth-science-reviews): 9.53 | [ScienceDirect](https://www.sciencedirect.com)
 - [Geochemistry, Geophysics, Geosystems](https://agupubs.onlinelibrary.wiley.com/journal/15252027): 2.95 | [AGU](https://agupubs.onlinelibrary.wiley.com)
 - [Gondwana Research](https://www.sciencedirect.com/journal/gondwana-research): 6.478 | [ScienceDirect](https://www.sciencedirect.com)
+- [Journal of Asian Earth Sciences](https://www.journals.elsevier.com/journal-of-asian-earth-sciences): 3.059 | [ScienceDirect](https://www.sciencedirect.com)
 - [Lithos](https://www.sciencedirect.com/journal/lithos): 3.913 | [ScienceDirect](https://www.sciencedirect.com)
 - [Nature Geoscience](https://www.nature.com/ngeo): 13.941 | [Nature](https://www.nature.com)
 - [Physics of the Earth and Planetary Interiors](https://www.sciencedirect.com/journal/physics-of-the-earth-and-planetary-interiors): 2.615 | [ScienceDirect](https://www.sciencedirect.com)
@@ -62,6 +63,14 @@ slug: journals
 
 - [Bulletin of the Seismological Society of America](https://pubs.geoscienceworld.org/bssa): 2.289 | [GeoScienceWorld](https://pubs.geoscienceworld.org)
 - [Seismological Research Letters](https://pubs.geoscienceworld.org/srl): 3.888 | [GeoScienceWorld](https://pubs.geoscienceworld.org)
+
+
+## Other
+
+- [ESSOAr](https://www.essoar.org/): Earth and Space Science Open Archive
+- [EarthArXiv](https://eartharxiv.org/): a free preprint service for the Earth sciences
+- [arXiv](https://arxiv.org/): a free distribution service and an open-access archive
+- [The Journal of Open Source Software](https://joss.theoj.org/)
 
 
 ## Publisher
