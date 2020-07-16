@@ -93,7 +93,7 @@ slug: codes
     - [B.L.N. Kennett and Ray Buland's version](http://rses.anu.edu.au/seismology/soft/ttsoft.html): Calculation of travel times and ellipticity corrections for iasp91 and AK135 models | [Some revisions to compile the codes](https://github.com/seisman/TravelTimeEllipcityCorrection)
     - [George Helffrich's version](https://members.elsi.jp/~george/sac-bugs.html#ttimes): Traveltime calculator for iasp91, AK135, PREM etc.
 - [Cake](https://pyrocko.org): Traveltime calculation software, written in Python.
-- [FM3D](http://rses.anu.edu.au/seismology/soft/fmmcode): 3D traveltime calculation using Fast Marching Method
+- [FM3D](http://rses.anu.edu.au/seismology/soft/fmmcode): 3D traveltime calculation using Fast Marching Method | [FM3D at iEarth](http://www.iearth.org.au/codes/3Dfastmarching/)
 - [pySeismicFMM](https://github.com/gozwei/pySeismicFMM): 3D traveltime calculation using Fast Marching Method, C codes with a Python interface
 - [pykonal](https://github.com/malcolmw/pykonal): 3D traveltime calculator for Eikonal equation in Cartesian and spherical coordinates
 - [RSTT](https://www.sandia.gov/rstt/): Regional Seismic Travel Time
