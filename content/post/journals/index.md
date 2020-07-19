@@ -23,12 +23,14 @@ slug: journals
 
 ## Geoscience
 
+- [AGU Advances](https://agupubs.onlinelibrary.wiley.com/journal/2576604x): [AGU](https://agupubs.onlinelibrary.wiley.com)
 - [Annual Review of Earth and Planetary Sciences](https://www.annualreviews.org/journal/earth): 9.235 | [Annual Reviews](https://www.annualreviews.org)
 - [Astronomy & Geophysics](https://academic.oup.com/astrogeo): 0.349 | [Oxford Academic](https://academic.oup.com/journals)
 - [Earth and Planetary Physics](http://www.eppcgs.org) | [AGU](https://agupubs.onlinelibrary.wiley.com) Partnered Journals
     - 2000-2018: [Chinese Journal of Geophysics](https://agupubs.onlinelibrary.wiley.com/journal/23260440) | [AGU](https://agupubs.onlinelibrary.wiley.com) Partnered Journals
     - Chinese version: [中国地球物理学报](http://www.geophy.cn/CN/volumn/home.shtml)
 - [Earth and Planetary Science Letters](https://www.sciencedirect.com/journal/earth-and-planetary-science-letters): 4.637 | [ScienceDirect](https://www.sciencedirect.com)
+- [Earth and Space Science](https://agupubs.onlinelibrary.wiley.com/journal/23335084): 2.15 | [AGU](https://agupubs.onlinelibrary.wiley.com)
 - [Earth, Planets and Space](https://link.springer.com/journal/40623): 2.736 | [Springer](https://www.springer.com)
 - [Earth-Science Reviews](https://www.sciencedirect.com/journal/earth-science-reviews): 9.53 | [ScienceDirect](https://www.sciencedirect.com)
 - [Geochemistry, Geophysics, Geosystems](https://agupubs.onlinelibrary.wiley.com/journal/15252027): 2.95 | [AGU](https://agupubs.onlinelibrary.wiley.com)
@@ -37,11 +39,11 @@ slug: journals
 - [Lithos](https://www.sciencedirect.com/journal/lithos): 3.913 | [ScienceDirect](https://www.sciencedirect.com)
 - [Nature Geoscience](https://www.nature.com/ngeo): 13.941 | [Nature](https://www.nature.com)
 - [Physics of the Earth and Planetary Interiors](https://www.sciencedirect.com/journal/physics-of-the-earth-and-planetary-interiors): 2.615 | [ScienceDirect](https://www.sciencedirect.com)
-- [Science China Earth Sciences](https://link.springer.com.remotexs.ntu.edu.sg/journal/11430): 2.258 | [Springer](https://www.springer.com)
+- [Science China Earth Sciences](https://www.springer.com/journal/11430): 2.918 | [Springer](https://www.springer.com)
 - [Solid Earth](https://www.solid-earth.net/index.html): 2.38 | [EGU](https://www.egu.eu/publications/open-access-journals)
 - [Tectonics](https://agupubs.onlinelibrary.wiley.com/journal/19449194): 3.98 | [AGU](https://agupubs.onlinelibrary.wiley.com)
 - [Tectonophysics](https://www.sciencedirect.com/journal/tectonophysics): 2.764 | [ScienceDirect](https://www.sciencedirect.com)
-- [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com).
+- [*Eos*](https://eos.org): Earth & Space Science news distributed by [AGU](https://agupubs.onlinelibrary.wiley.com)
 
 
 ## Geophysics
@@ -116,7 +118,6 @@ slug: journals
 - [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science!
     - [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
     - [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors
-
 
 
 ## Revision history
