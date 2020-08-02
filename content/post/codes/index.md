@@ -118,7 +118,7 @@ slug: codes
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
 - [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
 - [Charles J. Ammon's codes](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html): Receiver-Function Analysis
-- [RF software](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Receiver Function Analysis Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
+- [Jeffrey Park's codes](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Receiver Function Analysis Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
 - [RfPy](https://paudetseis.github.io/RfPy/): Calculating teleseismic receiver function in Python
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
 - [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic RF in two-dimensional localized hetergeneous structures based on PSV Hybrid method (GRT-FD)
@@ -431,7 +431,7 @@ slug: codes
 - [processRFmatlab](https://github.com/iwbailey/processRFmatlab): matlab functions and scripts for working with receiver functions
 - [rf](https://github.com/trichter/rf): Receiver function calculation in seismology, written in Python
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing receiver functions and shear wave spliting modified from [Splitlab](http://splitting.gm.univ-montp2.fr) and [processRFmatlab](https://github.com/iwbailey/processRFmatlab)
-- [Some group codes for RF analysis](https://github.com/rmartinshort/RecieverFunctions): Ammon's & Cheng's codes
+- [Collection of some group codes for RF analysis](https://github.com/rmartinshort/RecieverFunctions): including Charles Ammon's & Cheng's codes. The later one contains Qingju Wu's method (maximum entrop deconvolution), i.e., `burgays`.
 
 
 ### Inversion of teleseismic waveforms
