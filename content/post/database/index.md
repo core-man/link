@@ -220,6 +220,8 @@ slug: database
 
 ## Networks/Waveforms
 
+### Asia
+
 - [国家测震台网数据备份中心](http://www.seisdmc.ac.cn)
 - [中国地震科学探测台站数据中心](http://www.chinarraydmc.cn/index)
 - [中国地震科学实验场](http://www.cses.ac.cn)
@@ -231,11 +233,19 @@ slug: database
 - [NIED F-net](http://www.fnet.bosai.go.jp/top.php)
 - [NIED K-net, KiK-net](http://www.kyoshin.bosai.go.jp)
 - [Jarray](http://jarray.eri.u-tokyo.ac.jp)
+
+### North America
+
 - [Southern California Seismic Network](https://www.scsn.org)
     - [Southern California Earthquake Data Center](https://scedc.caltech.edu) | [web services](https://service.scedc.caltech.edu/)
 - [Northern California Earthquake Data Center](http://www.ncedc.org)
 - [Alaska Earthquake Information Center](http://earthquake.alaska.edu)
 - [Canadian National Seismic Network](http://www.earthquakescanada.nrcan.gc.ca/stndon/CNSN-RNSC/index-en.php)
+
+### Oceanic
+
+- [AusPass](http://auspass.edu.au/index.html): the Australian Passive Seismic Server
+- [GeoNet](https://www.geonet.org.nz/): Geological hazard information for New Zealand
 
 
 
