@@ -43,7 +43,7 @@ slug: codes
 
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
     - [Waveform Import/Export Plug-ins](https://docs.obspy.org/packages/index.html) | [Supported Formats](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read)
-    - [r16](https://github.com/d-chambers/rg16): ObsPy plugin to read receiver gather 1.6-1 waveform files (no longer needed)
+    - [r16](https://github.com/d-chambers/rg16): ObsPy plugin to read data in the format of Receiver Gather 1.6-1, which is used to store data recorded by Farfield Nodal's Zland product line (no longer needed)
 - [rdseed](https://github.com/iris-edu-legacy/rdseed): Convert seismic data from SEED format to other common format, e.g., SAC
     - Data extraction has some problems with the sources. We have to use the binary instead, which can be found in [IRIS](http://ds.iris.edu/pub/programs). | [Chinese install manual](https://blog.seisman.info/rdseed-install) | [Chinese note](https://blog.seisman.info/tags/SEED)
 - [mseed2sac](https://github.com/iris-edu/mseed2sac): Convert miniSEED format to SAC format
