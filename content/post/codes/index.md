@@ -41,15 +41,17 @@ slug: codes
 
 ### Seismic Data Format Conversion
 
+- [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
+    - [r16](https://github.com/d-chambers/rg16): obspy plugin to read receiver gather 1.6-1 waveform files (no longer needed)
 - [rdseed](https://github.com/iris-edu-legacy/rdseed): Convert seismic data from SEED format to other common format, e.g., SAC
     - Data extraction has some problems with the sources. We have to use the binary instead, which can be found in [IRIS](http://ds.iris.edu/pub/programs). | [Chinese install manual](https://blog.seisman.info/rdseed-install) | [Chinese note](https://blog.seisman.info/tags/SEED)
-- [sac2mseed](https://seiscode.iris.washington.edu/projects/sac2mseed): Convert SAC format to minniSEED format
 - [mseed2sac](https://github.com/iris-edu/mseed2sac): Convert miniSEED format to SAC format
-- [win32tools](http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools): Convert WIN32 format used by Hi-net, to SAC format
-- [dataselect](https://seiscode.iris.washington.edu/projects/dataselect): Selection and sorting for data in miniSEED format
 - [msmod](https://seiscode.iris.washington.edu/projects/msmod): A small program to modify miniSEED header values
-- [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
-- [CubeTools](https://digos.eu/downloads-docs/): Data Format conversion software for DATA-CUBE seismic recorder
+- [dataselect](https://seiscode.iris.washington.edu/projects/dataselect): Selection and sorting for data in miniSEED format
+- [sac2mseed](https://seiscode.iris.washington.edu/projects/sac2mseed): Convert SAC format to minniSEED format
+- [GIPP softwares](https://www.gfz-potsdam.de/en/section/geophysical-deep-sounding/infrastructure/geophysical-instrument-pool-potsdam-gipp/software/): a collection of software utilities for initial pre-processing of recorded data
+- [CubeTools](https://digos.eu/downloads-docs/): Data Format conversion software for CUBE data
+- [win32tools](http://www.hinet.bosai.go.jp/REGS/manual/dlDialogue.php?r=win32tools): Convert WIN32 format used by Hi-net, to SAC format
 
 
 ### Seismic Data Processing
