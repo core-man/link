@@ -427,7 +427,7 @@ slug: codes
 - [CCP](http://www.eas.slu.edu/People/LZhu/home.html): Common-Conversion-Point (CCP) stacking of receiver functions | [Chinses note](https://blog.seisman.info/ccp-install)
 - [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by reversible-jump Markov-chain Monte Carlo in Fortran
 - [Charles J. Ammon's codes](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html): Receiver-Function Analysis
-- [Jeffrey Park's codes](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html): receiver function analysis | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
+- [Jeffrey Park's codes](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html): receiver function analysis | [recfunk09_pick](https://seiscode.iris.washington.edu/projects/recfunk09-pick) & [recfunk_ascii](https://seiscode.iris.washington.edu/projects/recfunk-ascii) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
 - [rj-RF](http://www.iearth.org.au/codes/rj-RF): Inversion of Receiver Functions using Reversible jump Markov chain Monte Carlo algorithm
 - [IRFFM](http://rses.anu.edu.au/~hrvoje/IRFFMv1.1.html): An interactive Java program for joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
 - [CrazySeismic](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
