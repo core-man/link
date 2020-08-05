@@ -572,7 +572,7 @@ slug: codes
 - [OrientPy](https://nfsi-canada.github.io/OrientPy/): Estimate seismometer orientation written in Python
 - [DLOPy](https://github.com/jbrussell/DLOPy_v1.0): Calculate OBS horizontal orientations based on Raleigh-wave arrival angle written in Python
 - [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration written in Matlab
-- [ATacR](https://github.com/helenjanisz/ATaCR): Automated Tilt and Compliance Removal (for ocean bottoms seismometers) written in Matlab
+- [ATacR](https://seiscode.iris.washington.edu/projects/atacr): Automated Tilt and Compliance Removal (for ocean bottoms seismometers) written in Matlab
 - [OBStools](https://nfsi-canada.github.io/OBStools/): Removing vertical component noise from tilt and compliance effects written in Python
 
 
