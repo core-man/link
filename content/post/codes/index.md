@@ -393,7 +393,7 @@ slug: codes
 ### Direct inversion of surface-wave dispersion data
 
 - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran written in Fortran
-- [DSurfRTomo](https://github.com/ShaoqianHu/DSurfRTomo): Direct Surface Wave Radial Anisotropy Tomography written in Fortran
+- [DSurfRTomo](https://github.com/ShaoqianHu/DSurfRTomo): Direct Surface Wave Radial Anisotropy Tomography written in Fortran | [zenodo](https://zenodo.org/record/3592528#.XyzC2s8zZhF)
 - [DAzimSurfTomo](https://github.com/Chuanming-Liu/DAzimSurfTomo): Direct inversion of Rayleigh wave dispersion data for 3-D azimuthal anisotropy based on ray tracing written in Fortran
 - [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
 
