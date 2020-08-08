@@ -20,9 +20,8 @@ slug: tools
 - [FDSN](http://www.fdsn.org/about)
     - [FDSN Newtork Codes](http://www.fdsn.org/networks)
     - [Data Centers Supporting FDSN Web Services](http://www.fdsn.org/datacenters)
-- [Time Series Data Channels](http://ds.iris.edu/ds/nodes/dmc/tools/data_channels/#???)
-- [IASPEI standard phase list](http://www.isc.ac.uk/standards/phases)
 - [3-D earthquake display](https://glowy-earthquakes.glitch.me)
+- [IASPEI standard phase list](http://www.isc.ac.uk/standards/phases)
 
 
 

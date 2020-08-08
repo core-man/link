@@ -42,12 +42,10 @@ slug: Learning
 
 ### 地震学数据
 
-- Seisman’s blog
-    - [地震波形数据格式](https://blog.seisman.info/seismic-data-formats)
-    - [SAC不同格式间的转换](https://blog.seisman.info/conversion-of-different-sac-formats)
-    - [SAC技巧](https://blog.seisman.info/tags/SAC%E6%8A%80%E5%B7%A7)
-    - [调用SAC进行Hilbert变换](https://blog.seisman.info/trash/sac-hilbert-transform)
-    - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94)
+- 数据格式
+    - [地震波形数据格式](https://blog.seisman.info/seismic-data-formats) | [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/)
+    - [ObsPy Supported Formats](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read)
+    - [SEED Channel Naming](https://ds.iris.edu/ds/nodes/dmc/data/formats/seed-channel-naming/) | [Time Series Data Channels](http://ds.iris.edu/ds/nodes/dmc/tools/data_channels/#???)
 - 地震学仪器
     - [Instrumentation for Observational Seismology](https://www.iris.edu/hq/webinar/2020/04/instrumentation_for_observational_seismology__where_our_wiggles_come_from): Adam Ringler's talk
     - [Three Types of Noise Sources Recorded on Seismometers](https://www.youtube.com/watch?v=Eyi5Qoy3Iek&list=PLU4ZnBGMN1qjh1qjOmh3uvgzpciFF-xu3&index=16&t=3446s): Robert Anthony's talk
@@ -57,9 +55,13 @@ slug: Learning
         - [Jupyter Notebooks](http://www.seismo-live.org/)
     - [Fiber-optic Seismology](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice): Nate Lindsey's talk
 - 仪器效应
-    - [仪器效应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
+    - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
     - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
     - [IRIS DMC Library of Nominal Responses for Seismic Instruments](http://ds.iris.edu/NRL/)
+- SAC技巧
+    - [SAC不同格式间的转换](https://blog.seisman.info/conversion-of-different-sac-formats)
+    - [SAC技巧](https://blog.seisman.info/tags/SAC%E6%8A%80%E5%B7%A7) | [SAC 技巧与陷阱](https://seisman.github.io/SAC_Docs_zh/tricks-and-traps/)
+    - [调用SAC进行Hilbert变换](https://blog.seisman.info/trash/sac-hilbert-transform)
 
 
 ### 参考手册
