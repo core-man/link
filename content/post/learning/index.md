@@ -47,13 +47,17 @@ slug: Learning
     - [ObsPy Supported Formats](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read)
     - [SEED Channel Naming](https://ds.iris.edu/ds/nodes/dmc/data/formats/seed-channel-naming/) | [Time Series Data Channels](http://ds.iris.edu/ds/nodes/dmc/tools/data_channels/#???)
 - 地震学仪器
-    - [Instrumentation for Observational Seismology](https://www.iris.edu/hq/webinar/2020/04/instrumentation_for_observational_seismology__where_our_wiggles_come_from): Adam Ringler's talk
-    - [Three Types of Noise Sources Recorded on Seismometers](https://www.youtube.com/watch?v=Eyi5Qoy3Iek&list=PLU4ZnBGMN1qjh1qjOmh3uvgzpciFF-xu3&index=16&t=3446s): Robert Anthony's talk
+    - tranditional instrument
+        - [Instrumentation for Observational Seismology](https://www.iris.edu/hq/webinar/2020/04/instrumentation_for_observational_seismology__where_our_wiggles_come_from): Adam Ringler's talk
+        - [Three Types of Noise Sources Recorded on Seismometers](https://www.youtube.com/watch?v=Eyi5Qoy3Iek&list=PLU4ZnBGMN1qjh1qjOmh3uvgzpciFF-xu3&index=16&t=3446s): Robert Anthony's talk
     - [Ocean Bottom Seismology](https://www.iris.edu/hq/webinar/2013/03/under_the_sea__ocean_bottom_seismology_for_landlubbers): Doug Wiens's talk
-    - [Rotational seismology](https://www.youtube.com/watch?v=oUcVbZKRQfk): Heiner Igel's talk begins on `2:22:30`
+    - Rotational seismology
         - [International Working Group on Rotational Seismology](http://www.rotational-seismology.org/)
         - [Jupyter Notebooks](http://www.seismo-live.org/)
-    - [Fiber-optic Seismology](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice): Nate Lindsey's talk
+        - [Rotational Motions - a new observable for Seismology (2018)](https://www.youtube.com/watch?v=oUcVbZKRQfk): Heiner Igel's talk begins on `2:22:30`
+    - Fiber-optic Seismology
+        - [Fiber-optic Seismology in Theory and Practice (2020)](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice)
+        - [Distributed Acoustic Sensing Virtual Workshop and Tutorial (2020)](https://www.iris.edu/hq/event/2020_DAS_Workshop)
 - 仪器效应
     - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
     - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
@@ -131,10 +135,10 @@ slug: Learning
 
 ### Course & Workshop
 
-- [Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
+- [Remote Online Sessions for Emerging Seismologists (2020)](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
 - [2020 USTC seismological algorithms training](http://seismo.training.ustc.edu.cn/index.php)
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
-- [Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
+- [Subduction Zone Observatory Workshop (2016)](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 - [Southern University of Science and Technology 2019 Workshop (password: SUSTech2019)](https://owncloud.sustc.edu.cn/s/aF4ZK5C5SoLcejj)
 
 
