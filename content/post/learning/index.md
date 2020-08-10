@@ -51,12 +51,13 @@ slug: Learning
         - [Three Types of Noise Sources Recorded on Seismometers](https://www.youtube.com/watch?v=Eyi5Qoy3Iek&list=PLU4ZnBGMN1qjh1qjOmh3uvgzpciFF-xu3&index=16&t=3446s): Robert Anthony's talk
     - [Ocean Bottom Seismology](https://www.iris.edu/hq/webinar/2013/03/under_the_sea__ocean_bottom_seismology_for_landlubbers): Doug Wiens's talk
     - Rotational seismology
-        - [International Working Group on Rotational Seismology](http://www.rotational-seismology.org/)
-        - [Jupyter Notebooks](http://www.seismo-live.org/)
+        - [International Working Group on Rotational Seismology](http://www.rotational-seismology.org/) | [Jupyter Notebooks](http://www.seismo-live.org/)
         - [Rotational Motions - a new observable for Seismology (2018)](https://www.youtube.com/watch?v=oUcVbZKRQfk): Heiner Igel's talk begins on `2:22:30`
     - Fiber-optic Seismology
-        - [Fiber-optic Seismology in Theory and Practice (2020)](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice)
+        - [Review of DAS applications in geophysics](https://doi.org/10.1785/0220190112)
         - [Distributed Acoustic Sensing Virtual Workshop and Tutorial (2020)](https://www.iris.edu/hq/event/2020_DAS_Workshop)
+        - [Fiber-optic Seismology in Theory and Practice (2020)](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice)
+        - [Distributed Fiber-Optic Seismology in Theory and in Practice (2018)](https://www.youtube.com/watch?v=LAcQ44YRMuM)
 - 仪器效应
     - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
     - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
