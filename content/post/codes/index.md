@@ -297,6 +297,7 @@ slug: codes
 - [CAPsf](https://doi.org/10.1785/0220190349): invert source mechanisms for single‐force events
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
     - [Moment Tensor Workshop (2012)](http://www.eas.slu.edu/eqc/eqc_cps/workshop.html)
+- [Moment-Tensor Inversion](http://eqseis.geosc.psu.edu/cammon/HTML/MTinvDocs/mtinv01.html)
 - [W Phase](http://eost.u-strasbg.fr/wphase): Moment tensor inversion using W phase
 - [focmec](https://seiscode.iris.washington.edu/projects/focmec): Package for determining and displaying double-couple earthquake focal mechanisms based on polarities and amplitude ratios
 - [HASH](https://earthquake.usgs.gov/research/software/#HASH): Determine double-couple earthquake focal mechanisms based on P-wave polarity and S/P amplitude ratios
@@ -432,6 +433,9 @@ slug: codes
 - [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by reversible-jump Markov-chain Monte Carlo in Fortran
 - [Charles J. Ammon's codes](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html): Receiver-Function Analysis
 - Jeffrey Park's codes: [recfunk09_pick](https://seiscode.iris.washington.edu/projects/recfunk09-pick) | [recfunk_ascii](https://seiscode.iris.washington.edu/projects/recfunk-ascii) | [manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [some updates at JParkCodes](http://jparkcodes.blogspot.com)
+- [Collection of some group codes for RF analysis](https://github.com/rmartinshort/RecieverFunctions)
+    - Charles Ammon's codes
+    - Cheng's codes: including Qingju Wu's method (maximum entrop deconvolution), `burgays`
 - [rj-RF](http://www.iearth.org.au/codes/rj-RF): Inversion of Receiver Functions using Reversible jump Markov chain Monte Carlo algorithm
 - [IRFFM](http://rses.anu.edu.au/~hrvoje/IRFFMv1.1.html): An interactive Java program for joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
 - [CrazySeismic](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
@@ -439,7 +443,6 @@ slug: codes
 - [processRFmatlab](https://github.com/iwbailey/processRFmatlab): matlab functions and scripts for working with receiver functions
 - [rf](https://github.com/trichter/rf): Receiver function calculation in seismology, written in Python
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing receiver functions and shear wave spliting modified from [Splitlab](http://splitting.gm.univ-montp2.fr) and [processRFmatlab](https://github.com/iwbailey/processRFmatlab)
-- [Collection of some group codes for RF analysis](https://github.com/rmartinshort/RecieverFunctions): including Charles Ammon's & Cheng's codes. The later one contains Qingju Wu's method (maximum entrop deconvolution), i.e., `burgays`.
 
 
 ### Inversion of teleseismic waveforms

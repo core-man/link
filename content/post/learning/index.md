@@ -16,9 +16,9 @@ slug: Learning
 
 - [CPS](http://www.eas.slu.edu/eqc/eqccps.html): [Documentation](http://www.eas.slu.edu/eqc/eqc_cps/CPS/CPS330.html) | [Tutorials](http://www.eas.slu.edu/eqc/eqc_cps/TUTORIAL) | [Questions and Responses](http://www.eas.slu.edu/eqc/eqc_cps/Questions) | [Notes](http://www.eas.slu.edu/eqc/eqc_cps/workshop.html)
 - [Lupei Zhu’s research notes](https://docplayer.net/62058516-Synthetic-seismograms-and-seismic-waveform-modeling-lupei-zhu-saint-louis-university.html)
+- [Charles J. Ammon's research notes](http://eqseis.geosc.psu.edu/cammon/index.html)
 - [Emile A. Okal’s notes](https://www.earth.northwestern.edu/individ/emile/462.Spring16)
 - [William Menke’s research notes 1977-present](https://www.ldeo.columbia.edu/users/menke/research_notes/index.html)
-- [Community Online Resource for Statistical Seismicity Analysis](http://www.corssa.org/en/home/)
 
 
 ### 地震学物理量
@@ -34,10 +34,13 @@ slug: Learning
 
 ### 计算地震学
 
-- Seisman’s blog
+- Focal mechanism
     - [辐射花样的计算与震源球的绘制](https://blog.seisman.info/radiation-pattern-and-beach-ball)
     - [由矩张量计算双力偶断层参数](https://blog.seisman.info/moment-tensor-to-double-couple)
+- 走时
     - [走时计算](https://blog.seisman.info/tags/%E8%B5%B0%E6%97%B6)
+- Receiver Function Analysis
+    - [An Overview of Receiver-Function Analysis](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html)
 
 
 ### 地震学数据
@@ -127,12 +130,13 @@ slug: Learning
 - [GMT-China blog](https://gmt-china.org/blog)
 
 
-## Lectures
+## Lectures & Resources
 
 ### Collections
 
 - [IRIS Webinars](https://www.iris.edu/hq/webinar/)
 - [CIDER Lecture Collection](http://seismo.berkeley.edu/wiki_cider/CIDER_Lecture_Collection)
+- [Community Online Resource for Statistical Seismicity Analysis](http://www.corssa.org/en/home/)
 
 ### Course & Workshop
 
