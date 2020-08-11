@@ -39,8 +39,6 @@ slug: Learning
     - [由矩张量计算双力偶断层参数](https://blog.seisman.info/moment-tensor-to-double-couple)
 - 走时
     - [走时计算](https://blog.seisman.info/tags/%E8%B5%B0%E6%97%B6)
-- Receiver Function Analysis
-    - [An Overview of Receiver-Function Analysis](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html)
 
 
 ### 地震学数据
