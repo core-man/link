@@ -23,8 +23,9 @@ slug: Learning
 
 ### 地震学物理量
 
-- Seisman’s blog
+- 地震学中的坐标系
     - [地震学中的坐标系](https://blog.seisman.info/coordinate-systems-in-seismology)
+    - [SurfaceWaveMFA](http://eqseis.geosc.psu.edu/cammon/index.html): Moment-Tensor Conventions
     - [地震学断层的定义](https://blog.seisman.info/faults-in-seismology)
 - Focal mechanism
     - [Focal Mechanisms Explained: What are those “beach balls”?](https://www.youtube.com/watch?v=MomVOkyDdLo): A 6-minute video explaining beachballs for non-seismologists and beginners.

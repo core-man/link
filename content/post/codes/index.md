@@ -349,6 +349,7 @@ slug: codes
     - [Auto_TAnaylsis_GUI](https://github.com/Chuanming-Liu/Auto_TAnaylsis_GUI): Automatic Surface Wave Two-station Dispersion Analysis (Matlab GUI)
 - [ASWMS](https://ds.iris.edu/ds/products/aswms): Automated Surface Wave Phase Velocity Measuring System, measuring two-station phase delay and then 2D phase velocity maps at each period using Eikonal and Helmhotza tomography | [code in GitHub](https://github.com/jinwar/matgsdf)
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+    - [Surface Waves](http://www.eas.slu.edu/eqc/eqc_cps/TUTORIAL/): CPS330's tutorial on surface wave
     - [two-station technique to obtain phase velocities](http://www.eas.slu.edu/eqc/eqc_cps/Questions/QA0008/index.html)
 - [SurfaceWaveMFA](http://eqseis.geosc.psu.edu/cammon/index.html): Surface Wave Multiple Filter Analysis
 
