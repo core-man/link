@@ -102,7 +102,7 @@ slug: codes
 - [pykonal](https://github.com/malcolmw/pykonal): 3D traveltime calculator for Eikonal equation in Cartesian and spherical coordinates
 - [RSTT](https://www.sandia.gov/rstt/): Regional Seismic Travel Time
 - [ANISOtime](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/anisotime.html): Traveltime calculation for transversely isotropic (TI) spherically symmetric models
-- [Surface Wave Ray Tracing with Azimuthal Anisotropy](http://www.spice-rtn.org/library/software/traceswani/softwarerelease.2006-11-16.2126060784.html): Surface Wave Ray Tracing with Azimuthal Anisotropy
+- [Surface Wave Ray Tracing with Azimuthal Anisotropy](http://www.spice-rtn.org/library/software/traceswani/softwarerelease.2006-11-16.2126060784.html): Surface Wave Ray Tracing with Azimuthal Anisotropy | [Lapo Boschi's homepage](http://hestia.lgs.jussieu.fr/~boschil/downloads.html)
 
 
 ## Surface-wave dispersion forward calculation
@@ -370,6 +370,7 @@ slug: codes
     - [Corr_stack](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Ambient Noise Processing Tools for Phase Cross Correlation and time-frequency Phase Weighted Stack written in Fortran | [IRIS Webinar](https://www.youtube.com/watch?v=qr5EFhQzPwg)
     - [PCC](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in C
     - [PCC2](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software): Fast and efficient phase cross-correlation written in Python
+- [Lapo Boschi's codes](http://hestia.lgs.jussieu.fr/~boschil/downloads.html): Ambient-noise cross-correlation and dispersion-curve measurement in the frequency domain written in Python
 - [MATnoise](https://github.com/jbrussell/MATnoise): Calculate ambient noise cross-correlations, measure phase velocities, and invert for phase velocity maps in MATLAB.
 
 ### Inverting 2D surface-wave phase/group velocity maps
