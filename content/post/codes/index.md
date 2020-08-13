@@ -284,7 +284,7 @@ slug: codes
 - [REAL](https://github.com/Dal-mzhang/REAL): Rapid Earthquake Association and Location
 - [Velest](https://seg.ethz.ch/software/velest.html): 1-D inversion of velocities and hypocenter locations
     - This code is modified to be used in [REAL](https://github.com/Dal-mzhang/REAL)
-
+- [location-pt](https://gitlab.com/dettmer-jan/location-pt): Multiple earthquake location via parallel tempering and principal component sampling.
 
 
 ### Focal Mechanism
