@@ -599,8 +599,10 @@ slug: codes
 - [Sequencer](https://github.com/dalya/Sequencer): An algorithm that detects one-dimensional sequences in complex datasets in Python
 
 
-### Interesting tools
+### Signal processing
 
+- [FFTW](http://fftw.org/): a C subroutine library for computing the discrete Fourier transform (DFT)
+- [SeisSound](https://ds.iris.edu/ds/products/seissound/): The Audio/Video Seismic Waveform Visualization
 - [datamovies](https://github.com/jbrussell/datamovies): a couple of demo codes for sonifying data
 
 
@@ -662,16 +664,6 @@ slug: codes
 ---------------
 ## Software Library
 
-### Mathmatical Library
-
-- [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
-- [Shansyn](http://www.spice-rtn.org/library/software/shansyn): Spherical Harmonic ANalysis and SYNthesis
-- [SEISCOPE TOOLBOX](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=fr): Seiscope optimization toolbox
-- [Parameter Estimation and Inverse Problems Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode): a compilation of inverse and parameter estimation code that accompanies the second edition of the textbook "Parameter Estimation and Inverse Problems"
-- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html)
-- [The Comprehensive R Archive Network](https://cran.r-project.org/)
-
-
 ### Seismic Library
 
 - [uOttawa Geophysics](https://www.uogeophysics.com/#software): Some seismic softwares by geophysics group at University of Ottawa
@@ -691,15 +683,25 @@ slug: codes
 - [softwares in UNAVCO](https://www.unavco.org/software/software.html): softwares used in Geodesy studies.
 
 
+### Computation Library
+
+- [Free Intel® Software Development Tools](https://software.intel.com/en-us/qualify-for-free-software) | [Chinese introduction](https://blog.seisman.info/intel-non-commercial-software) and [How to uninstall](https://blog.seisman.info/uninstall-intel-parallel-studio-completely)
+    - [Educator](https://software.intel.com/en-us/qualify-for-free-software/educator) | [Open Source Contributor](https://software.intel.com/en-us/qualify-for-free-software/opensourcecontributor) | [Student](https://software.intel.com/en-us/qualify-for-free-software/student)
+
+
 ### Matlab Library
 
 - [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware)
 
 
-### Other Library
+### Mathmatical Library
 
-- [Free Intel® Software Development Tools](https://software.intel.com/en-us/qualify-for-free-software) | [Chinese introduction](https://blog.seisman.info/intel-non-commercial-software) and [How to uninstall](https://blog.seisman.info/uninstall-intel-parallel-studio-completely)
-    - [Educator](https://software.intel.com/en-us/qualify-for-free-software/educator) | [Open Source Contributor](https://software.intel.com/en-us/qualify-for-free-software/opensourcecontributor) | [Student](https://software.intel.com/en-us/qualify-for-free-software/student)
+- [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
+- [Shansyn](http://www.spice-rtn.org/library/software/shansyn): Spherical Harmonic ANalysis and SYNthesis
+- [SEISCOPE TOOLBOX](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=fr): Seiscope optimization toolbox
+- [Parameter Estimation and Inverse Problems Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode): a compilation of inverse and parameter estimation code that accompanies the second edition of the textbook "Parameter Estimation and Inverse Problems"
+- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html)
+- [The Comprehensive R Archive Network](https://cran.r-project.org/)
 
 
 ----------------------
