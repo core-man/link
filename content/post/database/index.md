@@ -34,6 +34,7 @@ slug: database
 ## Seismic Databases and Models
 
 ### Databases
+
 - [IRIS Data Services Products](http://ds.iris.edu/ds/products)
     - [globalstacks](http://ds.iris.edu/ds/products/globalstacks): Global stacks of millions of seismograms
     - [SeisSound](http://ds.iris.edu/ds/products/seissound): The Audio/Video Seismic Waveform Visualization
@@ -63,6 +64,7 @@ slug: database
 - [China Geophysical Reference Model](http://chinageorefmodel.org)
 - [EPcrust model](http://eurorem.bo.ingv.it/EPcrust_solar): A new European crustal model | [European Seismological Reference Model](http://eurorem.bo.ingv.it/)
 - [AuSREM](http://rses.anu.edu.au/seismology/AuSREM/index.php): Australian Seismological Reference Model AuSREM
+- [AusPass](http://auspass.edu.au/research.html): Australian Passive Seismic Server Research Data Products
 - [Irina M. Artemieva's crust models](http://www.lithosphere.info/downloads.html)
 - 1D model
     - [Taup](https://www.seis.sc.edu/taup): *StdModels* contain many 1D models, e.g., PREM, AK135, iasp91 etc.
@@ -175,11 +177,12 @@ slug: database
     - [Share European Earthquake Catalogue (SHEEC)](https://www.emidius.eu/SHEEC)
 - [SCSN Catalog](http://service.scedc.caltech.edu/eq-catalogs/date_mag_loc.php) | [SCEDC web service](http://service.scedc.caltech.edu/fdsnws/event/1)
 - [NCSN Catalog](https://ncedc.org/ncedc/catalog-search.html) | [NCEDC web service](http://service.ncedc.org/fdsnws/event/1)
+- [Egill Hauksson's relocated catalog from SCSN](https://service.scedc.caltech.edu/ftp/catalogs/hauksson/Socal_DD/)
+- [Canada National Earthquake DataBase](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/index-en.php)
 - JMA catalog | [Chinese note](https://blog.seisman.info/trash/jma-unified-hypocenter-catalog)
     - [JMA Unified Hypocenter Catalog](https://hinetwww11.bosai.go.jp/auth/JMA/jmalist.php): Hinet provides event waveform data, arrivel time data and focal mechanism based on the catalog.
     - [The Seismological Bulletin of Japan](http://www.data.jma.go.jp/svd/eqev/data/bulletin/hypo_e.html): Final version of JMA Unified Hypocenter Catalog
 - [Australia Earthquakes](https://earthquakes.ga.gov.au)
-- [Canada National Earthquake DataBase](http://www.earthquakescanada.nrcan.gc.ca/stndon/NEDB-BNDS/index-en.php)
 
 
 ## Focal Mechanism Catalog
