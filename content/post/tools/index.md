@@ -28,6 +28,7 @@ slug: tools
 ## Chemistry
 
 - [Periodic Table](https://www.ptable.com)
+- [Interactive periodic table of the elements](https://leonard-seydoux.github.io/periodic-table/)
 
 
 
