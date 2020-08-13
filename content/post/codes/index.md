@@ -661,6 +661,23 @@ slug: codes
 - [Neighborhood-Algorithm](https://github.com/nqdu/Neighborhood-Algorithm): A simple NA implementation in c++
 
 
+### Gradient methods
+
+- [Systems Optimization Laboratory](https://web.stanford.edu/group/SOL/download.html)
+    - Iterative solvers for sparse Ax = b: SYMMLQ, MINRES, MINRES-QLP, cgLanczos, CRAIG
+    - Iterative solvers for sparse least-squares problems: LSQR, LSMR, LSLQ, LNLQ, CGLS, covLSQR, LSRN
+    - Sparse and dense LU factorization (direct methods): LUSOL, LUMOD
+- [LSQR](https://github.com/jacobwilliams/LSQR): Modern Fortran sparse linear systems solve
+
+
+### Linear Algebra
+
+- [LAPACK](http://www.netlib.org/lapack/): Linear Algebra PACKage | [LAPACK Working Notes](http://www.netlib.org/lapack/lawns/downloads/index.html)
+- [BLAS](http://www.netlib.org/blas/): Basic Linear Algebra Subprograms
+- [LINPACK](http://www.netlib.org/linpack/index.html): a collection of Fortran subroutines that analyze and solve linear equations and linear least-squares problems, which has been largely superceded by LAPACK
+
+
+
 ---------------
 ## Software Library
 
@@ -696,6 +713,7 @@ slug: codes
 
 ### Mathmatical Library
 
+- [Netlib](http://www.netlib.org/): a collection of mathematical software, papers, and databases
 - [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
 - [Shansyn](http://www.spice-rtn.org/library/software/shansyn): Spherical Harmonic ANalysis and SYNthesis
 - [SEISCOPE TOOLBOX](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=fr): Seiscope optimization toolbox
