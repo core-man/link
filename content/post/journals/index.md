@@ -69,10 +69,11 @@ slug: journals
 
 ## Preprint & Open Sources
 
+- [The Journal of Open Source Software](https://joss.theoj.org/)
 - [ESSOAr](https://www.essoar.org/): Earth and Space Science Open Archive
 - [EarthArXiv](https://eartharxiv.org/): a free preprint service for the Earth sciences
 - [arXiv](https://arxiv.org/): a free distribution service and an open-access archive
-- [The Journal of Open Source Software](https://joss.theoj.org/)
+- [OSF](https://osf.io/): a free, open platform to support your research and enable collaboration
 
 
 ## Publisher
