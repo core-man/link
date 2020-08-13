@@ -44,7 +44,7 @@ slug: Learning
 ### 地震学数据
 
 - 数据格式
-    - [地震波形数据格式](https://blog.seisman.info/seismic-data-formats) | [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/)
+    - [地震波形数据格式](https://blog.seisman.info/seismic-data-formats) | [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/) | [Modern File Formats for Seismology](http://seismic-data.org/)
     - [ObsPy Supported Formats](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read)
     - [SEED Channel Naming](https://ds.iris.edu/ds/nodes/dmc/data/formats/seed-channel-naming/) | [Time Series Data Channels](http://ds.iris.edu/ds/nodes/dmc/tools/data_channels/#???)
 - 地震学仪器
