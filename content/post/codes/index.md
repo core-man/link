@@ -672,7 +672,7 @@ slug: codes
 
 ### Linear Algebra
 
-- [LAPACK](http://www.netlib.org/lapack/): Linear Algebra PACKage | [LAPACK Working Notes](http://www.netlib.org/lapack/lawns/downloads/index.html)
+- [LAPACK](http://www.netlib.org/lapack/): Linear Algebra PACKage | [LAPACK Working Notes](http://www.netlib.org/lapack/lawns/downloads/index.html) | [GitHub](https://github.com/Reference-LAPACK)
 - [BLAS](http://www.netlib.org/blas/): Basic Linear Algebra Subprograms
 - [LINPACK](http://www.netlib.org/linpack/index.html): a collection of Fortran subroutines that analyze and solve linear equations and linear least-squares problems, which has been largely superceded by LAPACK
 
