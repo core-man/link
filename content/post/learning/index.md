@@ -142,11 +142,12 @@ slug: Learning
 
 ### Course & Workshop
 
-- [Remote Online Sessions for Emerging Seismologists (2020)](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
+- [Earth Data Science](https://www.earthdatascience.org/): [Tutorials](https://www.earthdatascience.org/tutorials/) | [Courses & Textbooks](https://www.earthdatascience.org/courses/) | [Workshops](https://www.earthdatascience.org/workshops/)
+- [2020 Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
 - [2020 USTC seismological algorithms training](http://seismo.training.ustc.edu.cn/index.php)
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
-- [Subduction Zone Observatory Workshop (2016)](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 - [Southern University of Science and Technology 2019 Workshop (password: SUSTech2019)](https://owncloud.sustc.edu.cn/s/aF4ZK5C5SoLcejj)
+- [Subduction Zone Observatory Workshop (2016)](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 
 
 ## Misc
