@@ -361,9 +361,9 @@ slug: codes
     - [ancc](http://ciei.colorado.edu/Products/): Ambient noise data processing code and database for processing in C | [github](https://github.com/NoiseCIEI/ANCC)
     - [Seed2Cor](https://github.com/NoiseCIEI/Seed2Cor): Seismic Ambient Noise Cross-Correlation in Parallel written in C
     - [AFTAN](http://ciei.colorado.edu/Products/): Automatic Frequency-Time Analysis (AFTAN) of cros-correlogram of ambient seismic noise in Fortran | [github](https://github.com/NoiseCIEI/AFTAN) | [Python package of AFTAN](https://github.com/NoisyLeon/pyaftan)
-- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28)
-    - Ambient noise cross-correlation codes for daily long SAC format data in Matlab
-    - Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
+- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): [2020 USTC seismic training](http://seismo.training.ustc.edu.cn/index.php/info) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
+    - `NoiseCorr` : Ambient noise cross-correlation codes for daily long SAC format data in Matlab
+    - `EGFAnalysisTimeFreq` : Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
 - [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
 - [SeisNoise](https://github.com/tclements/SeisNoise.jl): Fast and easy ambient noise cross-correlation in Julia, with noise monitoring and surface wave dispersion analysis
 - [Martin Schimmel's codes](http://diapiro.ictja.csic.es/gt/mschi/SCIENCE/tseries.html#software)
@@ -454,7 +454,7 @@ slug: codes
 ### Joint Inversion of Seismological Data
 
 - [BayHunter](https://github.com/jenndrei/BayHunter): McMC transdimensional Bayesian inversion of surface wave dispersion and receiver functions in Python
-- [Huajiang Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Inversion of Vs, Vp/Vs, and interface depth using (multimode, Rayleigh and/or Love, phase and/or) dispersion data and Rayleigh wave fundamental mode ZH data (ellipticity) based on the Neighborhood Algorithm in Fortran
+- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): Inversion of Vs, Vp/Vs, and interface depth using (multimode, Rayleigh and/or Love, phase and/or) dispersion data and Rayleigh wave fundamental mode ZH data (ellipticity) based on the Neighborhood Algorithm in Fortran
 - [Weisen Shen](https://www.stonybrook.edu/commcms/geosciences/people/_faculty/shen.php)'s MCMC inversion [code](http://weisen.wustl.edu/For_Comrades/for_self/PKU_Workshop/) for a workshop in Peking University in 2017: joint inversion of surface-wave dispersion data and receiver function
 - [SEIS_FILO](https://github.com/akuhara/SEIS_FILO): SEISmological inversion tools for Flat and Isotropic Layered structure in the Ocean (Transdimensional inversion of surface wave and receiver functions)
 - [RfSurfHmc](https://github.com/nqdu/RfSurfHmc): Joint inversion of Receiver Function and Surface Wave Disperion by Hamilton Monte Carlo Method
