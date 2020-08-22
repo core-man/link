@@ -634,12 +634,12 @@ slug: codes
 - [AFAT](http://cpc.cs.qub.ac.uk/summaries/AFAT_v1_0.html): Solving the Christoffel equation: phase and group velocities
 - [PlateFlex](https://paudetseis.github.io/PlateFlex/): Estimate lithosphere elstatic thickness written in Python and Fortran
 
-### Interesting tools
+### Analyzing and Visualization
 
 - [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data): IRIS webinar
 
 
-## Thermodynamic modeling
+## Thermodynamics
 
 - [Perple_X](http://www.perplex.ethz.ch/): calculating and displaying phase diagrams, phase equilibria, and thermodynamic data | [Documentation](http://www.perplex.ethz.ch/perplex_documentation.html) | [Thermodynamic Data Files](http://www.perplex.ethz.ch/perplex_thermodynamic_data_file.html) | [Glossary](http://www.perplex.ethz.ch/PerpleX_solution_model_glossary.html)
 - [THERMOCALC](https://hpxeosandthermocalc.org/the-thermocalc-software/): calculates model phase equilibria involving the HPx-eos and/or individual end-members from the Holland & Powell dataset
