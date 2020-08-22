@@ -648,6 +648,11 @@ slug: codes
 
 ## Inversion
 
+### Inversion theory and methods
+
+- [Parameter Estimation and Inverse Problems Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode): a compilation of inverse and parameter estimation code that accompanies the second edition of the textbook "Parameter Estimation and Inverse Problems"
+
+
 ### Monte Carlo methods
 
 - [MCMC codes](http://helios.fmi.fi/~lainema/): some MCMC codes written by Marko Laine
@@ -691,6 +696,7 @@ slug: codes
 - [pyrocko](https://pyrocko.org/): an open source seismology toolbox and library written in the Python
 - [seisan](http://www.seisan.info/): SeisAn Earthquake analysis software
 - [libmseed](https://github.com/iris-edu/libmseed): A miniSEED library that provides a framework for manipulation of SEED data records
+- [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware): Numerical Methods of Exploration Seismology
 
 
 ### Geophysical Library
@@ -700,45 +706,39 @@ slug: codes
 - [softwares in UNAVCO](https://www.unavco.org/software/software.html): softwares used in Geodesy studies.
 
 
-### Computation Library
+### Computation and Mathmatical Library
+
+- [Netlib](http://www.netlib.org/): a collection of mathematical software, papers, and databases
+- [GNU Scientific Library](https://www.gnu.org/software/gsl/): a numerical library for C and C++ programmers | [doc](https://www.gnu.org/software/gsl/doc/html/index.html)
+- [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
+- [Shansyn](http://www.spice-rtn.org/library/software/shansyn): Spherical Harmonic ANalysis and SYNthesis
+- [SEISCOPE TOOLBOX](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=fr): Seiscope optimization toolbox
+- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html)
+- [The Comprehensive R Archive Network](https://cran.r-project.org/)
+
+
+### Computer Library
 
 - [Free Intel® Software Development Tools](https://software.intel.com/en-us/qualify-for-free-software) | [Chinese introduction](https://blog.seisman.info/intel-non-commercial-software) and [How to uninstall](https://blog.seisman.info/uninstall-intel-parallel-studio-completely)
     - [Educator](https://software.intel.com/en-us/qualify-for-free-software/educator) | [Open Source Contributor](https://software.intel.com/en-us/qualify-for-free-software/opensourcecontributor) | [Student](https://software.intel.com/en-us/qualify-for-free-software/student)
 
 
-### Matlab Library
-
-- [CREWES Matlab Toolbox](https://www.crewes.org/ResearchLinks/FreeSoftware)
-
-
-### Mathmatical Library
-
-- [Netlib](http://www.netlib.org/): a collection of mathematical software, papers, and databases
-- [SHTOOLS](https://github.com/SHTOOLS/SHTOOLS): Spherical Harmonic Tools
-- [Shansyn](http://www.spice-rtn.org/library/software/shansyn): Spherical Harmonic ANalysis and SYNthesis
-- [SEISCOPE TOOLBOX](https://seiscope2.osug.fr/SEISCOPE-OPTIMIZATION-TOOLBOX?lang=fr): Seiscope optimization toolbox
-- [Parameter Estimation and Inverse Problems Example Code and Associated Subroutines](https://seiscode.iris.washington.edu/projects/peipcode): a compilation of inverse and parameter estimation code that accompanies the second edition of the textbook "Parameter Estimation and Inverse Problems"
-- [The Computational Geometry Algorithms Library](https://www.cgal.org/index.html)
-- [The Comprehensive R Archive Network](https://cran.r-project.org/)
-
-
 ----------------------
-## Software Centers
+## Earth Science Software Centers
 
 - [IRIS SeisCode](https://seiscode.iris.washington.edu)
 - [CIG Software](https://geodynamics.org/cig/software)
+- [iEarth](http://www.iearth.edu.au)
+- [Seismology & Mathematical Geophysics Research Group Software](http://rses.anu.edu.au/seismology/index.php?p=software) (In the Australian National University)
+- [GFZ software](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
+- [USC Software](http://www.seis.sc.edu/software.html)
+- [ETH Seismology and Geodynamics](https://seg.ethz.ch/software.html)
 - [USGS Software](https://www.usgs.gov/natural-hazards/earthquake-hazards/software) | [Old website](https://earthquake.usgs.gov/research/software)
 - [SPICE Software](http://www.spice-rtn.org/library/software/softwarefolder_view.html)
 - [QUEST Software](http://www.quest-itn.org/library/software)
 - [NuQuake Software](http://www.nuquake.eu/Computer_Codes)
-- [iEarth](http://www.iearth.edu.au)
-- [Seismology & Mathematical Geophysics Research Group Software](http://rses.anu.edu.au/seismology/index.php?p=software) (In the Australian National University)
-- [USC Software](http://www.seis.sc.edu/software.html)
-- [ETH Seismology and Geodynamics](https://seg.ethz.ch/software.html)
 - [GPIAG-Software](https://git.scc.kit.edu/GPIAG-Software)
-- [GFZ software](https://www.gfz-potsdam.de/en/section/physics-of-earthquakes-and-volcanoes/infrastructure/tool-development-lab/)
 - [EarthByte software](https://www.earthbyte.org/category/resources/software-workflows)
-
 
 
 ## Revision history
