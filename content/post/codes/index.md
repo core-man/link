@@ -442,7 +442,7 @@ slug: codes
     - Cheng's codes: including Qingju Wu's method (maximum entrop deconvolution), `burgays`
 - [rj-RF](http://www.iearth.org.au/codes/rj-RF): Inversion of Receiver Functions using Reversible jump Markov chain Monte Carlo algorithm
 - [IRFFM](http://rses.anu.edu.au/~hrvoje/IRFFMv1.1.html): An interactive Java program for joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
-- [CrazySeismic](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution)
+- [CrazySeismic](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution) | [2020 USTC seismic training](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 - [FuncLab](https://seiscode.iris.washington.edu/projects/funclab): a Matlab based GUI for handling receiver functions (link does work) | [revised FuncLab](https://seiscode.iris.washington.edu/projects/funclab-revised)
 - [processRFmatlab](https://github.com/iwbailey/processRFmatlab): matlab functions and scripts for working with receiver functions
 - [rf](https://github.com/trichter/rf): Receiver function calculation in seismology, written in Python
@@ -492,6 +492,7 @@ slug: codes
 - [FWI.jl](https://github.com/JuliaInv/FWI.jl): 2D/3D acoustic FWI in Julia
 - [GERMAINE](https://github.com/daniel-koehn/GERMAINE): 2D Acoustic frequency-domain Full Waveform modeling and inversion code.
 - [TOY2DAC](https://seiscope2.osug.fr/TOY2DAC,82?lang=fr): 2D Acoustic frequency-domain Full Waveform modeling and inversion code
+- [travel time and waveform modelling near fault zone](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479/) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 
 
 ### Intrinsic Attenuation and Scattering
