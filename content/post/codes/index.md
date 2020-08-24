@@ -433,6 +433,7 @@ slug: codes
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (deconvolution and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
 - [h-k c](https://github.com/ljt-uiuc/H-k-c): Generalized H-k after harmonic correction on receiver functions | [2020 USTC seismic training](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 - [CCP](http://www.eas.slu.edu/People/LZhu/home.html): Common-Conversion-Point (CCP) stacking of receiver functions | [Chinses note](https://blog.seisman.info/ccp-install)
+- [psdm](http://seismo.training.ustc.edu.cn/index.php/info): A wave equation migration method for receiver function imaging | [bilibili vedio](https://www.bilibili.com/video/av841708479/) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 - [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by reversible-jump Markov-chain Monte Carlo in Fortran
 - [Charles J. Ammon's codes](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html): Receiver-Function Analysis
 - Jeffrey Park's codes: [recfunk09_pick](https://seiscode.iris.washington.edu/projects/recfunk09-pick) | [recfunk_ascii](https://seiscode.iris.washington.edu/projects/recfunk-ascii) | [manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [some updates at JParkCodes](http://jparkcodes.blogspot.com)
