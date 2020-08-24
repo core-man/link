@@ -342,7 +342,7 @@ slug: codes
     - [FMTOMO](http://rses.anu.edu.au/~nick/fmtomo.html): 3-D traveltime tomography based on fast marching method | [FMTOMO at iEarth](http://www.iearth.org.au/codes/FMTOMO)
     - [FMTT](http://rses.anu.edu.au/~nick/teletomo.html): Teleseismic tomography based on fast marching method | [FMTT at iEarth](http://www.iearth.org.au/codes/FMTT)
 - [SIMUL2000](https://www.usgs.gov/software/3d-velocity-modeling): Traveltime tomography
-- [tomoDD](http://seismo.training.ustc.edu.cn/index.php/info): double-difference tomography | [bilibili vedio](https://www.bilibili.com/video/av841708479/) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
+- [tomoDD](http://seismo.training.ustc.edu.cn/index.php/info): double-difference tomography | [bilibili vedio](https://www.bilibili.com/video/av841708479?p=4) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 
 
 ### Earthquake surface-wave phase/group velocity dispersion
@@ -362,7 +362,7 @@ slug: codes
     - [ancc](http://ciei.colorado.edu/Products/): Ambient noise data processing code and database for processing in C | [github](https://github.com/NoiseCIEI/ANCC)
     - [Seed2Cor](https://github.com/NoiseCIEI/Seed2Cor): Seismic Ambient Noise Cross-Correlation in Parallel written in C
     - [AFTAN](http://ciei.colorado.edu/Products/): Automatic Frequency-Time Analysis (AFTAN) of cros-correlogram of ambient seismic noise in Fortran | [github](https://github.com/NoiseCIEI/AFTAN) | [Python package of AFTAN](https://github.com/NoisyLeon/pyaftan)
-- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): [2020 USTC seismic training](http://seismo.training.ustc.edu.cn/index.php/info) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
+- [Huajian Yao's Lab](http://yaolab.ustc.edu.cn/resources.php?i=28): [2020 USTC seismic training](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479?p=5) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
     - `NoiseCorr` : Ambient noise cross-correlation codes for daily long SAC format data in Matlab
     - `EGFAnalysisTimeFreq` : Dispersion Analysis GUI software for ambient noise cross-correlation functions in Matalb
 - [NoisePy](https://github.com/mdenolle/noisepy): Fast and easy computation of ambient noise cross-correlation functions written in Python, with noise monitoring and surface wave dispersion analysis
@@ -431,9 +431,9 @@ slug: codes
 ### Receiver Function Measurements and Inversion
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (deconvolution and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
-- [h-k c](https://github.com/ljt-uiuc/H-k-c): Generalized H-k after harmonic correction on receiver functions | [2020 USTC seismic training](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
+- [h-k c](https://github.com/ljt-uiuc/H-k-c): Generalized H-k after harmonic correction on receiver functions | [2020 USTC seismic training](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479?p=3) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 - [CCP](http://www.eas.slu.edu/People/LZhu/home.html): Common-Conversion-Point (CCP) stacking of receiver functions | [Chinses note](https://blog.seisman.info/ccp-install)
-- [psdm](http://seismo.training.ustc.edu.cn/index.php/info): A wave equation migration method for receiver function imaging | [bilibili vedio](https://www.bilibili.com/video/av841708479/) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
+- [psdm](http://seismo.training.ustc.edu.cn/index.php/info): A wave equation migration method for receiver function imaging | [bilibili vedio](https://www.bilibili.com/video/av841708479?p=2) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 - [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by reversible-jump Markov-chain Monte Carlo in Fortran
 - [Charles J. Ammon's codes](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html): Receiver-Function Analysis
 - Jeffrey Park's codes: [recfunk09_pick](https://seiscode.iris.washington.edu/projects/recfunk09-pick) | [recfunk_ascii](https://seiscode.iris.washington.edu/projects/recfunk-ascii) | [manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [some updates at JParkCodes](http://jparkcodes.blogspot.com)
@@ -492,7 +492,7 @@ slug: codes
 - [FWI.jl](https://github.com/JuliaInv/FWI.jl): 2D/3D acoustic FWI in Julia
 - [GERMAINE](https://github.com/daniel-koehn/GERMAINE): 2D Acoustic frequency-domain Full Waveform modeling and inversion code.
 - [TOY2DAC](https://seiscope2.osug.fr/TOY2DAC,82?lang=fr): 2D Acoustic frequency-domain Full Waveform modeling and inversion code
-- [travel time and waveform modelling near fault zone](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479/) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
+- [travel time and waveform modelling near fault zone](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479?p=6) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 
 
 ### Intrinsic Attenuation and Scattering
