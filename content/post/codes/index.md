@@ -342,7 +342,7 @@ slug: codes
     - [FMTOMO](http://rses.anu.edu.au/~nick/fmtomo.html): 3-D traveltime tomography based on fast marching method | [FMTOMO at iEarth](http://www.iearth.org.au/codes/FMTOMO)
     - [FMTT](http://rses.anu.edu.au/~nick/teletomo.html): Teleseismic tomography based on fast marching method | [FMTT at iEarth](http://www.iearth.org.au/codes/FMTT)
 - [SIMUL2000](https://www.usgs.gov/software/3d-velocity-modeling): Traveltime tomography
-- [tomoDD](http://seismo.training.ustc.edu.cn/index.php/info): double-difference tomography
+- [tomoDD](http://seismo.training.ustc.edu.cn/index.php/info): double-difference tomography | [bilibili vedio](https://www.bilibili.com/video/av841708479/) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 
 
 ### Earthquake surface-wave phase/group velocity dispersion
