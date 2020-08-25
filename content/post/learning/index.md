@@ -99,7 +99,7 @@ slug: Learning
 - [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
 
 
-## 数学
+## Math
 
 - [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
 - [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
@@ -113,11 +113,46 @@ slug: Learning
     - [Time Series](https://www.machinelearningplus.com/category/time-series/)
     - [Principal Components Analysis (PCA)](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
 
+## Computer
 
-## Programming
+### Programming
 
 - [闰年的判断](https://blog.seisman.info/leap-year/)
 - [判断字节序的多种方法](https://blog.seisman.info/linux-endian)
+
+### Python
+
+- Python Libraries
+    - [SciPy](https://www.scipy.org/): a Python-based ecosystem of open-source software for mathematics, science, and engineering
+        - [Getting started](https://www.scipy.org/getting-started.html)
+        - [DOC](https://www.scipy.org/docs.html)
+        - [Cookbook](https://scipy-cookbook.readthedocs.io/)
+        - [Lecture Notes](http://scipy-lectures.org/)
+    - [ObsPy](https://github.com/obspy/obspy): A Python Toolbox for seismology/seismological observatories
+- [NumPy](https://numpy.org/): The fundamental package for scientific computing with Python | [Documentation](https://numpy.org/doc/)
+    - [Web](https://numpy.org/doc/stable/): stable version manual | [contents](https://numpy.org/doc/stable/contents.html#numpy-docs-mainpage)
+        - [Numpy API Reference](https://numpy.org/doc/stable/reference/index.html): automatically generated reference documentation
+            - [Routines](https://numpy.org/doc/stable/reference/routines.html): routine docstrings
+                - [Statistics](https://numpy.org/doc/stable/reference/routines.statistics.html)
+                - [Discrete Fourier Transform](https://numpy.org/doc/stable/reference/routines.fft.html)
+    - [Latest (development) documentation](https://numpy.org/devdocs/): development version manual
+    - Other learning sources
+        - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+        - [Scipy leture notes](http://scipy-lectures.org/intro/numpy/index.html)
+- [SciPy](https://scipy.org/scipylib/): [SciPy Documentation](https://docs.scipy.org/doc/)
+    - [SciPy Reference Guide](https://docs.scipy.org/doc/scipy/reference/)
+        - [SciPy API](https://docs.scipy.org/doc/scipy/reference/api.html)
+        - [Tutorial](https://docs.scipy.org/doc/scipy/reference/)
+        - API Reference
+    - Other learning sources
+        - [Scipy lecture notes](http://scipy-lectures.org/intro/scipy.html)
+- [matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python
+    - [Documentation](https://matplotlib.org/contents.html)
+    - [Examples](https://matplotlib.org/gallery/index.html)
+    - [Tutorials](https://matplotlib.org/tutorials/index.html)
+    - Other learning sources
+        - [Scipy lecture notes](http://scipy-lectures.org/intro/matplotlib/index.html)
+
 
 ###  Perl
 
