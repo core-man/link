@@ -484,12 +484,13 @@ slug: codes
 - [DENISE](https://github.com/daniel-koehn/DENISE-Black-Edition): 2D PSV-wave full waveform modeling and inversion
 - [2DNoise_Adjoint_tomography](https://github.com/ustcchaozhang/2DNoise_Adjoint_tomography): 2D ambient noise adjoint tomography and joint inversion of ambient noise and teleseismic body-wave
 - [2DZH_Adjoint_tomography](https://github.com/ustcchaozhang/2DZH_Adjoint_tomography): 2D ZH Amplitude Ratios adjoint tomography
+- [SeisElastic2D](https://github.com/crewesleo/SeisElastic2D): An open-source package for multiparameter FWI in isotropic-, anisotropic- and visco-elastic media
 - [seisDD](https://github.com/yanhuay/seisDD): Double-difference adjoint seismic tomography
 - [Salvus](https://salvus.io): Full waveform modelling and inversion
 - [SAVA](https://github.com/daniel-koehn/SAVA): 3D seismic modelling, FWI and RTM code for wave propagation in isotropic (visco)-acoustic/elastic and anisotropic orthorhombic/triclinic elastic media
-- [SES3D](https://cos.ethz.ch/software/production/ses3d.html): Simulation of elastic wave propagation and waveform inversion in a spherical section
-- [LASIF](http://www.lasif.net): Framework for large scale full waveform inversion
 - [ASKI](http://www.gmg.ruhr-uni-bochum.de/geophysik/seismology/aski.html): Modularized program suite for sensitivity analysis and iterative full waveform inversion
+- [LASIF](http://www.lasif.net): Framework for large scale full waveform inversion
+- [SES3D](https://cos.ethz.ch/software/production/ses3d.html): Simulation of elastic wave propagation and waveform inversion in a spherical section
 - [FWI.jl](https://github.com/JuliaInv/FWI.jl): 2D/3D acoustic FWI in Julia
 - [GERMAINE](https://github.com/daniel-koehn/GERMAINE): 2D Acoustic frequency-domain Full Waveform modeling and inversion code.
 - [TOY2DAC](https://seiscope2.osug.fr/TOY2DAC,82?lang=fr): 2D Acoustic frequency-domain Full Waveform modeling and inversion code
