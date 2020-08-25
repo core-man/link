@@ -28,7 +28,7 @@ slug: Learning
     - [地震学断层的定义](https://blog.seisman.info/faults-in-seismology)
 - Focal mechanism
     - [Focal Mechanisms Explained: What are those “beach balls”?](https://www.youtube.com/watch?v=MomVOkyDdLo): A 6-minute video explaining beachballs for non-seismologists and beginners.
-    - [震源机制解的格式 (GMT5 psmeca)](https://docs.gmt-china.org/5.4/module/psmeca) | [GMT6 meca](https://docs.gmt-china.org/6.0/module/meca)
+    - [震源机制解的格式 (GMT5 psmeca)](https://docs.gmt-china.org/5.4/module/psmeca) | [GMT6 meca](https://docs.gmt-china.org/latest/module/meca/)
 
 
 ### 计算地震学
