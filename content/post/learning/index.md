@@ -127,8 +127,18 @@ slug: Learning
         - [Getting started](https://www.scipy.org/getting-started.html)
         - [DOC](https://www.scipy.org/docs.html)
         - [Cookbook](https://scipy-cookbook.readthedocs.io/)
-        - [Lecture Notes](http://scipy-lectures.org/)
-    - [ObsPy](https://github.com/obspy/obspy): A Python Toolbox for seismology/seismological observatories
+        - [Lecture Notes](http://scipy-lectures.org/): Getting started | Advanced topics | Packages and applications
+    - [ObsPy](https://github.com/obspy/obspy): A Python Toolbox for seismology/seismological observatories | [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html)
+        - [Library Reference](https://docs.obspy.org/packages/index.html)
+            - General Packages
+                - [Core classes](https://docs.obspy.org/packages/obspy.core.html#module-obspy.core): common methods and classes for ObsPy, including the [Stream](https://docs.obspy.org/packages/autogen/obspy.core.stream.Stream.html#obspy.core.stream.Stream), [Trace](https://docs.obspy.org/packages/autogen/obspy.core.trace.Trace.html#obspy.core.trace.Trace), [UTCDateTime](https://docs.obspy.org/packages/autogen/obspy.core.utcdatetime.UTCDateTime.html#obspy.core.utcdatetime.UTCDateTime), [Stats](https://docs.obspy.org/packages/autogen/obspy.core.trace.Stats.html#obspy.core.trace.Stats) classes and methods for [reading](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read) seismogram files
+                - [Signal processing routines](https://docs.obspy.org/packages/obspy.signal.html#module-obspy.signa)
+                - [Ray theoretical travel times and paths](https://docs.obspy.org/packages/obspy.taup.html#module-obspy.taup)
+            - Scripts
+            - Database or Web Service Access Clients
+            - Waveform Import/Export Plug-ins
+            - Event Data Import/Export Plug-ins
+            - Inventory Data Import/Export Plug-ins
 - [NumPy](https://numpy.org/): The fundamental package for scientific computing with Python | [Documentation](https://numpy.org/doc/)
     - [Web](https://numpy.org/doc/stable/): stable version manual | [contents](https://numpy.org/doc/stable/contents.html#numpy-docs-mainpage)
         - [Numpy API Reference](https://numpy.org/doc/stable/reference/index.html): automatically generated reference documentation
@@ -137,8 +147,8 @@ slug: Learning
                 - [Discrete Fourier Transform](https://numpy.org/doc/stable/reference/routines.fft.html)
     - [Latest (development) documentation](https://numpy.org/devdocs/): development version manual
     - Other learning sources
-        - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
         - [Scipy leture notes](http://scipy-lectures.org/intro/numpy/index.html)
+        - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [SciPy](https://scipy.org/scipylib/): [SciPy Documentation](https://docs.scipy.org/doc/)
     - [SciPy Reference Guide](https://docs.scipy.org/doc/scipy/reference/)
         - [SciPy API](https://docs.scipy.org/doc/scipy/reference/api.html)
