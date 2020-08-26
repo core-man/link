@@ -142,6 +142,7 @@ slug: Learning
         - [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/)
             - ObsPy
             - Workshops
+        - [ROSES: ObsPy](https://www.iris.edu/hq/inclass/course/roses): Remote Online Sessions for Emerging Seismologists
 - [NumPy](https://numpy.org/): The fundamental package for scientific computing with Python | [Documentation](https://numpy.org/doc/)
     - [Web](https://numpy.org/doc/stable/): stable version manual | [contents](https://numpy.org/doc/stable/contents.html#numpy-docs-mainpage)
         - [Numpy API Reference](https://numpy.org/doc/stable/reference/index.html): automatically generated reference documentation
