@@ -139,6 +139,9 @@ slug: Learning
             - Waveform Import/Export Plug-ins
             - Event Data Import/Export Plug-ins
             - Inventory Data Import/Export Plug-ins
+        - [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/)
+            - ObsPy
+            - Workshops
 - [NumPy](https://numpy.org/): The fundamental package for scientific computing with Python | [Documentation](https://numpy.org/doc/)
     - [Web](https://numpy.org/doc/stable/): stable version manual | [contents](https://numpy.org/doc/stable/contents.html#numpy-docs-mainpage)
         - [Numpy API Reference](https://numpy.org/doc/stable/reference/index.html): automatically generated reference documentation
