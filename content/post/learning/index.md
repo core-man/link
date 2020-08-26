@@ -158,6 +158,11 @@ slug: Learning
         - [SciPy API](https://docs.scipy.org/doc/scipy/reference/api.html)
         - [Tutorial](https://docs.scipy.org/doc/scipy/reference/)
         - API Reference
+            - [Clustering package (scipy.cluster)](http://scipy.github.io/devdocs/cluster.html)
+            - [Discrete Fourier transforms (scipy.fft)](http://scipy.github.io/devdocs/fft.html)
+            - [Interpolation (scipy.interpolate)](http://scipy.github.io/devdocs/interpolate.html)
+            - [Linear algebra (scipy.linalg)](http://scipy.github.io/devdocs/linalg.html)
+            - [Statistical functions (scipy.stats)](http://scipy.github.io/devdocs/stats.html)
     - Other learning sources
         - [Scipy lecture notes](http://scipy-lectures.org/intro/scipy.html)
 - [matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python
