@@ -76,7 +76,7 @@ slug: Learning
 
 ## Geodesy
 
-- 震中距、方位角、反方位角: [计算](https://blog.seisman.info/calculate-dist-az-baz/) | [计算](https://zhaozhiyuan.org/post/distaz/) | [SAC's distaz](https://seisman.github.io/SAC_Docs_zh/libs/libsacio/#distaz)
+- 震中距、方位角、反方位角: [计算](https://blog.seisman.info/calculate-dist-az-baz/) | [计算](https://zhaozhiyuan.org/post/distaz/) | [计算](https://seisman.github.io/SAC_Docs_zh/fileformat/header-variables/) | [SAC's distaz](https://seisman.github.io/SAC_Docs_zh/libs/libsacio/#distaz)
 - [计算某点离海岸线的距离](https://blog.seisman.info/calculate-distance-to-coast)
 - [Pacific Northwest Earth Science Animations](https://www.youtube.com/playlist?list=PLngDHXr1w29SVVyip5E9bYnuCcEeL-CGw): 俯冲带变形过程的卡通描述
 
