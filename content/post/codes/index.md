@@ -184,7 +184,7 @@ slug: codes
 - [Generalized Eigenproblem Spectral Collocation](https://github.com/mdenolle/gesc)
 
 
-### Direct solution method
+### Direct solution method in 1D spherical Earth
 
 - [DSM](http://www-solid.eps.s.u-tokyo.ac.jp/~dsm/software/software.htm): Computing synthetic seismograms in spherically symmetric transversely isotropic (TI) media using the Direct Solution Method | [updated version](http://www.eri.u-tokyo.ac.jp/people/takeuchi/)
 - [GEMINI](http://www.spice-rtn.org/library/software/GEMINI.html): Calculation of synthetic seismograms for global, spherically symmetric media based in direct evaluation of Green's functions (The files seem wrong)
@@ -216,10 +216,14 @@ slug: codes
 - [3DFE_REF](http://www.nuquake.eu/Computer_Codes/request.htm)
 
 
+### Boundary Element Methods
+
+- [AstroSeis](https://github.com/ytian159/AstroSeis): MATLAB codes for asteroid seismic wavefield modeling
+
+
 ### Pseudo-Spectral Methods
 
 - [Ps2D](http://www.spice-rtn.org/library/software/Ps2d.html): A very simple code for elastic wave simulation in 2D using a Pseudo-Spectral Fourier method
-
 
 
 ### Spectral Element Methods
@@ -593,6 +597,7 @@ slug: codes
 - [OrientPy](https://nfsi-canada.github.io/OrientPy/): Estimate seismometer orientation written in Python
 - [DLOPy](https://github.com/jbrussell/DLOPy_v1.0): Calculate OBS horizontal orientations based on Raleigh-wave arrival angle written in Python
 - [CWPAR](https://seiscode.iris.washington.edu/projects/cwpar-clipped-waveform-pickup-and-restoration): Clipped Waveform Pickup and Restoration written in Matlab
+- [Automatic-detection-of-clipped-seismic-waveform](https://github.com/jinhaizhang2020/Automatic-detection-of-clipped-seismic-waveform): in Matlab
 - [ATacR](https://seiscode.iris.washington.edu/projects/atacr): Automated Tilt and Compliance Removal (for ocean bottoms seismometers) written in Matlab
 - [OBStools](https://nfsi-canada.github.io/OBStools/): Removing vertical component noise from tilt and compliance effects written in Python
 
