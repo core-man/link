@@ -128,7 +128,7 @@ slug: Learning
         - [DOC](https://www.scipy.org/docs.html)
         - [Cookbook](https://scipy-cookbook.readthedocs.io/)
         - [Lecture Notes](http://scipy-lectures.org/): Getting started | Advanced topics | Packages and applications
-    - [ObsPy](https://github.com/obspy/obspy): A Python Toolbox for seismology/seismological observatories | [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html)
+    - [ObsPy](https://github.com/obspy/obspy): A Python Toolbox for seismology/seismological observatories | [DOC](https://docs.obspy.org/contents.html) | [Tutorial](https://docs.obspy.org/tutorial/index.html) & [Chinese tutorial](https://docs.obspy.org/archive/)
         - [Library Reference](https://docs.obspy.org/packages/index.html)
             - General Packages
                 - [Core classes](https://docs.obspy.org/packages/obspy.core.html#module-obspy.core): common methods and classes for ObsPy, including the [Stream](https://docs.obspy.org/packages/autogen/obspy.core.stream.Stream.html#obspy.core.stream.Stream), [Trace](https://docs.obspy.org/packages/autogen/obspy.core.trace.Trace.html#obspy.core.trace.Trace), [UTCDateTime](https://docs.obspy.org/packages/autogen/obspy.core.utcdatetime.UTCDateTime.html#obspy.core.utcdatetime.UTCDateTime), [Stats](https://docs.obspy.org/packages/autogen/obspy.core.trace.Stats.html#obspy.core.trace.Stats) classes and methods for [reading](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read) seismogram files
