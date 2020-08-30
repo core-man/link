@@ -28,6 +28,7 @@ slug: codes
     - [Retrieving Data from Data Centers](http://docs.obspy.org/tutorial/code_snippets/retrieving_data_from_datacenters.html): e.g., `FDSN Web Services` & `IRIS Web Services`
     - Some scripts
         - [EIDA's examples](https://www.orfeus-eu.org/data/eida/webservices/examples/workflow/): `using direct HTTP requests` and `ObsPy FDSN Client`
+        - [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): [Workshops: ORFEUS_lisbon_2017_EIDA_webservices](https://krischer.github.io/seismo_live_build/html/Workshops/ORFEUS_lisbon_2017_EIDA_webservices_wrapper.html)
         - [AusPass's examples](http://auspass.edu.au/help/obspy_request.html): Access AusPass data with ObsPy
         - [ObsPy Teaching Material](https://github.com/obspy/docs): Workshops / Posters / Presentations
         - Other examples
