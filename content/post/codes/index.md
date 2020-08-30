@@ -29,7 +29,7 @@ slug: codes
     - Some scripts
         - [EIDA's examples](https://www.orfeus-eu.org/data/eida/webservices/examples/workflow/): `using direct HTTP requests` and `ObsPy FDSN Client`
         - [AusPass's examples](http://auspass.edu.au/help/obspy_request.html): Access AusPass data with ObsPy
-        - [ObsPy docs](https://github.com/obspy/docs): Some teaching materials including data request
+        - [ObsPy Teaching Material](https://github.com/obspy/docs): Workshops / Posters / Presentations
         - Other examples
             - [fetch_Events](https://github.com/jbrussell/fetch_EVENTS): Download event data from IRIS-DMC
             - [fetch_NOISE](https://github.com/jbrussell/fetch_NOISE): Download daily seismograms from the IRIS-DMC
