@@ -60,7 +60,7 @@ slug: Learning
         - [Fiber-optic Seismology in Theory and Practice (2020)](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice)
         - [Distributed Fiber-Optic Seismology in Theory and in Practice (2018)](https://www.youtube.com/watch?v=LAcQ44YRMuM)
 - 仪器效应
-    - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/)
+    - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/) | [Instrument Response](https://krischer.github.io/seismo_live_build/html/General%20Seismology/instrument_response_wrapper.html)
     - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
     - [IRIS DMC Library of Nominal Responses for Seismic Instruments](http://ds.iris.edu/NRL/)
 - SAC技巧
@@ -140,9 +140,7 @@ slug: Learning
             - Event Data Import/Export Plug-ins
             - Inventory Data Import/Export Plug-ins
         - [ROSES: ObsPy](https://www.iris.edu/hq/inclass/course/roses): Remote Online Sessions for Emerging Seismologists
-        - [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/)
-            - ObsPy
-            - Workshops
+        - [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): Ambient Seismic Noise | Data Visualization | General Seismology | ObsPy | Signal Processing | Workshops
         - [ObsPy Teaching Material](https://github.com/obspy/docs): Workshops / Posters / Presentations
 - [NumPy](https://numpy.org/): The fundamental package for scientific computing with Python | [Documentation](https://numpy.org/doc/)
     - [Web](https://numpy.org/doc/stable/): stable version manual | [contents](https://numpy.org/doc/stable/contents.html#numpy-docs-mainpage)
