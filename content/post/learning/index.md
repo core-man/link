@@ -192,6 +192,7 @@ slug: Learning
 - [IRIS Webinars](https://www.iris.edu/hq/webinar/)
 - [CIDER Lecture Collection](http://seismo.berkeley.edu/wiki_cider/CIDER_Lecture_Collection)
 - [Earth Data Science](https://www.earthdatascience.org/): [Tutorials](https://www.earthdatascience.org/tutorials/) | [Courses & Textbooks](https://www.earthdatascience.org/courses/) | [Workshops](https://www.earthdatascience.org/workshops/)
+- [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): Some python scripts used in seismology
 - [Community Online Resource for Statistical Seismicity Analysis](http://www.corssa.org/en/home/)
 
 ### Course & Workshop
@@ -199,8 +200,8 @@ slug: Learning
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
 - [2020 Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
 - [2020 USTC seismological algorithms training](http://seismo.training.ustc.edu.cn/index.php): [bilibili vedio](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
-- [Southern University of Science and Technology 2019 Workshop (password: SUSTech2019)](https://owncloud.sustc.edu.cn/s/aF4ZK5C5SoLcejj)
-- [Subduction Zone Observatory Workshop (2016)](https://www.iris.edu/hq/workshops/2016/09/szo_16)
+- [2019 Southern University of Science and Technology Workshop (password: SUSTech2019)](https://owncloud.sustc.edu.cn/s/aF4ZK5C5SoLcejj)
+- [2016 Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 
 
 ## Misc
