@@ -610,6 +610,7 @@ slug: codes
 
 ### Pattern Recognition and Machine Learning
 
+- [scikit-learn](https://scikit-learn.org/stable/index.html): Machine Learning in Python
 - [Detex](https://github.com/d-chambers/Detex): A Python package for subspace detection and waveform similarity clustering
 - [dbscan1d](https://github.com/d-chambers/dbscan1d): An efficient 1D implementation of the DBSCAN clustering algorithm in Python
 - [Sequencer](https://github.com/dalya/Sequencer): An algorithm that detects one-dimensional sequences in complex datasets in Python
