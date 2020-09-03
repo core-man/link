@@ -57,15 +57,6 @@ slug: institutions
 - [Gordon Research Conferences](https://www.grc.org/find-a-conference/)
 
 
-## Academic Medias
-
-- [Github](https://github.com): Open codes
-- [ResearchGate](https://www.researchgate.net): Researchers' social media
-- [ORCID](https://orcid.org): A persistent digital identifier for researcher
-- [Publons](https://publons.com/about/home): Your publications, citation metrics, peer reviews and journal editing work, in one place
-- [Scopus](https://www.scopus.com/home.uri): The largest abstract and citation database of peer-reviewed literature
-
-
 ## Revision history
 
 - 2019-12-25: update some links, commit to seisman

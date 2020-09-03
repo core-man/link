@@ -102,7 +102,7 @@ slug: journals
 ## Researchers's Academic Profile
 
 - [ResearchGate](https://www.researchgate.net): Social networking site for scientists and researchers
-- [ORCID](https://orcid.org/): A persistent digital identifier for researchers.
+- [ORCID](https://orcid.org/): A persistent digital identifier for researchers
 - [Publons](https://publons.com/): Your publications, citation metrics, peer reviews and journal editing work, in one place
 - [Google Scholar](https://scholar.google.com/)
 
@@ -121,6 +121,7 @@ slug: journals
 - [Sci-Hub](http://sci-hub.tw/): Provides free access to millions of research papers and books. Removing barriers in the way of science!
     - [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
     - [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors
+- [Github](https://github.com): A community of developers to discover, share, and build better software
 
 
 ## Revision history
