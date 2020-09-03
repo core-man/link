@@ -154,6 +154,7 @@ slug: codes
 - [telewavesim](https://paudetseis.github.io/Telewavesim/): Calculate teleseismic body-wave synthetics using the matrix propagator method written in Python and Fortran
 - [RMATRIX](http://seis.karlov.mff.cuni.cz/software/sw3dcd22/rmatrix/rmatrix.htm): Calculate the frequency-dependent transmission coefficients written in Fortran
 - [rf_respknt](https://github.com/Chuanming-Liu/rf_respknt): Reflection matrix approach to computing the seismic response of a cylindrically symmetric medium
+- [Syn_seis](https://github.com/akuhara/Syn_seis): compute synthetic seismograms for an incidence P or SV wave to 1-D layered structure
 
 
 ### Wavenumber integration (discrete wavenumber?) in 1D layered Earth
