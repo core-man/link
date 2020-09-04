@@ -124,11 +124,11 @@ slug: codes
 
 - [hk](http://www.eas.slu.edu/People/LZhu/home.html): Receiver function package (synthetic RF, deconvolution, and H-k stacking) | [Chinese note](https://blog.seisman.info/hk-install)
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
+    - [PyLayeredModel](https://github.com/harrymd/PyLayeredModel): Python wrappers for the CPS and Rftn libraries for layered models in seismology
 - [RAYSUM](https://home.cc.umanitoba.ca/~frederik/Software): Ray-theoretical modelling of teleseismic waves in dipping, anisotropic structures
 - [Charles J. Ammon's codes](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html): Receiver-Function Analysis
 - [Jeffrey Park's codes](https://seiscode.iris.washington.edu/projects/rfsyn): Computes a receiver-function for a stack of anisotropic layers over an isotropic halfspace, via a reflectivity algorithm, assuming a plane wave incident from below | [Receiver Function Analysis Manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [Some updates at JParkCodes](http://jparkcodes.blogspot.com)
 - [pyfwrd](https://github.com/NoisyLeon/pyfwrd): A forward modelling code for surface wave, receiver functions and shear wave splitting, given tilted hexagonal symmetric media
-- [RfPy](https://paudetseis.github.io/RfPy/): Calculating teleseismic receiver function in Python
 - [RFtool](https://members.elsi.jp/~george/rftool.html): An interactive, GUI-based tool to simulate P or S receiver functions
 - [PSV Hybrid RF](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic RF in two-dimensional localized hetergeneous structures based on PSV Hybrid method (GRT-FD)
 - [MCMC_ANISO_FORWARD](https://github.com/hejunzhu/MCMC_ANISO_FORWARD): Forward code to compute surface wave dispersion curves and receiver functions in anisotropic models with hexagonally symmetry
@@ -153,8 +153,9 @@ slug: codes
 - [Reflectivity method](http://www.spice-rtn.org/library/software/ERZSOL3.html): Calculating the response of a layered uniform solid layers to excitation by a point moment tensor source using the reflectivity method
 - [telewavesim](https://paudetseis.github.io/Telewavesim/): Calculate teleseismic body-wave synthetics using the matrix propagator method written in Python and Fortran
 - [RMATRIX](http://seis.karlov.mff.cuni.cz/software/sw3dcd22/rmatrix/rmatrix.htm): Calculate the frequency-dependent transmission coefficients written in Fortran
-- [rf_respknt](https://github.com/Chuanming-Liu/rf_respknt): Reflection matrix approach to computing the seismic response of a cylindrically symmetric medium
 - [Syn_seis](https://github.com/akuhara/Syn_seis): compute synthetic seismograms for an incidence P or SV wave to 1-D layered structure
+- [rf_respknt](https://github.com/Chuanming-Liu/rf_respknt): Reflection matrix approach to computing the seismic response of a cylindrically symmetric medium
+- [PyLayeredModel](https://github.com/harrymd/PyLayeredModel): Python wrappers for the CPS and Rftn libraries for layered models in seismology
 
 
 ### Wavenumber integration (discrete wavenumber?) in 1D layered Earth
@@ -445,19 +446,19 @@ slug: codes
 - [CCP](http://www.eas.slu.edu/People/LZhu/home.html): Common-Conversion-Point (CCP) stacking of receiver functions | [Chinses note](https://blog.seisman.info/ccp-install)
 - [psdm](http://seismo.training.ustc.edu.cn/index.php/info): A wave equation migration method for receiver function imaging | [bilibili vedio](https://www.bilibili.com/video/av841708479?p=2) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
-- [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by reversible-jump Markov-chain Monte Carlo in Fortran
 - Jeffrey Park's codes: [recfunk09_pick](https://seiscode.iris.washington.edu/projects/recfunk09-pick) | [recfunk_ascii](https://seiscode.iris.washington.edu/projects/recfunk-ascii) | [manual](https://www.ldeo.columbia.edu/~vadim/RF/RF-manual.html) | [some updates at JParkCodes](http://jparkcodes.blogspot.com)
 - [Charles J. Ammon's codes](http://eqseis.geosc.psu.edu/cammon/HTML/RftnDocs/rftn01.html): Receiver-Function Analysis
 - [Collection of some group codes for RF analysis](https://github.com/rmartinshort/RecieverFunctions)
     - Charles Ammon's codes
     - Cheng's codes: including Qingju Wu's method (maximum entrop deconvolution), `burgays`
-- [PyLayeredModel](https://github.com/harrymd/PyLayeredModel): Python wrappers for the CPS and Rftn libraries for layered models in seismology
+- [RfPy](https://paudetseis.github.io/RfPy/): Receiver function caculcation written in Python, along with post-processing (e.g., hk, harmonic decompositino, CCP).
+- [rf](https://github.com/trichter/rf): Receiver function calculation written in Python
+- [RF_INV](https://github.com/akuhara/RF_INV): Receiver function inversion by reversible-jump Markov-chain Monte Carlo in Fortran
 - [rj-RF](http://www.iearth.org.au/codes/rj-RF): Inversion of Receiver Functions using Reversible jump Markov chain Monte Carlo algorithm
-- [IRFFM](http://rses.anu.edu.au/~hrvoje/IRFFMv1.1.html): An interactive Java program for joint interactive forward modelling of teleseismic receiver functions and surface wave dispersion
+- [IRFFM](http://www.iearth.org.au/codes/IRFFM/): Interactive Receiver Functions Forward Modeller written in Java
 - [CrazySeismic](http://web.gps.caltech.edu/~yucq/software.html): A MATLAB GUI-based package to process single channel seismic data (picking, McCC, PCA, Deconvolution) | [2020 USTC seismic training](http://seismo.training.ustc.edu.cn/index.php/info): [bilibili vedio](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 - [FuncLab](https://seiscode.iris.washington.edu/projects/funclab): a Matlab based GUI for handling receiver functions (link does work) | [revised FuncLab](https://seiscode.iris.washington.edu/projects/funclab-revised)
 - [processRFmatlab](https://github.com/iwbailey/processRFmatlab): matlab functions and scripts for working with receiver functions
-- [rf](https://github.com/trichter/rf): Receiver function calculation in seismology, written in Python
 - [SplitRFLab](https://github.com/xumi1993/SplitRFLab): A Matlab toolbox of processing receiver functions and shear wave spliting modified from [Splitlab](http://splitting.gm.univ-montp2.fr) and [processRFmatlab](https://github.com/iwbailey/processRFmatlab)
 
 
