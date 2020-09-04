@@ -403,6 +403,7 @@ slug: codes
 
 - [CPS330](http://www.eas.slu.edu/eqc/eqccps.html): Collection of programs for calculating theorectical seismogram, receiver function, surface wave dispersion curve et al. | [Chinese install introduction](https://blog.seisman.info/cps330-install) and [Chinese introdution](https://blog.seisman.info/cps330)
     - [srfpython](https://github.com/obsmax/srfpython): compute, display, invert 1D depth models based on CPS330 written in Python
+- [MCDisp](https://github.com/xin2zhang/MCDisp): Surface wave dispersion inversion using Monte Carlo methohd written in Python
 - [dispinversion](https://github.com/jinwar/dispinversion): Surface wave dispersion inversion code written in Matlab
 
 
@@ -411,7 +412,7 @@ slug: codes
 - [DSurfTomo](https://github.com/HongjianFang/DSurfTomo): Direct inversion of 3-D Vs structure from dispersion data based on period-dependent ray tracing in Fortran written in Fortran
 - [DSurfRTomo](https://github.com/ShaoqianHu/DSurfRTomo): Direct Surface Wave Radial Anisotropy Tomography written in Fortran | [zenodo](https://zenodo.org/record/3592528#.XyzC2s8zZhF)
 - [DAzimSurfTomo](https://github.com/Chuanming-Liu/DAzimSurfTomo): Direct inversion of Rayleigh wave dispersion data for 3-D azimuthal anisotropy based on ray tracing written in Fortran
-- [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data
+- [3D Monte Carlo Direct Inversion](https://www.geos.ed.ac.uk/eip/codes.html): 3D Monte Carlo tomography using both body and surface wave data | [GitHub](https://github.com/xin2zhang/MCTomo)
 
 
 ### Workflows for surface-wave tomography
