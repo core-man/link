@@ -122,6 +122,7 @@ slug: journals
     - [A tutorial in Chinese](https://gmt-china.org/blog/sci-hub/)
     - [Where is Sci-Hub now?](https://whereisscihub.now.sh/): List several alternative working links to active Sci-Hub mirrors
 - [Github](https://github.com): A community of developers to discover, share, and build better software
+    - [DOCS](https://docs.github.com/en)
 
 
 ## Revision history
