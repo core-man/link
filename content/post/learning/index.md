@@ -67,6 +67,15 @@ slug: Learning
     - [SAC不同格式间的转换](https://blog.seisman.info/conversion-of-different-sac-formats)
     - [SAC技巧](https://blog.seisman.info/tags/SAC%E6%8A%80%E5%B7%A7) | [SAC 技巧与陷阱](https://seisman.github.io/SAC_Docs_zh/tricks-and-traps/)
     - [调用SAC进行Hilbert变换](https://blog.seisman.info/trash/sac-hilbert-transform)
+- [New Manual of Seismological Observatory Practice](http://bib.telegrafenberg.de/en/publishing/distribution/nmsop/)
+    - [CHAPTER 4: Seismic Signals and Noise](http://ebooks.gfz-potsdam.de/pubman/item/escidoc:124248)
+    - [CHAPTER 5: Seismic Sensors and their Calibration](http://ebooks.gfz-potsdam.de/pubman/item/escidoc:56076)
+    - [CHAPTER 6: Seismic Data Acquisition Systems](http://ebooks.gfz-potsdam.de/pubman/item/escidoc:4021)
+    - [CHAPTER 7: Site Selection, Preparation and Installation of Seismic Stations](http://ebooks.gfz-potsdam.de/pubman/item/escidoc:43206)
+    - [CHAPTER 10: Seismic Data Formats, Archival and Exchange](http://ebooks.gfz-potsdam.de/pubman/item/escidoc:43216)
+- [Modern Approaches in Geophysics](https://www.springer.com/series/6248)
+    - [Instrumentation in Earthquake Seismology](https://www.springer.com/gp/book/9789401751131)
+    - [Of Poles and Zeros - Fundamentals of Digital Seismology](https://www.springer.com/gp/book/9780792368342)
 
 
 ### 参考手册
