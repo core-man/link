@@ -112,6 +112,7 @@ slug: Learning
 
 - [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
 - [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
+- [狄拉克和他的δ 函数](https://www.ee.cityu.edu.hk/~gchen/pdf/Dirac_Delta.pdf)
 
 
 ## Data Analysis
