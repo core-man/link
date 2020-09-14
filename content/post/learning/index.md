@@ -86,21 +86,26 @@ slug: Learning
 
 ### 格震至源
 
-- [屠龙宝刀生玄光：全球地震台网GSN](https://mp.weixin.qq.com/s/Hewceg1_rN32hxVgsoenfw)
-- [后发先至：跑赢时间的地震预警](https://mp.weixin.qq.com/s/SsrtTjMSpvf6EdqsKMxAoQ)
-- [“举重若轻”的地震断层](https://mp.weixin.qq.com/s/FNkB_9_ThBiyWlrTX5DTLQ)
-- [诱发地震的“气剑”之争](https://mp.weixin.qq.com/s/JUrvmr0iCVVCK001CC8-2Q)
-- [7月12日唐山5.1级地震是余震吗？](https://mp.weixin.qq.com/s/dsG-Km5Qhd1BKCAYileKjQ)
-- [擒龙功：神乎其技的地震远程触发](https://mp.weixin.qq.com/s/vBHiCvuhK6pjC41pMfWtbQ)
-- [潜入马里亚纳海沟-人类极限挑战](https://mp.weixin.qq.com/s/OhOX3nXq5vls9Y95DG6Erg)
-- [倚天长剑飞寒芒：地震学中的利器](https://mp.weixin.qq.com/s/vSbm6_cMxV0f8tiwIRe3EQ)
-- [温润岫岩玉，奇妙蛇纹岩](https://mp.weixin.qq.com/s/fGkGvc-EM8Z6PBVfinrXKQ)
-- [小龙女跳崖：深渊之下有奇迹](https://mp.weixin.qq.com/s/2nqKGs8cIeLMUVAVdLbJBQ)
-- [原来地震是这么回事儿](https://mp.weixin.qq.com/s/DyiVrw1S127VUl41_R7bGg)
-- [断层辟了邪，破裂超剪切](https://mp.weixin.qq.com/s/z-zejXadexCIJRoF_E60xg)
-- [地震的能量都去哪儿了？](https://mp.weixin.qq.com/s/GKUisIX8yM9lhLyvghL3bw)
-- [大洋中脊核杂岩](https://mp.weixin.qq.com/s/oIN9s2pHOOrZucbehg-m0Q)
-- [仞丈之差——近断层位移对滑移弱化距离的近似](https://mp.weixin.qq.com/s/bEyNFuke5jDgXTxqXMWAyA)
+- Seismic Data
+    - [屠龙宝刀生玄光：全球地震台网GSN](https://mp.weixin.qq.com/s/Hewceg1_rN32hxVgsoenfw)
+    - [倚天长剑飞寒芒：地震学中的利器](https://mp.weixin.qq.com/s/vSbm6_cMxV0f8tiwIRe3EQ): 密集台阵
+- Seismicity
+    - [7月12日唐山5.1级地震是余震吗？](https://mp.weixin.qq.com/s/dsG-Km5Qhd1BKCAYileKjQ)
+    - [擒龙功：神乎其技的地震远程触发](https://mp.weixin.qq.com/s/vBHiCvuhK6pjC41pMfWtbQ)
+    - [诱发地震的“气剑”之争](https://mp.weixin.qq.com/s/JUrvmr0iCVVCK001CC8-2Q)
+- Early Warning
+    - [后发先至：跑赢时间的地震预警](https://mp.weixin.qq.com/s/SsrtTjMSpvf6EdqsKMxAoQ)
+- Source Physics
+    - [原来地震是这么回事儿](https://mp.weixin.qq.com/s/DyiVrw1S127VUl41_R7bGg)
+    - [地震的能量都去哪儿了？](https://mp.weixin.qq.com/s/GKUisIX8yM9lhLyvghL3bw)
+    - [仞丈之差——近断层位移对滑移弱化距离的近似](https://mp.weixin.qq.com/s/bEyNFuke5jDgXTxqXMWAyA)
+    - [“举重若轻”的地震断层](https://mp.weixin.qq.com/s/FNkB_9_ThBiyWlrTX5DTLQ)
+    - [断层辟了邪，破裂超剪切](https://mp.weixin.qq.com/s/z-zejXadexCIJRoF_E60xg)
+    - [温润岫岩玉，奇妙蛇纹岩](https://mp.weixin.qq.com/s/fGkGvc-EM8Z6PBVfinrXKQ)
+    - [小龙女跳崖：深渊之下有奇迹](https://mp.weixin.qq.com/s/2nqKGs8cIeLMUVAVdLbJBQ)
+    - [潜入马里亚纳海沟-人类极限挑战](https://mp.weixin.qq.com/s/OhOX3nXq5vls9Y95DG6Erg)
+- Tectonics
+    - [大洋中脊核杂岩](https://mp.weixin.qq.com/s/oIN9s2pHOOrZucbehg-m0Q)
 
 
 ## Geodesy
