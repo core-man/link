@@ -230,6 +230,7 @@ slug: Learning
 
 - [GMT gallery](https://docs.generic-mapping-tools.org/6.0/gallery.html): [GMT-China gallery](https://gmt-china.org/gallery)
 - [GMT-China blog](https://gmt-china.org/blog)
+- [ml-visuals](https://github.com/dair-ai/ml-visuals): figures and templates used in Machine Learning | [Chinese introduction](http://www.python88.com/topic/63529)
 
 
 ## Lectures & Resources
