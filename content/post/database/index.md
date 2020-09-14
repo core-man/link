@@ -29,6 +29,7 @@ slug: database
 - [Age, Spreading Rates and Spreading Asymmetry of the World's Ocean Crust](http://www.earthbyte.org/Resources/agegrid2008.html): Also at [here](https://www.earthbyte.org/age-spreading-rates-and-spreading-asymmetry-of-the-worlds-ocean-crust) | [Chinese Introduction](https://blog.seisman.info/ocean-floor-crustal-age)
 - [Subduction zone initiation](https://www.szidatabase.org/)
 - [Ben Horner-Johnson's GMT & Geophysics Links](http://www.ruf.rice.edu/~ben/gmt.html)
+- [地质专业知识服务系统](http://geol.ckcest.cn/index.html): [介绍](https://mp.weixin.qq.com/s?__biz=MzIwMzgzNzMyNg==&mid=2247491776&amp;idx=1&amp;sn=e04a2c294d65a125d6d2706bce21b898&source=41#wechat_redirect)
 
 
 ## Seismic Databases and Models
@@ -102,6 +103,7 @@ slug: database
     - [Active Tectonics of the Andes](https://github.com/ActiveTectonicsAndes/ATA): [Brief Introduction](http://rocksandwater.net/blog/2012/10/ata-announcement)
     - [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap): [Brief Introduction](http://rocksandwater.net/blog/2011/07/himatibetmap-1-1)
 - [中国地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
+- [全国活动断层展示系统](http://www.neotectonics.cn/arcgis/apps/webappviewer/index.html?id=3c0d8234c1dc43eaa0bec3ea03bb00bc): [介绍](https://mp.weixin.qq.com/s/AELV6yNFjeO0y55VgoImzg)
 - [USGS Hazard Assessment Data and Models](https://earthquake.usgs.gov/data/data.php#model): Faults and Folds
 - [EFEHR: European Database of Seismogenic Faults](https://www.seismofaults.eu)
 
