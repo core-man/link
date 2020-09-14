@@ -80,6 +80,10 @@ slug: Learning
 
 ### Seismic Source
 
+#### Magnitude
+
+- [震级的测定和使用](https://mp.weixin.qq.com/s/5is4ve5YGbIzZ_lgLdvfIw)
+
 #### Focal mechanism
 
 - [Focal Mechanisms Explained: What are those “beach balls”?](https://www.youtube.com/watch?v=MomVOkyDdLo): A 6-minute video explaining beachballs for non-seismologists and beginners
@@ -91,6 +95,10 @@ slug: Learning
 
 - [汪清7.2级深震——源于地球深部的跳动](https://mp.weixin.qq.com/s/mjQFAYmgFWQJv0vWKSJl_A)
 
+#### Early Warning
+
+- [后发先至：跑赢时间的地震预警](https://mp.weixin.qq.com/s/SsrtTjMSpvf6EdqsKMxAoQ)
+- [他山之石：美国地震预警系统的发展之路](https://mp.weixin.qq.com/s?__biz=MzU2NjA3MjYyNg==&mid=2247488292&amp;idx=1&amp;sn=9b0cc27d911d7966b5887b28bbb423f1&source=41#wechat_redirect)
 
 #### 格震至源
 
@@ -115,12 +123,15 @@ slug: Learning
 - Tectonics
     - [大洋中脊核杂岩](https://mp.weixin.qq.com/s/oIN9s2pHOOrZucbehg-m0Q)
 
-
 ### Seismic Wave
 
 #### Travel time
 
 - [走时计算](https://blog.seisman.info/tags/%E8%B5%B0%E6%97%B6)
+
+## Geosciences
+
+- [研究对象：地球！](https://mp.weixin.qq.com/s/vuphHk0pYKiCnlOvua143g)
 
 
 ## Geodesy
@@ -147,6 +158,13 @@ slug: Learning
 ## Physics
 
 - [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
+- [七堂极简物理课](https://book.douban.com/subject/26772731/)
+    - [第一堂课：最小作用量原理](https://mp.weixin.qq.com/s/ORRSassPnw_PJkCPp3TuyQ)
+    - [第二堂课（下）：量子力学背后的数学](https://mp.weixin.qq.com/s/YRjZU1giwfJoJQavN6R9oA)
+    - [第三堂课：统计力学](https://mp.weixin.qq.com/s/yrthb00TiaPFQSj2Pcht6g)
+    - [第四堂课：粒子物理学](https://mp.weixin.qq.com/s/w6nQy_czQTOYO2w4kBJ6EQ)
+- [史上物理学最强的科普](https://mp.weixin.qq.com/s/gkT_l3EKmgBtgazvsM83Wg)
+- [爱因斯坦：机遇与眼光 | 杨振宁](https://mp.weixin.qq.com/s/F7BV3NvzUx45E6mCcOw8mA)
 
 
 ## Math
@@ -184,6 +202,10 @@ slug: Learning
 ### Fourier Transforms
 
 - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html) | [中文版](http://www.jezzamon.com/fourier/zh-cn.html)
+
+### Other
+
+- [无线通信：从1G到5G](https://mp.weixin.qq.com/s/aEFoAYNCsdwgEfo1sWm6UQ)
 
 
 ## Computer
@@ -289,6 +311,10 @@ slug: Learning
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
 - [2020 Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
 - [2020 USTC seismological algorithms training](http://seismo.training.ustc.edu.cn/index.php): [bilibili vedio](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
+- 2020 五刊联盟学术论坛
+    - [八：一场人工智能地震学的“锵锵三人行”](https://mp.weixin.qq.com/s/EhfMuZH4HSz3uTgJwx9mPw)
+    - [十一：MT火山/地热结构成像及地震和电磁联合反演](https://mp.weixin.qq.com/s/jBCk_zuDNC7x4qSCxPXAwQ)
+    - [十二：走滑断层上超剪切破裂的可持续性讨论](https://mp.weixin.qq.com/s/ggKgD_UrmtnWzv7sNfEVqA)
 - [2019 Southern University of Science and Technology Workshop (password: SUSTech2019)](https://owncloud.sustc.edu.cn/s/aF4ZK5C5SoLcejj)
 - [2016 Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 
