@@ -78,10 +78,9 @@ slug: Learning
     - [Instrumentation in Earthquake Seismology](https://www.springer.com/gp/book/9789401751131)
     - [Of Poles and Zeros - Fundamentals of Digital Seismology](https://www.springer.com/gp/book/9780792368342)
 
+### Deep Earthquakes
 
-### 参考手册
-
-- [IRIS DMC](http://ds.iris.edu/ds/nodes/dmc/)'s [manuals](http://ds.iris.edu/ds/nodes/dmc/manuals/) and [tutorials](http://ds.iris.edu/ds/nodes/dmc/tutorials/)
+- [汪清7.2级深震——源于地球深部的跳动](https://mp.weixin.qq.com/s/mjQFAYmgFWQJv0vWKSJl_A)
 
 
 ### 格震至源
@@ -106,6 +105,10 @@ slug: Learning
     - [潜入马里亚纳海沟-人类极限挑战](https://mp.weixin.qq.com/s/OhOX3nXq5vls9Y95DG6Erg)
 - Tectonics
     - [大洋中脊核杂岩](https://mp.weixin.qq.com/s/oIN9s2pHOOrZucbehg-m0Q)
+
+### 参考手册
+
+- [IRIS DMC](http://ds.iris.edu/ds/nodes/dmc/)'s [manuals](http://ds.iris.edu/ds/nodes/dmc/manuals/) and [tutorials](http://ds.iris.edu/ds/nodes/dmc/tutorials/)
 
 
 ## Geodesy
