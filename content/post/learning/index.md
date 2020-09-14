@@ -8,6 +8,8 @@ categories: ["Learning"]
 slug: Learning
 ---
 
+# 1. Geosciences
+
 ## Seismology
 
 ### Scientists’ notes
@@ -178,7 +180,7 @@ slug: Learning
 
 ### Tectonicmovement
 
-- [https://mp.weixin.qq.com/s/EBj7DdRdpaAV_bTrsDljnQ](https://mp.weixin.qq.com/s/EBj7DdRdpaAV_bTrsDljnQ)
+- [地球历史上的构造“运动会”](https://mp.weixin.qq.com/s/EBj7DdRdpaAV_bTrsDljnQ)
 
 ### Subduction initation
 
@@ -267,6 +269,8 @@ slug: Learning
 - [Mechanics of Materials](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw/playlists)
 
 
+# 2. Methods of Mathematical Physics
+
 ## Physics
 
 - [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
@@ -294,9 +298,9 @@ slug: Learning
 - [1900 页数学基础：面向 CS 的线性代数、拓扑、微积分和最优化](https://mp.weixin.qq.com/s/uYikAleBO4U4ub_i_QOuIg): [orignal link](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 
 
-## Data Analysis
+# 3. Data Analysis
 
-### Machine Learning
+## Machine Learning
 
 - [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732): [gen.lib.rus.ec](http://gen.lib.rus.ec/search.php?req=Pattern+Recognition+and+Machine+Learning&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) | [知乎](https://www.zhihu.com/question/20970802)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng, Staford University | [youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
@@ -326,6 +330,8 @@ slug: Learning
 
 - [无线通信：从1G到5G](https://mp.weixin.qq.com/s/aEFoAYNCsdwgEfo1sWm6UQ)
 
+
+# 4. Programming
 
 ## Computer
 
@@ -414,6 +420,8 @@ slug: Learning
 - [GMT-China blog](https://gmt-china.org/blog)
 - [ml-visuals](https://github.com/dair-ai/ml-visuals): figures and templates used in Machine Learning | [Chinese introduction](http://www.python88.com/topic/63529)
 
+
+# 5. Resources
 
 ## Lectures & Resources
 
