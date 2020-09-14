@@ -18,7 +18,7 @@ slug: Learning
 - [Charles J. Ammon's research notes](http://eqseis.geosc.psu.edu/cammon/index.html)
 - [Emile A. Okal’s notes](https://www.earth.northwestern.edu/individ/emile/462.Spring16)
 - [William Menke’s research notes 1977-present](https://www.ldeo.columbia.edu/users/menke/research_notes/index.html)
-- 格震至源: Prof. [Hongfeng Yang](https://www.cuhk.edu.hk/sci/essc/people/yang_hf.html)'s WeChat blog
+- [格震至源](#格震至源): Prof. [Hongfeng Yang](https://www.cuhk.edu.hk/sci/essc/people/yang_hf.html)'s WeChat blog
 
 
 ### 地震学物理量
