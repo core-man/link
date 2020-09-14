@@ -101,6 +101,7 @@ slug: database
 - [Global Earthquake Model Foundation's Global Active Faults](https://github.com/GEMScienceTools/gem-global-active-faults): [Interactive map](https://blogs.openquake.org/hazard/global-active-fault-viewer) | [Brief Introduction](http://rocksandwater.net/blog/2018/10/the-gem-global-active-faults-database-and-webmap)
     - [Active Tectonics of the Andes](https://github.com/ActiveTectonicsAndes/ATA): [Brief Introduction](http://rocksandwater.net/blog/2012/10/ata-announcement)
     - [HimaTibetMap](https://github.com/HimaTibetMap/HimaTibetMap): [Brief Introduction](http://rocksandwater.net/blog/2011/07/himatibetmap-1-1)
+- [中国地震活动断层探察数据中心](http://www.activefault-datacenter.cn/)
 - [USGS Hazard Assessment Data and Models](https://earthquake.usgs.gov/data/data.php#model): Faults and Folds
 - [EFEHR: European Database of Seismogenic Faults](https://www.seismofaults.eu)
 
