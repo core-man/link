@@ -113,6 +113,8 @@ slug: Learning
 - [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
 - [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
 - [狄拉克和他的δ 函数](https://www.ee.cityu.edu.hk/~gchen/pdf/Dirac_Delta.pdf)
+- [关于正态分布，你不知道它诞生之路是多么“变态”](https://mp.weixin.qq.com/s/o6Yy-hIutAMBaabGiCIs7A)
+- [正态分布的前世今生](http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/Mean-Quantile/intro-normal-distribution-2.pdf)
 
 
 ## Data Analysis
@@ -130,17 +132,38 @@ slug: Learning
 
 ## Signal
 
+### Course
+
 - [Signal and Systems: an introduction to analog and digital signal processing](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/): Alan V. Oppenheim, MIT, 1987 | [youtube](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B) | [网易公开课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fsignals.html)
 - [Discrete-Time Signal Processing](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-341-discrete-time-signal-processing-fall-2005/): Alan V. Oppenheim, MIT, 2005
 - [Digital Signal Processing](https://ocw.mit.edu/resources/res-6-008-digital-signal-processing-spring-2011/): Alan V. Oppenheim, MIT, 1975 | [youtube](https://www.youtube.com/watch?v=rkvEM5Y3N60&list=PL8157CA8884571BA2)
 - [Signal Processing: Continuous and Discrete](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/index.htm): Derek Rowell, MIT, 2008 | Level: Graduate
 - [数字信号处理](https://web.xidian.edu.cn/kywang/teach.html): 本科生
 
+### Fourier Transforms
+
+- [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html) | [中文版](http://www.jezzamon.com/fourier/zh-cn.html)
+
 
 ## Computer
 
-### Programming
+### Linux
 
+- [46个Linux面试常见问题](https://cloud.tencent.com/developer/article/1527665)
+
+
+## Programming
+
+### Skills
+
+- [这一团糟的代码，真的是我写的？！](https://developer.aliyun.com/article/718155)
+
+### Algorithms
+
+- [The Algorithms](https://thealgorithms.github.io/website/): Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language | [GitHub](https://github.com/TheAlgorithms)
+    - [C](https://github.com/TheAlgorithms/C)
+    - [Python](https://github.com/TheAlgorithms/Python): [Chinese introduction](https://mp.weixin.qq.com/s/ZQGiqxoOGbTPO1c86mV9Tg)
+    - [MATLAB/Octave](https://github.com/TheAlgorithms/MATLAB-Octave)
 - [闰年的判断](https://blog.seisman.info/leap-year/)
 - [判断字节序的多种方法](https://blog.seisman.info/linux-endian)
 
