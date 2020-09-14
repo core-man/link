@@ -98,10 +98,12 @@ slug: Learning
 #### Seismicity
 
 - [Can science tell when a large earthquake will be followed by an even larger one?](https://temblor.net/earthquake-insights/can-science-tell-when-a-large-earthquake-will-be-followed-by-an-even-larger-one-10056/)
+- [注水诱发地震与孔隙压力变化速率的关系](https://mp.weixin.qq.com/s/tcUe9P8XsZ3mIbRVRnd3rw)
 
 #### Source Physics
 
 - [速率-状态模型对Cascadia幕式震颤和慢滑变化的新认识](https://mp.weixin.qq.com/s/5FIMTuxjKeWVn_hsNsDplQ)
+- [追踪浅层断裂带中的流体流动](https://mp.weixin.qq.com/s/_Oxh60KJIYR7r1bbfVcfwQ)
 
 #### Early Warning
 
@@ -137,9 +139,10 @@ slug: Learning
 
 - [走时计算](https://blog.seisman.info/tags/%E8%B5%B0%E6%97%B6)
 
-## Geosciences
 
-- [研究对象：地球！](https://mp.weixin.qq.com/s/vuphHk0pYKiCnlOvua143g)
+### Seismic Imaging
+
+- [基于地震波场的跨尺度地球内部成像](https://mp.weixin.qq.com/s/1WhmkWma7wZZjzX_wujYYg)
 
 
 ## Geodesy
@@ -147,6 +150,13 @@ slug: Learning
 - 震中距、方位角、反方位角: [计算](https://blog.seisman.info/calculate-dist-az-baz/) | [计算](https://zhaozhiyuan.org/post/distaz/) | [计算](https://seisman.github.io/SAC_Docs_zh/fileformat/header-variables/) | [SAC's distaz](https://seisman.github.io/SAC_Docs_zh/libs/libsacio/#distaz)
 - [计算某点离海岸线的距离](https://blog.seisman.info/calculate-distance-to-coast)
 - [Pacific Northwest Earth Science Animations](https://www.youtube.com/playlist?list=PLngDHXr1w29SVVyip5E9bYnuCcEeL-CGw): 俯冲带变形过程的卡通描述
+- [中国大陆地壳变形最大GPS数据集](https://mp.weixin.qq.com/s/UA_90DhiTNT0wio15xPYHg)
+
+
+## Geodynamics
+
+- [难以捉摸的地幔动力地形](https://mp.weixin.qq.com/s/IqUSnvamS8FO8ZIYPCN-Zw)
+
 
 ## Tectonics
 
@@ -164,6 +174,8 @@ slug: Learning
 
 - [大洋俯冲带变质作用、流体行为与岩浆作用](https://mp.weixin.qq.com/s/yTn6FlS38DqObn9hiKjdvA)
 - [俯冲隧道研究：进展、问题及其挑战](https://mp.weixin.qq.com/s/HevA9KJtQsFRcQwkqUMgew)
+- [平板俯冲及其地质效应的研究进展: 观测与模拟](https://mp.weixin.qq.com/s/8k7VW1o-RO_SpaePBEgL4A)
+- [汇聚板块边缘逆冲剪切力控制着山脉高度](https://mp.weixin.qq.com/s/Bg7trH2nAMv3820WDXHgHw)
 
 ### Continental subuduction
 
@@ -185,9 +197,19 @@ slug: Learning
 - [俯冲构造vs.地幔柱构造——板块运动驱动力探讨](https://mp.weixin.qq.com/s/4RT-V1G9KUOKx-yazLBtkw)
 - [板内地幔岩浆作用成因之争：板块构造还是地幔柱](https://mp.weixin.qq.com/s/8ogjZly5VYwYbjS8tTe_5w)
 
+### Sea floor spreading
+
+- [稳定的洋中脊扩张速度](https://mp.weixin.qq.com/s/56b7C_jjGOt2bg2Lrqblow)
+
+### 克拉通
+
+- [克拉通破坏本质与机理](https://mp.weixin.qq.com/s/I7-JxAGLmqgPXTmh6w231w)
+- [克拉通地幔物质迁移引发的大陆裂谷带深部碳聚集](https://mp.weixin.qq.com/s/f55jRUjxbWQEheoT-y2KHw)
+
 ### Southeastern Tibetan Plateau
 
 - [控制龙门山地区地形的动力学机制](https://mp.weixin.qq.com/s/KPfvm1v2ZBogTcsCxxR5xw)
+- [青藏高原东南缘地壳上地幔三维S波速度结构及动力学意义](https://mp.weixin.qq.com/s/GTllS9FOyA9YeoyAYJWbcg)
 - [峨眉山古地幔柱改造岩石圈对青藏高原东南向深部弱物质流阻挡作用的大地电磁证据](https://mp.weixin.qq.com/s/TOky2I1NUW3DikgYEcOOVw)
 - [哀牢山南段新生代造山和成矿的地震学证据](https://mp.weixin.qq.com/s/cRcKacIbOb18r-giQPF0kg)
 
@@ -211,6 +233,12 @@ slug: Learning
 ## Geosciences
 
 - [如何认识地球深部结构: 固体地球物理学的六种分支学科概述](https://mp.weixin.qq.com/s/DTFzCq6A_SbGrpdAjAxQaQ)
+- [研究对象：地球！](https://mp.weixin.qq.com/s/vuphHk0pYKiCnlOvua143g)
+
+
+## Planetary Sciences
+
+- [日冕磁场的全球性分布](https://mp.weixin.qq.com/s/zWGA5pt7ZurtpVKH0WaxQw)
 
 
 ## 连续介质力学
