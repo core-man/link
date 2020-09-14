@@ -10,7 +10,7 @@ slug: Learning
 
 # 1. Geosciences
 
-## Seismology
+## 1.1 Seismology
 
 ### Scientists’ notes
 
@@ -147,7 +147,7 @@ slug: Learning
 - [基于地震波场的跨尺度地球内部成像](https://mp.weixin.qq.com/s/1WhmkWma7wZZjzX_wujYYg)
 
 
-## Geodesy
+## 1.2 Geodesy
 
 - 震中距、方位角、反方位角: [计算](https://blog.seisman.info/calculate-dist-az-baz/) | [计算](https://zhaozhiyuan.org/post/distaz/) | [计算](https://seisman.github.io/SAC_Docs_zh/fileformat/header-variables/) | [SAC's distaz](https://seisman.github.io/SAC_Docs_zh/libs/libsacio/#distaz)
 - [计算某点离海岸线的距离](https://blog.seisman.info/calculate-distance-to-coast)
@@ -155,7 +155,7 @@ slug: Learning
 - [中国大陆地壳变形最大GPS数据集](https://mp.weixin.qq.com/s/UA_90DhiTNT0wio15xPYHg)
 
 
-## Mineral physics
+## 1.3 Mineral physics
 
 ### Mantle
 
@@ -171,12 +171,12 @@ slug: Learning
 - [地核——巨大的水库？](https://mp.weixin.qq.com/s/vAqFqq3cThaD-brzbDg88g)
 
 
-## Geodynamics
+## 1.4 Geodynamics
 
 - [难以捉摸的地幔动力地形](https://mp.weixin.qq.com/s/IqUSnvamS8FO8ZIYPCN-Zw)
 
 
-## Tectonics
+## 1.5 Tectonics
 
 ### Tectonicmovement
 
@@ -236,12 +236,12 @@ slug: Learning
 - [缅甸第四纪火山岩研究揭示洋-陆板块撕裂和青藏高原地幔流出](https://mp.weixin.qq.com/s/dBiURhQxlr9UjVQh9NUgNw)
 
 
-## Geology
+## 1.6 Geology
 
 - [Geology Cafe](http://geologycafe.com/)
 
 
-## Geography
+## 1.7 Geography
 
 - [中国到底有多少个“天府之国”?](https://mp.weixin.qq.com/s/UD12SFgrnE25VJDnExiSmQ)
 - [鄱阳湖是如何形成的](https://mp.weixin.qq.com/s/Jq5Yl85uH_CIPnBD22iY4g)
@@ -249,18 +249,18 @@ slug: Learning
 - [中国隧道工程的前世今生](https://mp.weixin.qq.com/s/SkjyVO0l9v_CjKnDYSzSOw)
 
 
-## Geosciences
+## 1.8 Geosciences
 
 - [如何认识地球深部结构: 固体地球物理学的六种分支学科概述](https://mp.weixin.qq.com/s/DTFzCq6A_SbGrpdAjAxQaQ)
 - [研究对象：地球！](https://mp.weixin.qq.com/s/vuphHk0pYKiCnlOvua143g)
 
 
-## Planetary Sciences
+## 1.9 Planetary Sciences
 
 - [日冕磁场的全球性分布](https://mp.weixin.qq.com/s/zWGA5pt7ZurtpVKH0WaxQw)
 
 
-## 连续介质力学
+## 1.10 连续介质力学
 
 ### 卡通解释
 
@@ -271,7 +271,7 @@ slug: Learning
 
 # 2. Methods of Mathematical Physics
 
-## Physics
+## 2.1 Physics
 
 - [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
 - [七堂极简物理课](https://book.douban.com/subject/26772731/)
@@ -287,7 +287,7 @@ slug: Learning
 - [杨振宁的最后一战](https://mp.weixin.qq.com/s/V79x2aUPFGQPXUMtlyY7ZQ)
 
 
-## Math
+## 2.2 Math
 
 - [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
 - [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
@@ -300,7 +300,7 @@ slug: Learning
 
 # 3. Data Analysis
 
-## Machine Learning
+## 3.1 Machine Learning
 
 - [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732): [gen.lib.rus.ec](http://gen.lib.rus.ec/search.php?req=Pattern+Recognition+and+Machine+Learning&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) | [知乎](https://www.zhihu.com/question/20970802)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng, Staford University | [youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
@@ -312,7 +312,7 @@ slug: Learning
 - [Get Over With the Machine Learning Hype](https://medium.com/@sapy/get-over-the-machine-learning-hype-79abcbe37272)
 
 
-## Signal
+## 3.2 Signal
 
 ### Course
 
@@ -333,14 +333,14 @@ slug: Learning
 
 # 4. Programming
 
-## Computer
+## 4.1 Computer
 
 ### Linux
 
 - [46个Linux面试常见问题](https://cloud.tencent.com/developer/article/1527665)
 
 
-## Programming
+## 4.2 Programming
 
 ### Skills
 
@@ -414,7 +414,7 @@ slug: Learning
 - [如何找出两个数组的交集、并集](https://blog.seisman.info/find-intersection-and-difference-of-two-arrays)
 
 
-## Plot
+## 4.3 Plot
 
 - [GMT gallery](https://docs.generic-mapping-tools.org/6.0/gallery.html): [GMT-China gallery](https://gmt-china.org/gallery)
 - [GMT-China blog](https://gmt-china.org/blog)
@@ -423,7 +423,7 @@ slug: Learning
 
 # 5. Resources
 
-## Lectures & Resources
+## 5.1 Lectures & Resources
 
 ### Collections
 
@@ -446,13 +446,13 @@ slug: Learning
 - [2016 Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 
 
-## Study and Research
+## 5.2 Study and Research
 
 - [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x): [中文版](https://hansonclinicalresearch.org/blog/f/%E7%BB%99%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%9A%8420%E6%9D%A1%E5%BB%BA%E8%AE%AE)
 - [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/): [中文版](https://mp.weixin.qq.com/s/Veil7ARFJXtAXMDfyNLcxQ)
 
 
-## Misc
+## 5.3 Misc
 
 - [Essential Image Optimization](https://images.guide/)
 
