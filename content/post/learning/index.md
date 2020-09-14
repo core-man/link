@@ -252,10 +252,14 @@ slug: Learning
 - [2016 Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 
 
+## Study and Research
+
+- [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/): [中文版](https://mp.weixin.qq.com/s/Veil7ARFJXtAXMDfyNLcxQ)
+
+
 ## Misc
 
 - [Essential Image Optimization](https://images.guide/)
-
 
 
 ## Revision history
