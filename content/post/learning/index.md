@@ -8,10 +8,9 @@ categories: ["Learning"]
 slug: Learning
 ---
 
+# Seismology
 
-## Seismology
-
-### Scientists’ notes
+## Scientists’ notes
 
 - [CPS](http://www.eas.slu.edu/eqc/eqccps.html): [Documentation](http://www.eas.slu.edu/eqc/eqc_cps/CPS/CPS330.html) | [Tutorials](http://www.eas.slu.edu/eqc/eqc_cps/TUTORIAL) | [Questions and Responses](http://www.eas.slu.edu/eqc/eqc_cps/Questions) | [Notes](http://www.eas.slu.edu/eqc/eqc_cps/workshop.html)
 - [Lupei Zhu’s research notes](https://docplayer.net/62058516-Synthetic-seismograms-and-seismic-waveform-modeling-lupei-zhu-saint-louis-university.html)
@@ -21,7 +20,7 @@ slug: Learning
 - [格震至源](#格震至源): Prof. [Hongfeng Yang](https://www.cuhk.edu.hk/sci/essc/people/yang_hf.html)'s WeChat blog
 
 
-### 地震学物理量
+## 地震学物理量
 
 - 地震学中的坐标系
     - [地震学中的坐标系](https://blog.seisman.info/coordinate-systems-in-seismology): [SAC's rotate](https://seisman.github.io/SAC_Docs_zh/commands/rotate/) | [IRIS's rotation](https://service.iris.edu/irisws/rotation/docs/1/help/)
@@ -32,7 +31,7 @@ slug: Learning
     - [震源机制解的格式 (GMT5 psmeca)](https://docs.gmt-china.org/5.4/module/psmeca) | [GMT6 meca](https://docs.gmt-china.org/latest/module/meca/)
 
 
-### 计算地震学
+## 计算地震学
 
 - Focal mechanism
     - [辐射花样的计算与震源球的绘制](https://blog.seisman.info/radiation-pattern-and-beach-ball)
@@ -41,7 +40,7 @@ slug: Learning
     - [走时计算](https://blog.seisman.info/tags/%E8%B5%B0%E6%97%B6)
 
 
-### 地震学数据
+## 地震学数据
 
 - 数据格式
     - [地震波形数据格式](https://blog.seisman.info/seismic-data-formats) | [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/) | [Modern File Formats for Seismology](http://seismic-data.org/)
@@ -78,6 +77,8 @@ slug: Learning
     - [Instrumentation in Earthquake Seismology](https://www.springer.com/gp/book/9789401751131)
     - [Of Poles and Zeros - Fundamentals of Digital Seismology](https://www.springer.com/gp/book/9780792368342)
 
+## Seismic Source
+
 ### Deep Earthquakes
 
 - [汪清7.2级深震——源于地球深部的跳动](https://mp.weixin.qq.com/s/mjQFAYmgFWQJv0vWKSJl_A)
@@ -106,24 +107,24 @@ slug: Learning
 - Tectonics
     - [大洋中脊核杂岩](https://mp.weixin.qq.com/s/oIN9s2pHOOrZucbehg-m0Q)
 
-### 参考手册
+## 参考手册
 
 - [IRIS DMC](http://ds.iris.edu/ds/nodes/dmc/)'s [manuals](http://ds.iris.edu/ds/nodes/dmc/manuals/) and [tutorials](http://ds.iris.edu/ds/nodes/dmc/tutorials/)
 
 
-## Geodesy
+# Geodesy
 
 - 震中距、方位角、反方位角: [计算](https://blog.seisman.info/calculate-dist-az-baz/) | [计算](https://zhaozhiyuan.org/post/distaz/) | [计算](https://seisman.github.io/SAC_Docs_zh/fileformat/header-variables/) | [SAC's distaz](https://seisman.github.io/SAC_Docs_zh/libs/libsacio/#distaz)
 - [计算某点离海岸线的距离](https://blog.seisman.info/calculate-distance-to-coast)
 - [Pacific Northwest Earth Science Animations](https://www.youtube.com/playlist?list=PLngDHXr1w29SVVyip5E9bYnuCcEeL-CGw): 俯冲带变形过程的卡通描述
 
 
-## Geology
+# Geology
 
 - [Geology Cafe](http://geologycafe.com/)
 
 
-## 连续介质力学
+# 连续介质力学
 
 - 卡通解释
     - [Malleable And Ductile](https://www.youtube.com/watch?v=99DQdM29ib8)
@@ -131,12 +132,12 @@ slug: Learning
     - [Mechanics of Materials](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw/playlists)
 
 
-## Physics
+# Physics
 
 - [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
 
 
-## Math
+# Math
 
 - [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
 - [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
@@ -145,9 +146,9 @@ slug: Learning
 - [正态分布的前世今生](http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/Mean-Quantile/intro-normal-distribution-2.pdf)
 
 
-## Data Analysis
+# Data Analysis
 
-### Machine Learning
+## Machine Learning
 
 - [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732): [gen.lib.rus.ec](http://gen.lib.rus.ec/search.php?req=Pattern+Recognition+and+Machine+Learning&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) | [知乎](https://www.zhihu.com/question/20970802)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng, Staford University | [youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
@@ -158,9 +159,9 @@ slug: Learning
     - [Principal Components Analysis (PCA)](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
 
 
-## Signal
+# Signal
 
-### Course
+## Course
 
 - [Signal and Systems: an introduction to analog and digital signal processing](https://ocw.mit.edu/resources/res-6-007-signals-and-systems-spring-2011/): Alan V. Oppenheim, MIT, 1987 | [youtube](https://www.youtube.com/watch?v=KJnAy6hzetw&list=PL41692B571DD0AF9B) | [网易公开课](http://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fsignals.html)
 - [Discrete-Time Signal Processing](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-341-discrete-time-signal-processing-fall-2005/): Alan V. Oppenheim, MIT, 2005
@@ -168,21 +169,21 @@ slug: Learning
 - [Signal Processing: Continuous and Discrete](https://ocw.mit.edu/courses/mechanical-engineering/2-161-signal-processing-continuous-and-discrete-fall-2008/index.htm): Derek Rowell, MIT, 2008 | Level: Graduate
 - [数字信号处理](https://web.xidian.edu.cn/kywang/teach.html): 本科生
 
-### Fourier Transforms
+## Fourier Transforms
 
 - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html) | [中文版](http://www.jezzamon.com/fourier/zh-cn.html)
 
 
-## Computer
+# Computer
 
-### Linux
+## Linux
 
 - [46个Linux面试常见问题](https://cloud.tencent.com/developer/article/1527665)
 
 
-## Programming
+# Programming
 
-### Skills
+## Skills
 
 - [这一团糟的代码，真的是我写的？！](https://developer.aliyun.com/article/718155)
 
@@ -195,7 +196,7 @@ slug: Learning
 - [闰年的判断](https://blog.seisman.info/leap-year/)
 - [判断字节序的多种方法](https://blog.seisman.info/linux-endian)
 
-### Python
+## Python
 
 - Python Libraries
     - [SciPy](https://www.scipy.org/): a Python-based ecosystem of open-source software for mathematics, science, and engineering
@@ -247,23 +248,23 @@ slug: Learning
         - [Scipy lecture notes](http://scipy-lectures.org/intro/matplotlib/index.html)
 
 
-###  Perl
+##  Perl
 
 - [时间加法](https://blog.seisman.info/perl-timespan)
 - [单引号字符直接量](https://blog.seisman.info/perl-single-quoted-string-literals)
 - [如何找出两个数组的交集、并集](https://blog.seisman.info/find-intersection-and-difference-of-two-arrays)
 
 
-## Plot
+# Plot
 
 - [GMT gallery](https://docs.generic-mapping-tools.org/6.0/gallery.html): [GMT-China gallery](https://gmt-china.org/gallery)
 - [GMT-China blog](https://gmt-china.org/blog)
 - [ml-visuals](https://github.com/dair-ai/ml-visuals): figures and templates used in Machine Learning | [Chinese introduction](http://www.python88.com/topic/63529)
 
 
-## Lectures & Resources
+# Lectures & Resources
 
-### Collections
+## Collections
 
 - [IRIS Webinars](https://www.iris.edu/hq/webinar/)
 - [CIDER Lecture Collection](http://seismo.berkeley.edu/wiki_cider/CIDER_Lecture_Collection)
@@ -271,7 +272,7 @@ slug: Learning
 - [Live Jupyter Notebooks for Seismology](http://www.seismo-live.org/): Some python scripts used in seismology
 - [Community Online Resource for Statistical Seismicity Analysis](http://www.corssa.org/en/home/)
 
-### Course & Workshop
+## Course & Workshop
 
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
 - [2020 Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
@@ -280,13 +281,13 @@ slug: Learning
 - [2016 Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 
 
-## Study and Research
+# Study and Research
 
 - [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x): [中文版](https://hansonclinicalresearch.org/blog/f/%E7%BB%99%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%9A%8420%E6%9D%A1%E5%BB%BA%E8%AE%AE)
 - [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/): [中文版](https://mp.weixin.qq.com/s/Veil7ARFJXtAXMDfyNLcxQ)
 
 
-## Misc
+# Misc
 
 - [Essential Image Optimization](https://images.guide/)
 

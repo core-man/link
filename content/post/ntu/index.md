@@ -64,7 +64,6 @@ slug: ntu
 
 - [中国驻新加坡外交部](http://www.chinaembassy.org.sg/chn)
 - [新华网新加坡频道](http://sg.xinhuanet.com)
-- [疫情期间所有重要电话和网站](https://mp.weixin.qq.com/s/0gRSNeEM6Yy0N8cgLON12Q)
 - [联合早报](https://www.zaobao.com.sg)
 - [The Straits Times](https://www.straitstimes.com)
 - [Public holidays](https://www.mom.gov.sg/employment-practices/public-holidays)
