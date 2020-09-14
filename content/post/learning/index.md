@@ -95,6 +95,14 @@ slug: Learning
 
 - [汪清7.2级深震——源于地球深部的跳动](https://mp.weixin.qq.com/s/mjQFAYmgFWQJv0vWKSJl_A)
 
+#### Seismicity
+
+- [Can science tell when a large earthquake will be followed by an even larger one?](https://temblor.net/earthquake-insights/can-science-tell-when-a-large-earthquake-will-be-followed-by-an-even-larger-one-10056/)
+
+#### Source Physics
+
+- [速率-状态模型对Cascadia幕式震颤和慢滑变化的新认识](https://mp.weixin.qq.com/s/5FIMTuxjKeWVn_hsNsDplQ)
+
 #### Early Warning
 
 - [后发先至：跑赢时间的地震预警](https://mp.weixin.qq.com/s/SsrtTjMSpvf6EdqsKMxAoQ)
@@ -163,8 +171,12 @@ slug: Learning
     - [第二堂课（下）：量子力学背后的数学](https://mp.weixin.qq.com/s/YRjZU1giwfJoJQavN6R9oA)
     - [第三堂课：统计力学](https://mp.weixin.qq.com/s/yrthb00TiaPFQSj2Pcht6g)
     - [第四堂课：粒子物理学](https://mp.weixin.qq.com/s/w6nQy_czQTOYO2w4kBJ6EQ)
+- [最美的公式：你也能懂的麦克斯韦方程组（微分篇）](https://mp.weixin.qq.com/s/5s4mRIedZ4qR3dIQiiR-nA)
+- [最美的公式：你也能懂的麦克斯韦方程组（积分篇）](https://mp.weixin.qq.com/s/5L0NJKZMKMMocJWbsC45sQ)
+- [相对论英雄谱](https://mp.weixin.qq.com/s/DtUzz2-jvE9LDKfOLCf-zw) | [List of contributors to general relativity](https://en.wikipedia.org/wiki/List_of_contributors_to_general_relativity)
 - [史上物理学最强的科普](https://mp.weixin.qq.com/s/gkT_l3EKmgBtgazvsM83Wg)
-- [爱因斯坦：机遇与眼光 | 杨振宁](https://mp.weixin.qq.com/s/F7BV3NvzUx45E6mCcOw8mA)
+- [爱因斯坦：机遇与眼光 (杨振宁)](https://mp.weixin.qq.com/s/F7BV3NvzUx45E6mCcOw8mA)
+- [杨振宁的最后一战](https://mp.weixin.qq.com/s/V79x2aUPFGQPXUMtlyY7ZQ)
 
 
 ## Math
@@ -174,6 +186,8 @@ slug: Learning
 - [狄拉克和他的δ 函数](https://www.ee.cityu.edu.hk/~gchen/pdf/Dirac_Delta.pdf)
 - [关于正态分布，你不知道它诞生之路是多么“变态”](https://mp.weixin.qq.com/s/o6Yy-hIutAMBaabGiCIs7A)
 - [正态分布的前世今生](http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/Mean-Quantile/intro-normal-distribution-2.pdf)
+- [Secretary problem](https://en.m.wikipedia.org/wiki/Secretary_problem)
+- [1900 页数学基础：面向 CS 的线性代数、拓扑、微积分和最优化](https://mp.weixin.qq.com/s/uYikAleBO4U4ub_i_QOuIg): [orignal link](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 
 
 ## Data Analysis
@@ -187,6 +201,7 @@ slug: Learning
     - [Plots](https://www.machinelearningplus.com/category/plots/)
     - [Time Series](https://www.machinelearningplus.com/category/time-series/)
     - [Principal Components Analysis (PCA)](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
+- [Get Over With the Machine Learning Hype](https://medium.com/@sapy/get-over-the-machine-learning-hype-79abcbe37272)
 
 
 ## Signal
