@@ -22,51 +22,51 @@ slug: Learning
 
 ## 地震学物理量
 
-- 地震学中的坐标系
-    - [地震学中的坐标系](https://blog.seisman.info/coordinate-systems-in-seismology): [SAC's rotate](https://seisman.github.io/SAC_Docs_zh/commands/rotate/) | [IRIS's rotation](https://service.iris.edu/irisws/rotation/docs/1/help/)
-    - [SurfaceWaveMFA](http://eqseis.geosc.psu.edu/cammon/index.html): Moment-Tensor Conventions
-    - [地震学断层的定义](https://blog.seisman.info/faults-in-seismology)
-- Focal mechanism
-    - [Focal Mechanisms Explained: What are those “beach balls”?](https://www.youtube.com/watch?v=MomVOkyDdLo): A 6-minute video explaining beachballs for non-seismologists and beginners.
-    - [震源机制解的格式 (GMT5 psmeca)](https://docs.gmt-china.org/5.4/module/psmeca) | [GMT6 meca](https://docs.gmt-china.org/latest/module/meca/)
+### 地震学中的坐标系
+
+- [地震学中的坐标系](https://blog.seisman.info/coordinate-systems-in-seismology): [SAC's rotate](https://seisman.github.io/SAC_Docs_zh/commands/rotate/) | [IRIS's rotation](https://service.iris.edu/irisws/rotation/docs/1/help/)
+- [SurfaceWaveMFA](http://eqseis.geosc.psu.edu/cammon/index.html): Moment-Tensor Conventions
+- [地震学断层的定义](https://blog.seisman.info/faults-in-seismology)
 
 
-## 计算地震学
+## Seismic Data
 
-- Focal mechanism
-    - [辐射花样的计算与震源球的绘制](https://blog.seisman.info/radiation-pattern-and-beach-ball)
-    - [由矩张量计算双力偶断层参数](https://blog.seisman.info/moment-tensor-to-double-couple)
-- 走时
-    - [走时计算](https://blog.seisman.info/tags/%E8%B5%B0%E6%97%B6)
+### Seismograph
 
+- tranditional instrument
+    - [Instrumentation for Observational Seismology](https://www.iris.edu/hq/webinar/2020/04/instrumentation_for_observational_seismology__where_our_wiggles_come_from): Adam Ringler's talk
+    - [Three Types of Noise Sources Recorded on Seismometers](https://www.youtube.com/watch?v=Eyi5Qoy3Iek&list=PLU4ZnBGMN1qjh1qjOmh3uvgzpciFF-xu3&index=16&t=3446s): Robert Anthony's talk
+- [Ocean Bottom Seismology](https://www.iris.edu/hq/webinar/2013/03/under_the_sea__ocean_bottom_seismology_for_landlubbers): Doug Wiens's talk
+- Rotational seismology
+    - [International Working Group on Rotational Seismology](http://www.rotational-seismology.org/) | [Jupyter Notebooks](http://www.seismo-live.org/)
+    - [Rotational Motions - a new observable for Seismology (2018)](https://www.youtube.com/watch?v=oUcVbZKRQfk): Heiner Igel's talk begins on `2:22:30`
+- Fiber-optic Seismology
+    - [Review of DAS applications in geophysics](https://doi.org/10.1785/0220190112)
+    - [Distributed Acoustic Sensing Virtual Workshop and Tutorial (2020)](https://www.iris.edu/hq/event/2020_DAS_Workshop)
+    - [Fiber-optic Seismology in Theory and Practice (2020)](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice)
+    - [Distributed Fiber-Optic Seismology in Theory and in Practice (2018)](https://www.youtube.com/watch?v=LAcQ44YRMuM)
 
-## 地震学数据
+### Instrument Response
 
-- 数据格式
-    - [地震波形数据格式](https://blog.seisman.info/seismic-data-formats) | [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/) | [Modern File Formats for Seismology](http://seismic-data.org/)
-    - [ObsPy Supported Formats](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read)
-    - [SEED Channel Naming](https://ds.iris.edu/ds/nodes/dmc/data/formats/seed-channel-naming/) | [Time Series Data Channels](http://ds.iris.edu/ds/nodes/dmc/tools/data_channels/#???)
-- 地震学仪器
-    - tranditional instrument
-        - [Instrumentation for Observational Seismology](https://www.iris.edu/hq/webinar/2020/04/instrumentation_for_observational_seismology__where_our_wiggles_come_from): Adam Ringler's talk
-        - [Three Types of Noise Sources Recorded on Seismometers](https://www.youtube.com/watch?v=Eyi5Qoy3Iek&list=PLU4ZnBGMN1qjh1qjOmh3uvgzpciFF-xu3&index=16&t=3446s): Robert Anthony's talk
-    - [Ocean Bottom Seismology](https://www.iris.edu/hq/webinar/2013/03/under_the_sea__ocean_bottom_seismology_for_landlubbers): Doug Wiens's talk
-    - Rotational seismology
-        - [International Working Group on Rotational Seismology](http://www.rotational-seismology.org/) | [Jupyter Notebooks](http://www.seismo-live.org/)
-        - [Rotational Motions - a new observable for Seismology (2018)](https://www.youtube.com/watch?v=oUcVbZKRQfk): Heiner Igel's talk begins on `2:22:30`
-    - Fiber-optic Seismology
-        - [Review of DAS applications in geophysics](https://doi.org/10.1785/0220190112)
-        - [Distributed Acoustic Sensing Virtual Workshop and Tutorial (2020)](https://www.iris.edu/hq/event/2020_DAS_Workshop)
-        - [Fiber-optic Seismology in Theory and Practice (2020)](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice)
-        - [Distributed Fiber-Optic Seismology in Theory and in Practice (2018)](https://www.youtube.com/watch?v=LAcQ44YRMuM)
-- 仪器效应
-    - [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/) | [Instrument Response](https://krischer.github.io/seismo_live_build/html/General%20Seismology/instrument_response_wrapper.html)
-    - [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
-    - [IRIS DMC Library of Nominal Responses for Seismic Instruments](http://ds.iris.edu/NRL/)
-- SAC技巧
-    - [SAC不同格式间的转换](https://blog.seisman.info/conversion-of-different-sac-formats)
-    - [SAC技巧](https://blog.seisman.info/tags/SAC%E6%8A%80%E5%B7%A7) | [SAC 技巧与陷阱](https://seisman.github.io/SAC_Docs_zh/tricks-and-traps/)
-    - [调用SAC进行Hilbert变换](https://blog.seisman.info/trash/sac-hilbert-transform)
+- [仪器响应](https://blog.seisman.info/tags/%E4%BB%AA%E5%99%A8%E5%93%8D%E5%BA%94) | [仪器响应](https://seisman.github.io/SAC_Docs_zh/appendix/resp/) | [Instrument Response](https://krischer.github.io/seismo_live_build/html/General%20Seismology/instrument_response_wrapper.html)
+- [去仪器响应](https://seisman.github.io/SAC_Docs_zh/data-process/instrument-response/)
+- [IRIS DMC Library of Nominal Responses for Seismic Instruments](http://ds.iris.edu/NRL/)
+
+### Data Format
+
+- [地震波形数据格式](https://blog.seisman.info/seismic-data-formats) | [Data Formats](https://ds.iris.edu/ds/nodes/dmc/data/formats/) | [Modern File Formats for Seismology](http://seismic-data.org/)
+- [ObsPy Supported Formats](https://docs.obspy.org/packages/autogen/obspy.core.stream.read.html#obspy.core.stream.read)
+- [SEED Channel Naming](https://ds.iris.edu/ds/nodes/dmc/data/formats/seed-channel-naming/) | [Time Series Data Channels](http://ds.iris.edu/ds/nodes/dmc/tools/data_channels/#???)
+
+### SAC skills
+
+- [SAC不同格式间的转换](https://blog.seisman.info/conversion-of-different-sac-formats)
+- [SAC技巧](https://blog.seisman.info/tags/SAC%E6%8A%80%E5%B7%A7) | [SAC 技巧与陷阱](https://seisman.github.io/SAC_Docs_zh/tricks-and-traps/)
+- [调用SAC进行Hilbert变换](https://blog.seisman.info/trash/sac-hilbert-transform)
+
+### Manuals
+
+- [IRIS DMC](http://ds.iris.edu/ds/nodes/dmc/)'s [manuals](http://ds.iris.edu/ds/nodes/dmc/manuals/) and [tutorials](http://ds.iris.edu/ds/nodes/dmc/tutorials/)
 - [New Manual of Seismological Observatory Practice](http://bib.telegrafenberg.de/en/publishing/distribution/nmsop/)
     - [CHAPTER 4: Seismic Signals and Noise](http://ebooks.gfz-potsdam.de/pubman/item/escidoc:124248)
     - [CHAPTER 5: Seismic Sensors and their Calibration](http://ebooks.gfz-potsdam.de/pubman/item/escidoc:56076)
@@ -77,7 +77,15 @@ slug: Learning
     - [Instrumentation in Earthquake Seismology](https://www.springer.com/gp/book/9789401751131)
     - [Of Poles and Zeros - Fundamentals of Digital Seismology](https://www.springer.com/gp/book/9780792368342)
 
+
 ## Seismic Source
+
+### Focal mechanism
+
+- [Focal Mechanisms Explained: What are those “beach balls”?](https://www.youtube.com/watch?v=MomVOkyDdLo): A 6-minute video explaining beachballs for non-seismologists and beginners
+- [震源机制解的格式 (GMT5 psmeca)](https://docs.gmt-china.org/5.4/module/psmeca) | [GMT6 meca](https://docs.gmt-china.org/latest/module/meca/)
+- [辐射花样的计算与震源球的绘制](https://blog.seisman.info/radiation-pattern-and-beach-ball)
+- [由矩张量计算双力偶断层参数](https://blog.seisman.info/moment-tensor-to-double-couple)
 
 ### Deep Earthquakes
 
@@ -107,9 +115,11 @@ slug: Learning
 - Tectonics
     - [大洋中脊核杂岩](https://mp.weixin.qq.com/s/oIN9s2pHOOrZucbehg-m0Q)
 
-## 参考手册
 
-- [IRIS DMC](http://ds.iris.edu/ds/nodes/dmc/)'s [manuals](http://ds.iris.edu/ds/nodes/dmc/manuals/) and [tutorials](http://ds.iris.edu/ds/nodes/dmc/tutorials/)
+## Seismic Wave
+
+- Travel time
+    - [走时计算](https://blog.seisman.info/tags/%E8%B5%B0%E6%97%B6)
 
 
 # Geodesy
@@ -126,10 +136,11 @@ slug: Learning
 
 # 连续介质力学
 
-- 卡通解释
-    - [Malleable And Ductile](https://www.youtube.com/watch?v=99DQdM29ib8)
-    - [Behaviour of Springs and Materials](https://www.youtube.com/playlist?list=PLlDtVvefFYT8h1s5owifl85J92_9ulwYg)
-    - [Mechanics of Materials](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw/playlists)
+## 卡通解释
+
+- [Malleable And Ductile](https://www.youtube.com/watch?v=99DQdM29ib8)
+- [Behaviour of Springs and Materials](https://www.youtube.com/playlist?list=PLlDtVvefFYT8h1s5owifl85J92_9ulwYg)
+- [Mechanics of Materials](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw/playlists)
 
 
 # Physics
@@ -187,7 +198,7 @@ slug: Learning
 
 - [这一团糟的代码，真的是我写的？！](https://developer.aliyun.com/article/718155)
 
-### Algorithms
+## Algorithms
 
 - [The Algorithms](https://thealgorithms.github.io/website/): Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language | [GitHub](https://github.com/TheAlgorithms)
     - [C](https://github.com/TheAlgorithms/C)
