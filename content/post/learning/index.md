@@ -148,10 +148,69 @@ slug: Learning
 - [计算某点离海岸线的距离](https://blog.seisman.info/calculate-distance-to-coast)
 - [Pacific Northwest Earth Science Animations](https://www.youtube.com/playlist?list=PLngDHXr1w29SVVyip5E9bYnuCcEeL-CGw): 俯冲带变形过程的卡通描述
 
+## Tectonics
+
+### Tectonicmovement
+
+- [https://mp.weixin.qq.com/s/EBj7DdRdpaAV_bTrsDljnQ](https://mp.weixin.qq.com/s/EBj7DdRdpaAV_bTrsDljnQ)
+
+### Subduction initation
+
+- [板块构造的启动时间（一）](https://mp.weixin.qq.com/s/HuGaqrwXfOFQX5kqpzP45Q)
+- [板块构造的启动时间（二）](https://mp.weixin.qq.com/s/sTGyHoWgsBHW3OdT5_bSaw)
+- [地球历史中两种范式的板块构造](https://mp.weixin.qq.com/s?__biz=MzIwMzgzNzMyNg==&mid=2247491820&amp;idx=1&amp;sn=21bd9b0ab0cb8411dedeb522bb9ee2a8&source=41#wechat_redirect)
+
+### Oceanic subduction
+
+- [大洋俯冲带变质作用、流体行为与岩浆作用](https://mp.weixin.qq.com/s/yTn6FlS38DqObn9hiKjdvA)
+- [俯冲隧道研究：进展、问题及其挑战](https://mp.weixin.qq.com/s/HevA9KJtQsFRcQwkqUMgew)
+
+### Continental subuduction
+
+- [大陆深俯冲的深浅动力学响应](https://mp.weixin.qq.com/s/ibTT3TFG4AKujVRlTa1NtQ)
+
+### Continental collision
+
+- [印度-亚洲大陆碰撞新模型](https://mp.weixin.qq.com/s/_d6WdDS4_eVk07FvZroRRg)
+- [特提斯造山带斑岩成矿作用](https://mp.weixin.qq.com/s/FWuG-ghhoepoTMb5eco9Qw)
+- [世界屋脊上的巨型矿藏](https://mp.weixin.qq.com/s/L0NV_Vcz2T7PsLHNDwI25Q)
+
+### Continental formation & composition
+
+- [水在大陆地壳形成中的关键作用](https://mp.weixin.qq.com/s/cyppbY4klvx5sg7SdauxsQ)
+
+### Plate tectonics & Plumes
+
+- [地幔柱与板块构造的关系](https://mp.weixin.qq.com/s/hOmW-PYb93dqgIN9XdS8fg)
+- [俯冲构造vs.地幔柱构造——板块运动驱动力探讨](https://mp.weixin.qq.com/s/4RT-V1G9KUOKx-yazLBtkw)
+- [板内地幔岩浆作用成因之争：板块构造还是地幔柱](https://mp.weixin.qq.com/s/8ogjZly5VYwYbjS8tTe_5w)
+
+### Southeastern Tibetan Plateau
+
+- [控制龙门山地区地形的动力学机制](https://mp.weixin.qq.com/s/KPfvm1v2ZBogTcsCxxR5xw)
+- [峨眉山古地幔柱改造岩石圈对青藏高原东南向深部弱物质流阻挡作用的大地电磁证据](https://mp.weixin.qq.com/s/TOky2I1NUW3DikgYEcOOVw)
+- [哀牢山南段新生代造山和成矿的地震学证据](https://mp.weixin.qq.com/s/cRcKacIbOb18r-giQPF0kg)
+
+### Myanmar
+
+- [缅甸第四纪火山岩研究揭示洋-陆板块撕裂和青藏高原地幔流出](https://mp.weixin.qq.com/s/dBiURhQxlr9UjVQh9NUgNw)
+
 
 ## Geology
 
 - [Geology Cafe](http://geologycafe.com/)
+
+
+## Geography
+
+- [中国到底有多少个“天府之国”?](https://mp.weixin.qq.com/s/UD12SFgrnE25VJDnExiSmQ)
+- [鄱阳湖是如何形成的](https://mp.weixin.qq.com/s/Jq5Yl85uH_CIPnBD22iY4g)
+- [南海诸岛从何而来？](https://mp.weixin.qq.com/s/uKaaPKIcrBEKSONXO1SJIA)
+- [中国隧道工程的前世今生](https://mp.weixin.qq.com/s/SkjyVO0l9v_CjKnDYSzSOw)
+
+## Geosciences
+
+- [如何认识地球深部结构: 固体地球物理学的六种分支学科概述](https://mp.weixin.qq.com/s/DTFzCq6A_SbGrpdAjAxQaQ)
 
 
 ## 连续介质力学
