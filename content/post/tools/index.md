@@ -15,7 +15,6 @@ slug: tools
 - [IRIS Station Monitor](https://www.iris.edu/app/station_monitor/)
 - [3-D earthquake display](https://glowy-earthquakes.glitch.me)
 - [IASPEI standard phase list](http://www.isc.ac.uk/standards/phases)
-- [3-D earthquake display](https://glowy-earthquakes.glitch.me)
 - [Free oscillations of the Earth](https://saviot.cnrs.fr/terre/index.en.html)
 
 
