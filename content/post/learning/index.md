@@ -262,8 +262,6 @@ slug: Learning
 
 ## 1.10 Continuum mechanics
 
-### Illustration
-
 - [Malleable And Ductile](https://www.youtube.com/watch?v=99DQdM29ib8)
 - [Behaviour of Springs and Materials](https://www.youtube.com/playlist?list=PLlDtVvefFYT8h1s5owifl85J92_9ulwYg)
 - [Mechanics of Materials](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw/playlists)
@@ -326,7 +324,7 @@ slug: Learning
 
 - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html) | [中文版](http://www.jezzamon.com/fourier/zh-cn.html)
 
-### Other
+### Communication
 
 - [无线通信：从1G到5G](https://mp.weixin.qq.com/s/aEFoAYNCsdwgEfo1sWm6UQ)
 
