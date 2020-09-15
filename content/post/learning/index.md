@@ -337,6 +337,11 @@ slug: Learning
 
 - [46个Linux面试常见问题](https://cloud.tencent.com/developer/article/1527665)
 
+### MacOS
+
+- [在 Mac 上拍摄截屏](https://support.apple.com/zh-cn/HT201361)
+- [在 Mac 上录制屏幕](https://support.apple.com/zh-cn/HT208721)
+
 
 ## 4.2 Programming
 
