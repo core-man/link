@@ -22,9 +22,9 @@ slug: Learning
 - [格震至源](#格震至源): Prof. [Hongfeng Yang](https://www.cuhk.edu.hk/sci/essc/people/yang_hf.html)'s WeChat blog
 
 
-### 地震学物理量
+### Seismological Definitions
 
-#### 地震学中的坐标系
+#### Coordinate systems
 
 - [地震学中的坐标系](https://blog.seisman.info/coordinate-systems-in-seismology): [SAC's rotate](https://seisman.github.io/SAC_Docs_zh/commands/rotate/) | [IRIS's rotation](https://service.iris.edu/irisws/rotation/docs/1/help/)
 - [SurfaceWaveMFA](http://eqseis.geosc.psu.edu/cammon/index.html): Moment-Tensor Conventions
@@ -219,7 +219,7 @@ slug: Learning
 
 - [稳定的洋中脊扩张速度](https://mp.weixin.qq.com/s/56b7C_jjGOt2bg2Lrqblow)
 
-### 克拉通
+### Craton
 
 - [克拉通破坏本质与机理](https://mp.weixin.qq.com/s/I7-JxAGLmqgPXTmh6w231w)
 - [克拉通地幔物质迁移引发的大陆裂谷带深部碳聚集](https://mp.weixin.qq.com/s/f55jRUjxbWQEheoT-y2KHw)
@@ -260,9 +260,9 @@ slug: Learning
 - [日冕磁场的全球性分布](https://mp.weixin.qq.com/s/zWGA5pt7ZurtpVKH0WaxQw)
 
 
-## 1.10 连续介质力学
+## 1.10 Continuum mechanics
 
-### 卡通解释
+### Illustration
 
 - [Malleable And Ductile](https://www.youtube.com/watch?v=99DQdM29ib8)
 - [Behaviour of Springs and Materials](https://www.youtube.com/playlist?list=PLlDtVvefFYT8h1s5owifl85J92_9ulwYg)
