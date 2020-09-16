@@ -424,6 +424,26 @@ slug: Learning
 - [ml-visuals](https://github.com/dair-ai/ml-visuals): figures and templates used in Machine Learning | [Chinese introduction](http://www.python88.com/topic/63529)
 
 
+## 4.4 Web
+
+- [Hugo](https://gohugo.io/): open-source static site generator
+    - [DOCS](https://gohugo.io/documentation/) | [中文文档](https://www.gohugo.org/)
+    - [Themes](https://themes.gohugo.io/)
+- [Github](https://github.com): A community of developers to discover, share, and build better software
+    - [github](https://github.com/github)
+    - [DOCS](https://docs.github.com/en)
+        - [GitHub.com](https://docs.github.com/en/github): GitHub.com Help Documentation
+            - [GitHub Pages](https://docs.github.com/en/github/working-with-github-pages)
+        - [GitHub Actions](https://docs.github.com/en/actions): GitHub Actions Documentation
+            - [GitHub Actions 入门教程](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
+    - [blog](https://github.blog/)
+- [Travis CI](https://travis-ci.com/)
+    - [DOCS](https://docs.travis-ci.com/)
+    - [Community](https://travis-ci.community/)
+    - [travis-ci.org](https://travis-ci.org/): [Migrating repositories to travis-ci.com](https://docs.travis-ci.com/user/migrate/open-source-repository-migration)
+- [Essential Image Optimization](https://images.guide/)
+
+
 # 5. Resources
 
 ## 5.1 Lectures & Resources
@@ -454,10 +474,6 @@ slug: Learning
 - [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x): [中文版](https://hansonclinicalresearch.org/blog/f/%E7%BB%99%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%9A%8420%E6%9D%A1%E5%BB%BA%E8%AE%AE)
 - [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/): [中文版](https://mp.weixin.qq.com/s/Veil7ARFJXtAXMDfyNLcxQ)
 
-
-## 5.3 Misc
-
-- [Essential Image Optimization](https://images.guide/)
 
 
 ## Revision history
