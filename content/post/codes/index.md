@@ -278,7 +278,9 @@ slug: codes
 - [Match&Locate](https://github.com/Dal-mzhang/MatchLocate2): Template detecting and locating of small earthquakes
 - [GPU-MatchLocate1.0](https://github.com/MinLiu19/GPU-MatchLocate1.0): A GPU version of Match&Locate
 - [FastMatchedFilter](https://github.com/beridel/fast_matched_filter): An efficient seismic matched-filter search for both CPU and GPU architectures.
+- [SEC-C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
 - [EQcorrscan](https://github.com/eqcorrscan/EQcorrscan): A python package for the detection and analysis of repeating and near-repeating earthquakes
+- [RT_EQcorrscan](https://github.com/eqcorrscan/RT_EQcorrscan): Real-Time implementation of EQcorrscan methods
 - [REDPy](https://github.com/ahotovec/REDPy): Repeating Earthquake Detector, written in Python
 - [repeating-earthquake](https://github.com/core-man/repeating-earthquake): Search repeating earthquakes based on cross-correlation of seismic waveforms of event pairs at same stations.
 
@@ -604,11 +606,6 @@ slug: codes
 - [Automatic-detection-of-clipped-seismic-waveform](https://github.com/jinhaizhang2020/Automatic-detection-of-clipped-seismic-waveform): in Matlab
 - [ATacR](https://seiscode.iris.washington.edu/projects/atacr): Automated Tilt and Compliance Removal (for ocean bottoms seismometers) written in Matlab
 - [OBStools](https://nfsi-canada.github.io/OBStools/): Removing vertical component noise from tilt and compliance effects written in Python
-
-
-### Cross-correlation
-
-- [SEC_C](https://github.com/Naderss/SEC_C): Super-Efficient Cross-Correlation
 
 
 ### Pattern Recognition and Machine Learning
