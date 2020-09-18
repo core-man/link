@@ -460,9 +460,9 @@ slug: Learning
 
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
 - [2020 Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students
-- [2020 USTC seismological algorithms training](http://seismo.training.ustc.edu.cn/index.php): [bilibili vedio](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
-- [2020 Peking University Seismic Noise Interferometry and Imaging Workshop](https://sess.pku.edu.cn/docs/2020-08/20200819195037832382.pdf): [bilibili](https://space.bilibili.com/668681871?spm_id_from=333.788.b_765f7570696e666f.2)
-- [2020 Geophysics & Tectonics Seminar](https://sites.google.com/g.uky.edu/gtseminar/schedule?authuser=0): [Videos](https://sites.google.com/g.uky.edu/gtseminar/videos) | [youtube](https://www.youtube.com/channel/UChCunKfO4RT2GKIRs84J2zg)
+- [2020 USTC seismological algorithms training](http://seismo.training.ustc.edu.cn/index.php): [bilibili videos](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
+- [2020 Peking University Seismic Noise Interferometry and Imaging Workshop](https://sess.pku.edu.cn/docs/2020-08/20200819195037832382.pdf): [bilibili videos](https://space.bilibili.com/668681871?spm_id_from=333.788.b_765f7570696e666f.2)
+- [2020 Geophysics & Tectonics Seminar](https://sites.google.com/g.uky.edu/gtseminar/schedule?authuser=0): [videos](https://sites.google.com/g.uky.edu/gtseminar/videos) | [youtube](https://www.youtube.com/channel/UChCunKfO4RT2GKIRs84J2zg)
 - 2020 五刊联盟学术论坛
     - [八：一场人工智能地震学的“锵锵三人行”](https://mp.weixin.qq.com/s/EhfMuZH4HSz3uTgJwx9mPw)
     - [十一：MT火山/地热结构成像及地震和电磁联合反演](https://mp.weixin.qq.com/s/jBCk_zuDNC7x4qSCxPXAwQ)
