@@ -74,6 +74,7 @@ slug: journals
 - [EarthArXiv](https://eartharxiv.org/): a free preprint service for the Earth sciences
 - [arXiv](https://arxiv.org/): a free distribution service and an open-access archive
 - [OSF](https://osf.io/): a free, open platform to support your research and enable collaboration
+- [zenodo](https://zenodo.org/): a general-purpose open-access repository
 
 
 ## Publisher
