@@ -290,13 +290,8 @@ slug: Learning
 
 ### Collections
 
-- [1900 页数学基础：面向 CS 的线性代数、拓扑、微积分和最优化](https://mp.weixin.qq.com/s/uYikAleBO4U4ub_i_QOuIg): [orignal link](http://www.cis.upenn.edu/~jean/math-basics.pdf)
-- [Secretary problem](https://en.m.wikipedia.org/wiki/Secretary_problem)
-- [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
-- [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
-- [狄拉克和他的δ 函数](https://www.ee.cityu.edu.hk/~gchen/pdf/Dirac_Delta.pdf)
-- [关于正态分布，你不知道它诞生之路是多么“变态”](https://mp.weixin.qq.com/s/o6Yy-hIutAMBaabGiCIs7A)
-- [正态分布的前世今生](http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/Mean-Quantile/intro-normal-distribution-2.pdf)
+- [1900 页数学基础：面向 CS 的线性代数、拓扑、微积分和最优化](https://mp.weixin.qq.com/s/uYikAleBO4U4ub_i_QOuIg) | [orignal link](http://www.cis.upenn.edu/~jean/math-basics.pdf)
+- [Gilbert Strang](http://math.mit.edu/~gs/): a few useful linear algebra and computation resources | [bio](http://www-math.mit.edu/~gs/bio.html)
 
 
 ### Mathematical Analysis
@@ -313,6 +308,7 @@ slug: Learning
 - Vector-values Functions
     - [Partial derivatives of vector-valued functions](https://www.youtube.com/watch?v=c7ByaI3T7Dc&t=495s)
     - [Introduction to the surface integral](https://www.youtube.com/watch?v=9k97m8oWnaY)
+- [狄拉克和他的δ 函数](https://www.ee.cityu.edu.hk/~gchen/pdf/Dirac_Delta.pdf)
 
 
 ### Linear Algebra
@@ -349,6 +345,19 @@ slug: Learning
     - [Learn Differential Equations: Up close with Gilbert Strang and Cleve Moler](https://www.mathworks.com/academia/courseware/learn-differential-equations.html): Mathworks.com
         - [Differential Equations and Linear Algebra](https://www.mathworks.com/videos/series/differential-equations-and-linear-algebra-117657.html): Prof. Gilbert Strang
         - [Solving ODEs in MATLAB](https://www.mathworks.com/videos/series/solving-odes-in-matlab-117658.html): Prof. Cleve Moler
+
+
+### Statistics and probability
+
+- [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
+- [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
+- [关于正态分布，你不知道它诞生之路是多么“变态”](https://mp.weixin.qq.com/s/o6Yy-hIutAMBaabGiCIs7A)
+- [正态分布的前世今生](http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/Mean-Quantile/intro-normal-distribution-2.pdf)
+
+
+### Other
+
+- [Secretary problem](https://en.m.wikipedia.org/wiki/Secretary_problem)
 
 
 # 3. Data Analysis
