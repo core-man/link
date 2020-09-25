@@ -299,33 +299,56 @@ slug: Learning
 - [正态分布的前世今生](http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/Mean-Quantile/intro-normal-distribution-2.pdf)
 
 
-### Calculus
+### Mathematical Analysis
+
+#### Calculus
 
 - [Highlights of Calculus](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/): Prof. Gilbert Strang, MIT-OCW
+
+#### Topics
+
+- Taylor Series
+    - [Taylor Series in Multiple Dimensions](https://www.youtube.com/watch?v=ULPComKy7DQ)
+    - [Multivariable Taylor Polynomials and Series](https://www.youtube.com/watch?v=4-ZYyg3bRvs&list=LL&index=2&t=3287s)
+- Vector-values Functions
+    - [Partial derivatives of vector-valued functions](https://www.youtube.com/watch?v=c7ByaI3T7Dc&t=495s)
+    - [Introduction to the surface integral](https://www.youtube.com/watch?v=9k97m8oWnaY)
 
 
 ### Linear Algebra
 
-- [Linear Algebra](https://mitmath.github.io/1806/): MIT course, 18.06
-    - [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/): textbook
-    - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/): Prof. Gilbert Strang, MIT-OCW
-    - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): Prof. Gilbert Strang, MIT-OCW
-- [Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://math.mit.edu/classes/18.065/2019SP/): MIT course, 18.065
-    - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/): Prof. Gilbert Strang, MIT-OCW
-    - [youtube](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+#### Basis and Application
+
+- [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/): textbook
+    - [Linear Algebra](https://mitmath.github.io/1806/): MIT course, 18.06
+    - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): Prof. Gilbert Strang, MIT-OCW, 18.06 | [youtube](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
+    - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/): Prof. Gilbert Strang, MIT-OCW, 18.06 SC | [youtube](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
+- [Linear Algebra for Everyone](http://math.mit.edu/~gs/everyone/): textbook
+- [Linear Algebra and Learning from Data](http://math.mit.edu/~gs/learningfromdata/): textbook
+    - [Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://math.mit.edu/classes/18.065/2019SP/): Prof. Gilbert Strang, MIT-OCW, 18.065
+        - [MIT-OCW](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
+        - [youtube](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+
+#### Topics
+
+- Matrix Exponential
+    - [e to a matrix](https://www.youtube.com/watch?v=l61k97RFsfs)
+    - [Matrix exponential properties](https://www.youtube.com/watch?v=kQW9oTwGMoU)
+    - [The Matrix Exponential](https://www.youtube.com/watch?v=LwSk9M5lJx4)
+- Eigenvalues
+    - [Eigenvalues](https://www.youtube.com/watch?v=H-NxPABQlxI&list=PLJb1qAQIrmmC72x-amTHgG-H_5S19jOSf)
 
 
 ### Computational Math
 
-- Computational Science and Engineering: MIT course, 18.085/18.086
-    - [Computational Science and Engineering](http://math.mit.edu/~gs/cse/): textbook
+- [Computational Science and Engineering](http://math.mit.edu/~gs/cse/): textbook
     - [Computational Science And Engineering I](https://math.mit.edu/classes/18.085/2018FA/index.html): Prof. Gilbert Strang, MIT-OCW, 18.085 | [MIT-OCW](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/index.htm)
-    - [Computational Science And Engineering II](https://math.mit.edu/classes/index.php?course=086): 18.086
-- [Differential Equations and Linear Algebra](http://math.mit.edu/~gs/dela/)
+    - [Computational Science And Engineering II](https://math.mit.edu/classes/index.php?course=086): MIT-OCW, 18.086
+- [Differential Equations and Linear Algebra](http://math.mit.edu/~gs/dela/): Textbook
+    - [Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/): MIT-OCW, 18.009 | [youtube](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
     - [Learn Differential Equations: Up close with Gilbert Strang and Cleve Moler](https://www.mathworks.com/academia/courseware/learn-differential-equations.html): Mathworks.com
         - [Differential Equations and Linear Algebra](https://www.mathworks.com/videos/series/differential-equations-and-linear-algebra-117657.html): Prof. Gilbert Strang
         - [Solving ODEs in MATLAB](https://www.mathworks.com/videos/series/solving-odes-in-matlab-117658.html): Prof. Cleve Moler
-    - [Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/): MIT-OCW
 
 
 # 3. Data Analysis
