@@ -335,7 +335,7 @@ slug: Learning
     - [Eigenvalues](https://www.youtube.com/watch?v=H-NxPABQlxI&list=PLJb1qAQIrmmC72x-amTHgG-H_5S19jOSf)
 
 
-### Statistics and probability
+### Statistics and Probability
 
 - [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
 - [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
