@@ -26,7 +26,10 @@ slug: database
 - [Crust1.0](https://igppweb.ucsd.edu/~gabi/crust1.html) | [Chinese Introduction](https://blog.seisman.info/crust1): A New Global Crustal Model at 1x1 Degrees
 - [LITHO1.0](https://igppweb.ucsd.edu/~gabi/litho1.0.html): An updated crust and lithospheric model of the Earth
 - [LithoRef18](https://www.juanafonso.com/software): A global reference model of the lithosphere and upper mantle from joint inversion and analysis of multiple data sets.
-- [Age, Spreading Rates and Spreading Asymmetry of the World's Ocean Crust](http://www.earthbyte.org/Resources/agegrid2008.html): Also at [here](https://www.earthbyte.org/age-spreading-rates-and-spreading-asymmetry-of-the-worlds-ocean-crust) | [Chinese Introduction](https://blog.seisman.info/ocean-floor-crustal-age)
+- [Age, Spreading Rates and Spreading Asymmetry of the World's Ocean Crust](http://www.earthbyte.org/Resources/agegrid2008.html)
+    - also [here](https://www.earthbyte.org/age-spreading-rates-and-spreading-asymmetry-of-the-worlds-ocean-crust)
+    - [Chinese Introduction](https://blog.seisman.info/ocean-floor-crustal-age)
+    - [GMT](https://docs.generic-mapping-tools.org/latest/datasets/remote-data.html#global-earth-seafloor-crustal-age-grids) | [GMT-China](https://docs.gmt-china.org/latest/dataset/earth-age/)
 - [Subduction zone initiation](https://www.szidatabase.org/)
 - [Ben Horner-Johnson's GMT & Geophysics Links](http://www.ruf.rice.edu/~ben/gmt.html)
 - [地质专业知识服务系统](http://geol.ckcest.cn/index.html): [介绍](https://mp.weixin.qq.com/s?__biz=MzIwMzgzNzMyNg==&mid=2247491776&amp;idx=1&amp;sn=e04a2c294d65a125d6d2706bce21b898&source=41#wechat_redirect)
@@ -85,7 +88,6 @@ slug: database
 ## Geological Databases
 
 - [全国地质资料馆(中国)](http://www.ngac.org.cn/Distribute/List)
-- [GMT中文社区: 中国地学数据](https://gmt-china.org/data)
 - [One Geology: Providing geoscience data globally](http://portal.onegeology.org/OnegeologyGlobal)
 - Volcanic Data
     - [NOAA Volcanic Data and Information](https://www.ngdc.noaa.gov/hazard/volcano.shtml)
@@ -116,16 +118,16 @@ slug: database
     - [The Digital Chart of the World for GMT 5 or later](http://www.soest.hawaii.edu/wessel/dcw) | [Chinese Introduction](https://docs.gmt-china.org/latest/dataset/dcw/#)
     - [Database of Global Administrative Areas](http://www.gadm.org): [Chinese Introduction](https://blog.seisman.info/china-administrative-areas-data) | [GMT中文社区](https://docs.gmt-china.org/latest/dataset/gadm)
     - [National Catalogue Service for Geographic Information](http://www.webmap.cn/main.do?method=index): [Chinese Introduction](https://gmt-china.org/blog/national-geographic-database)
-    - GMT中文社区数据
-        - [中国地学数据](https://gmt-china.org/data)
+    - GMT中文社区数据: [中国地学数据集](https://docs.gmt-china.org/latest/dataset-CN/) | [中国地学数据](https://gmt-china.org/data)
         - [GMT自带中国国界问题](https://gmt-china.org/blog/china-border-issues)
         - [中国国界、省界及十段线](https://gmt-china.org/example/ex003)
-    - Altitude and Relief
-        - [Global Altitude & Relief Models](https://blog.seisman.info/global-relief-models) & [GMT中文手册](https://docs.gmt-china.org/latest/dataset/earth_relief)
+    - Earth Relief
+        - [Global Earth Relief Grids](https://docs.generic-mapping-tools.org/latest/datasets/remote-data.html#global-earth-relief-grids) | [全球地形起伏数据](https://docs.gmt-china.org/latest/dataset/earth-relief/) | [全球地形起伏数据总结](https://blog.seisman.info/global-relief-models)
         - [High-precision Altimetric Data](https://developers.google.com/maps/documentation/elevation/start?hl=zh-cn): [Chinese Introduction](https://gmt-china.org/blog/google-maps-elevation-api)
 - Plate Boundary Models: [Chinese Introduction](https://blog.seisman.info/plate-boundary-datasets)
     - [NUVEL](http://jules.unavco.org/GMT)
     - [PB2002](http://peterbird.name/publications/2003_PB2002/2003_PB2002.htm)
+        - [GMT-China](https://docs.gmt-china.org/latest/dataset/PB2002/): PB2002: 全球板块边界数据
         - The original download [link](http://peterbird.name/oldFTP/PB2002) seems wrong. The dataset is now within `ALL_Bird_freeware.zip` at [http://peterbird.name/oldFTP](http://peterbird.name/oldFTP)
     - [NNR-MORVEL56](http://geoscience.wisc.edu/~chuck/MORVEL/PltBoundaries.html)
 - Gravity
