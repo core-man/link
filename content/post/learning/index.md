@@ -267,40 +267,61 @@ slug: Learning
 - [Mechanics of Materials](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw/playlists)
 
 
-# 2. Methods of Mathematical Physics
+# 2. Physics
 
-## 2.1 Physics
+## 2.1 Collections
 
-- [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
 - [七堂极简物理课](https://book.douban.com/subject/26772731/)
     - [第一堂课：最小作用量原理](https://mp.weixin.qq.com/s/ORRSassPnw_PJkCPp3TuyQ)
     - [第二堂课（下）：量子力学背后的数学](https://mp.weixin.qq.com/s/YRjZU1giwfJoJQavN6R9oA)
     - [第三堂课：统计力学](https://mp.weixin.qq.com/s/yrthb00TiaPFQSj2Pcht6g)
     - [第四堂课：粒子物理学](https://mp.weixin.qq.com/s/w6nQy_czQTOYO2w4kBJ6EQ)
+
+## 2.2 Analytical Mechanics
+
+- `TODO`
+
+
+## 2.3 Thermodynamics & Statistical Mechanics
+
+- `TODO`
+
+
+## 2.4 Electrodynamics
+
 - [最美的公式：你也能懂的麦克斯韦方程组（微分篇）](https://mp.weixin.qq.com/s/5s4mRIedZ4qR3dIQiiR-nA)
 - [最美的公式：你也能懂的麦克斯韦方程组（积分篇）](https://mp.weixin.qq.com/s/5L0NJKZMKMMocJWbsC45sQ)
-- [相对论英雄谱](https://mp.weixin.qq.com/s/DtUzz2-jvE9LDKfOLCf-zw) | [List of contributors to general relativity](https://en.wikipedia.org/wiki/List_of_contributors_to_general_relativity)
+
+
+## 2.5 Experimental Physics
+
+- [Error Analysis in Experimental Physical Science](https://faraday.physics.utoronto.ca/PVB/Harrison/ErrorAnalysis/Propagation.html)
+
+
+## 2.6 Popular Science
+
 - [史上物理学最强的科普](https://mp.weixin.qq.com/s/gkT_l3EKmgBtgazvsM83Wg)
+- [相对论英雄谱](https://mp.weixin.qq.com/s/DtUzz2-jvE9LDKfOLCf-zw) | [List of contributors to general relativity](https://en.wikipedia.org/wiki/List_of_contributors_to_general_relativity)
 - [爱因斯坦：机遇与眼光 (杨振宁)](https://mp.weixin.qq.com/s/F7BV3NvzUx45E6mCcOw8mA)
 - [杨振宁的最后一战](https://mp.weixin.qq.com/s/V79x2aUPFGQPXUMtlyY7ZQ)
 
 
-## 2.2 Math
+# 3. Math
 
 
-### Collections
+## 3.1 Collections
 
 - [1900 页数学基础：面向 CS 的线性代数、拓扑、微积分和最优化](https://mp.weixin.qq.com/s/uYikAleBO4U4ub_i_QOuIg) | [orignal link](http://www.cis.upenn.edu/~jean/math-basics.pdf)
 - [Gilbert Strang](http://math.mit.edu/~gs/): a few useful linear algebra and computation resources | [bio](http://www-math.mit.edu/~gs/bio.html)
 
 
-### Mathematical Analysis
+## 3.2 Mathematical Analysis
 
-#### Calculus
+### Calculus
 
 - [Highlights of Calculus](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/): Prof. Gilbert Strang, MIT-OCW
 
-#### Topics
+### Topics
 
 - Taylor Series
     - [Taylor Series in Multiple Dimensions](https://www.youtube.com/watch?v=ULPComKy7DQ)
@@ -311,9 +332,9 @@ slug: Learning
 - [狄拉克和他的δ 函数](https://www.ee.cityu.edu.hk/~gchen/pdf/Dirac_Delta.pdf)
 
 
-### Linear Algebra
+## 3.3 Linear Algebra
 
-#### Basis and Application
+### Basis and Application
 
 - [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/): textbook
     - [Linear Algebra](https://mitmath.github.io/1806/): MIT course, 18.06
@@ -325,7 +346,7 @@ slug: Learning
         - [MIT-OCW](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
         - [youtube](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
-#### Topics
+### Topics
 
 - Matrix Exponential
     - [e to a matrix](https://www.youtube.com/watch?v=l61k97RFsfs)
@@ -335,7 +356,7 @@ slug: Learning
     - [Eigenvalues](https://www.youtube.com/watch?v=H-NxPABQlxI&list=PLJb1qAQIrmmC72x-amTHgG-H_5S19jOSf)
 
 
-### Statistics and Probability
+## 3.4 Statistics and Probability
 
 - [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
 - [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
@@ -343,11 +364,8 @@ slug: Learning
 - [正态分布的前世今生](http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/Mean-Quantile/intro-normal-distribution-2.pdf)
 
 
-### Computational Math
+## 3.5 Computational Math
 
-- [Computational Science and Engineering](http://math.mit.edu/~gs/cse/): textbook
-    - [Computational Science And Engineering I](https://math.mit.edu/classes/18.085/2018FA/index.html): Prof. Gilbert Strang, MIT-OCW, 18.085 | [MIT-OCW](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/index.htm)
-    - [Computational Science And Engineering II](https://math.mit.edu/classes/index.php?course=086): MIT-OCW, 18.086
 - [Differential Equations and Linear Algebra](http://math.mit.edu/~gs/dela/): Textbook
     - [Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler](https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/): MIT-OCW, 18.009 | [youtube](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
     - [Learn Differential Equations: Up close with Gilbert Strang and Cleve Moler](https://www.mathworks.com/academia/courseware/learn-differential-equations.html): Mathworks.com
@@ -355,14 +373,27 @@ slug: Learning
         - [Solving ODEs in MATLAB](https://www.mathworks.com/videos/series/solving-odes-in-matlab-117658.html): Prof. Cleve Moler
 
 
-### Other
+## 3.6 Mathematical Methods for Physicis
+
+- [Computational Science and Engineering](http://math.mit.edu/~gs/cse/): textbook
+    - [Computational Science and Engineering I](https://math.mit.edu/classes/18.085/2018FA/index.html): MIT-OCW, 18.085 (Prof. Gilbert Strang, 2018)
+        - [MIT-OCW](https://ocw.mit.edu/courses/mathematics/18-085-computational-science-and-engineering-i-fall-2008/index.htm): 2008
+        - [youtube](https://www.youtube.com/playlist?list=PLF706B428FB7BD52C): 2008
+    - [Computational Science And Engineering II](https://math.mit.edu/classes/index.php?course=086): MIT-OCW, 18.086
+        - [Mathematical Methods for Engineers II](https://math.mit.edu/classes/18.086/2005/): Prof. Gilbert Strang, MIT-OCW, 18.086, 2006
+            - [MIT-OCW](https://ocw.mit.edu/courses/mathematics/18-086-mathematical-methods-for-engineers-ii-spring-2006/index.htm)
+            - [youtube](https://www.youtube.com/playlist?list=PL3A13781649466805)
+- [Mathematical Methods for Physicists](http://web.mit.edu/al24406/www/mathmeth.html)
+
+
+## 3.7 Other
 
 - [Secretary problem](https://en.m.wikipedia.org/wiki/Secretary_problem)
 
 
-# 3. Data Analysis
+# 4. Data Analysis
 
-## 3.1 Machine Learning
+## 4.1 Machine Learning
 
 - [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732): [gen.lib.rus.ec](http://gen.lib.rus.ec/search.php?req=Pattern+Recognition+and+Machine+Learning&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) | [知乎](https://www.zhihu.com/question/20970802)
 - [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng, Staford University | [youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
@@ -374,7 +405,7 @@ slug: Learning
 - [Get Over With the Machine Learning Hype](https://medium.com/@sapy/get-over-the-machine-learning-hype-79abcbe37272)
 
 
-## 3.2 Signal
+## 4.2 Signal
 
 ### Course
 
@@ -393,9 +424,9 @@ slug: Learning
 - [无线通信：从1G到5G](https://mp.weixin.qq.com/s/aEFoAYNCsdwgEfo1sWm6UQ)
 
 
-# 4. Programming
+# 5. Programming
 
-## 4.1 Computer
+## 5.1 Computer
 
 ### Linux
 
@@ -403,11 +434,11 @@ slug: Learning
 
 ### MacOS
 
-- [在 Mac 上拍摄截屏](https://support.apple.com/zh-cn/HT201361)
-- [在 Mac 上录制屏幕](https://support.apple.com/zh-cn/HT208721)
+- [在Mac上拍摄截屏](https://support.apple.com/zh-cn/HT201361)
+- [在Mac上录制屏幕](https://support.apple.com/zh-cn/HT208721)
 
 
-## 4.2 Programming
+## 5.2 Programming
 
 ### Skills
 
@@ -481,14 +512,14 @@ slug: Learning
 - [如何找出两个数组的交集、并集](https://blog.seisman.info/find-intersection-and-difference-of-two-arrays)
 
 
-## 4.3 Plot
+## 5.3 Plot
 
 - [GMT gallery](https://docs.generic-mapping-tools.org/6.0/gallery.html): [GMT-China gallery](https://gmt-china.org/gallery)
 - [GMT-China blog](https://gmt-china.org/blog)
 - [ml-visuals](https://github.com/dair-ai/ml-visuals): figures and templates used in Machine Learning | [Chinese introduction](http://www.python88.com/topic/63529)
 
 
-## 4.4 Web
+## 5.4 Web
 
 - [Hugo](https://gohugo.io/): open-source static site generator
     - [DOCS](https://gohugo.io/documentation/) | [中文文档](https://www.gohugo.org/)
@@ -508,9 +539,9 @@ slug: Learning
 - [Essential Image Optimization](https://images.guide/)
 
 
-# 5. Resources
+# 6. Resources
 
-## 5.1 Lectures & Resources
+## 6.1 Lectures & Resources
 
 ### Collections
 
@@ -535,7 +566,7 @@ slug: Learning
 - [2016 Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 
 
-## 5.2 Study and Research
+## 6.2 Study and Research
 
 - [Twenty things I wish I’d known when I started my PhD](https://www.nature.com/articles/d41586-018-07332-x): [中文版](https://hansonclinicalresearch.org/blog/f/%E7%BB%99%E5%8D%9A%E5%A3%AB%E7%94%9F%E7%9A%8420%E6%9D%A1%E5%BB%BA%E8%AE%AE)
 - [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/): [中文版](https://mp.weixin.qq.com/s/Veil7ARFJXtAXMDfyNLcxQ)
