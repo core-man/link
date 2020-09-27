@@ -284,7 +284,7 @@ slug: Learning
 
 ## 2.3 Thermodynamics & Statistical Mechanics
 
-- `TODO`
+- [Thermodynamics & Kinetics](https://ocw.mit.edu/courses/chemistry/5-60-thermodynamics-kinetics-spring-2008/): MIT-OCW, 5.60 | [youtube](https://www.youtube.com/playlist?list=PLA62087102CC93765)
 
 
 ## 2.4 Electrodynamics
@@ -320,6 +320,8 @@ slug: Learning
 ### Calculus
 
 - [Highlights of Calculus](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/): Prof. Gilbert Strang, MIT-OCW
+- [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr): 3Blue1Brown
+- [Multivariable calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7): Khan Academy
 
 ### Topics
 
@@ -327,8 +329,7 @@ slug: Learning
     - [Taylor Series in Multiple Dimensions](https://www.youtube.com/watch?v=ULPComKy7DQ)
     - [Multivariable Taylor Polynomials and Series](https://www.youtube.com/watch?v=4-ZYyg3bRvs&list=LL&index=2&t=3287s)
 - Vector-values Functions
-    - [Partial derivatives of vector-valued functions](https://www.youtube.com/watch?v=c7ByaI3T7Dc&t=495s)
-    - [Introduction to the surface integral](https://www.youtube.com/watch?v=9k97m8oWnaY)
+    - Partial derivatives of vector-valued functions: [Part1](https://www.youtube.com/watch?v=c7ByaI3T7Dc&t=495s) | [Part 2](https://www.youtube.com/watch?v=9k97m8oWnaY)
 - [狄拉克和他的δ 函数](https://www.ee.cityu.edu.hk/~gchen/pdf/Dirac_Delta.pdf)
 
 
@@ -336,15 +337,18 @@ slug: Learning
 
 ### Basis and Application
 
+- [A 2020 Vision of Linear Algebra](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/): Prof. Gilbert Strang, MIT-OCW | [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
+- [Linear Algebra for Everyone](http://math.mit.edu/~gs/everyone/): textbook
 - [Introduction to Linear Algebra](http://math.mit.edu/~gs/linearalgebra/): textbook
     - [Linear Algebra](https://mitmath.github.io/1806/): MIT course, 18.06
     - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): Prof. Gilbert Strang, MIT-OCW, 18.06 | [youtube](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
     - [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/): Prof. Gilbert Strang, MIT-OCW, 18.06 SC | [youtube](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C)
-- [Linear Algebra for Everyone](http://math.mit.edu/~gs/everyone/): textbook
 - [Linear Algebra and Learning from Data](http://math.mit.edu/~gs/learningfromdata/): textbook
     - [Matrix Methods In Data Analysis, Signal Processing, And Machine Learning](https://math.mit.edu/classes/18.065/2019SP/): Prof. Gilbert Strang, MIT-OCW, 18.065
         - [MIT-OCW](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/)
         - [youtube](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): 3Blue1Brown
+- [A graduate course in econometrics](https://www.youtube.com/playlist?list=PLwJRxp3blEvaxmHgI2iOzNP6KGLSyd4dz): containing some linear algebra
 
 ### Topics
 
@@ -352,16 +356,28 @@ slug: Learning
     - [e to a matrix](https://www.youtube.com/watch?v=l61k97RFsfs)
     - [Matrix exponential properties](https://www.youtube.com/watch?v=kQW9oTwGMoU)
     - [The Matrix Exponential](https://www.youtube.com/watch?v=LwSk9M5lJx4)
+- Matrix Derivative
+    - [Derivative of a Matrix: Data Science Basics](https://www.youtube.com/watch?v=e73033jZTCI)
+    - How to differentiate with respect to a vector: [Part 1](https://www.youtube.com/watch?v=iWxY7VdcSH8&t=10s) | [Part 2](https://www.youtube.com/watch?v=uoejt0FCWWA&t=6s) | [Part 3](https://www.youtube.com/watch?v=i6fqfH5hx60&t=22s)
 - Eigenvalues
     - [Eigenvalues](https://www.youtube.com/watch?v=H-NxPABQlxI&list=PLJb1qAQIrmmC72x-amTHgG-H_5S19jOSf)
 
 
-## 3.4 Statistics and Probability
+## 3.4 Probability & Statistics
 
-- [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
-- [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
-- [关于正态分布，你不知道它诞生之路是多么“变态”](https://mp.weixin.qq.com/s/o6Yy-hIutAMBaabGiCIs7A)
-- [正态分布的前世今生](http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/Mean-Quantile/intro-normal-distribution-2.pdf)
+### Basis
+
+- [Statistics](https://www.youtube.com/playlist?list=PL1328115D3D8A2566): Khan Academy
+
+### Topics
+
+- Correlation
+    - [Autocorrelation analysis](https://emcee.readthedocs.io/en/stable/tutorials/autocorr/)
+- Variational Inference Methods
+    - [Seismic Tomography Using Variational Inference Methods](https://www.youtube.com/watch?v=OgAd82txLbM): Andrew Curtis's talk in 2020
+- Normal Distribution
+    - [关于正态分布，你不知道它诞生之路是多么“变态”](https://mp.weixin.qq.com/s/o6Yy-hIutAMBaabGiCIs7A)
+    - [正态分布的前世今生](http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/Mean-Quantile/intro-normal-distribution-2.pdf)
 
 
 ## 3.5 Computational Math
@@ -371,6 +387,7 @@ slug: Learning
     - [Learn Differential Equations: Up close with Gilbert Strang and Cleve Moler](https://www.mathworks.com/academia/courseware/learn-differential-equations.html): Mathworks.com
         - [Differential Equations and Linear Algebra](https://www.mathworks.com/videos/series/differential-equations-and-linear-algebra-117657.html): Prof. Gilbert Strang
         - [Solving ODEs in MATLAB](https://www.mathworks.com/videos/series/solving-odes-in-matlab-117658.html): Prof. Cleve Moler
+- [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6): 3Blue1Brown
 
 
 ## 3.6 Mathematical Methods for Physicis
@@ -418,6 +435,7 @@ slug: Learning
 ### Fourier Transforms
 
 - [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/index.html) | [中文版](http://www.jezzamon.com/fourier/zh-cn.html)
+- [A visual introduction to Fourier Transform](https://www.youtube.com/watch?v=spUNpyF58BY): 3Blue1Brown
 
 ### Communication
 
@@ -537,6 +555,12 @@ slug: Learning
     - [Community](https://travis-ci.community/)
     - [travis-ci.org](https://travis-ci.org/): [Migrating repositories to travis-ci.com](https://docs.travis-ci.com/user/migrate/open-source-repository-migration)
 - [Essential Image Optimization](https://images.guide/)
+
+
+## 5.5 Document
+
+- [Sphnix](https://www.sphinx-doc.org/en/master/#)
+    - [How to Document using Sphinx](https://www.youtube.com/playlist?list=PLE72UCmIe7T9HewaqCUhKqiMK3LxYStjy)
 
 
 # 6. Resources
