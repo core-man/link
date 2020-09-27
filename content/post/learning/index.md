@@ -279,7 +279,7 @@ slug: Learning
 
 ## 2.2 Analytical Mechanics
 
-- `TODO`
+- [Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/index.htm): MIT-OCW, 8.01SC | [youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61qDex7XslwNJ-xxxEFzMNV)
 
 
 ## 2.3 Thermodynamics & Statistical Mechanics
