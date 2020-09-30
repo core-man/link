@@ -110,10 +110,11 @@ slug: journals
 
 ## Related Resources
 
-- [Chinese Academy of Sciences Institutional Repositories Grid](http://www.irgrid.ac.cn): 中国科学院机构知识库网格
+- [中国科学院机构知识库网格](http://www.irgrid.ac.cn)
 - [科塔学术](https://www.sciping.com/): 国内领先的科研与学术资源导航平台
 - [中科院分区: 地学期刊](http://www.gaokeyan.com/journal/index.php?t=subject&sid=8&p=1&jcr=0)
 - [InCites Journal Citation Reports](https://jcr.clarivate.com/JCRLandingPageAction.action): click *Browse by Journal*, and then choose `Geochemistry&Geophysics`, `Geology`, and `Geosciences, Multidisciplinary` under *Select Catagories*.
+- [Nature Index journals](https://www.natureindex.com/faq#journals)
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations): Search Science and Engineering Journal Abbreviations
 - [Scopus](https://www.scopus.com/): Abstract and citation database
 - [Web of Science](https://www.webofknowledge.com): Abstract and citation database
