@@ -112,8 +112,12 @@ slug: journals
 
 - [中国科学院机构知识库网格](http://www.irgrid.ac.cn)
 - [科塔学术](https://www.sciping.com/): 国内领先的科研与学术资源导航平台
-- [中科院分区: 地学期刊](http://www.gaokeyan.com/journal/index.php?t=subject&sid=8&p=1&jcr=0)
-- [InCites Journal Citation Reports](https://jcr.clarivate.com/JCRLandingPageAction.action): click *Browse by Journal*, and then choose `Geochemistry&Geophysics`, `Geology`, and `Geosciences, Multidisciplinary` under *Select Catagories*.
+- Journal Citation Reports
+    - [SCI分区该看JCR还是中科院?](https://zhuanlan.zhihu.com/p/78144183)
+    - [中科院分区: 地学期刊](http://www.gaokeyan.com/journal/index.php?t=subject&sid=8&p=1&jcr=0)
+    - [Clarivate: Journal Citation Reports](https://jcr.clarivate.com/JCRLandingPageAction.action)
+        - click *Browse by Journal*, and then choose `Geochemistry&Geophysics`, `Geology`, and `Geosciences, Multidisciplinary` under *Select Catagories*.
+        - [如何查看文章所投期刊属于科睿唯安（Clarivate Analytics）分区](https://blog.csdn.net/weixin_43042467/article/details/103478549)
 - [Nature Index journals](https://www.natureindex.com/faq#journals)
 - [Journal Abbreviations](https://woodward.library.ubc.ca/research-help/journal-abbreviations): Search Science and Engineering Journal Abbreviations
 - [Scopus](https://www.scopus.com/): Abstract and citation database
