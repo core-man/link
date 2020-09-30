@@ -301,9 +301,11 @@ slug: Learning
 ## 2.6 Popular Science
 
 - [史上物理学最强的科普](https://mp.weixin.qq.com/s/gkT_l3EKmgBtgazvsM83Wg)
+- [333年物理学方程](https://mp.weixin.qq.com/s/nuEO8iyOduok0id1sWeYSA)
+- [一流物理学的传承与发展：文化、学派、风格和诺奖](https://mp.weixin.qq.com/s/o0kvX1cyGLHGFuQin4HgrA): 量子力学
 - [相对论英雄谱](https://mp.weixin.qq.com/s/DtUzz2-jvE9LDKfOLCf-zw) | [List of contributors to general relativity](https://en.wikipedia.org/wiki/List_of_contributors_to_general_relativity)
-- [爱因斯坦：机遇与眼光 (杨振宁)](https://mp.weixin.qq.com/s/F7BV3NvzUx45E6mCcOw8mA)
-- [杨振宁的最后一战](https://mp.weixin.qq.com/s/V79x2aUPFGQPXUMtlyY7ZQ)
+- [爱因斯坦：机遇与眼光 | 杨振宁](https://mp.weixin.qq.com/s/F7BV3NvzUx45E6mCcOw8mA)：《我的世界观》(阿尔伯特·爱因斯坦著，方在庆编译) 中杨振宁所作序言
+- [杨振宁的最后一战](https://mp.weixin.qq.com/s/V79x2aUPFGQPXUMtlyY7ZQ)：“什么意思？盛宴已过。”
 
 
 # 3. Math
