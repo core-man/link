@@ -174,9 +174,9 @@ slug: database
 
 ### Regional Earthquake Catalog
 
+- [中国台网正式地震目录](http://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)：统一的中国地震台网地震目录
 - [中国历史地震目录](http://data.earthquake.cn/data/data/history_query.jsp)
-- [中国台网统一地震目录](http://data.earthquake.cn/data/datashare_tyml_query.jsp)
-- [中国台网正式地震目录](http://data.earthquake.cn/datashare/report.shtml?PAGEID=earthquake_zhengshi)
+- [中国台网统一地震目录](http://data.earthquake.cn/data/datashare_tyml_query.jsp): 无法打开
 - [Euro-Med Bulletin](https://www.emsc-csem.org/Bulletin)
 - [Dissemination of long-term seismological data](https://www.emidius.eu)
     - [European Archive of Historical EArthquake Data (AHEAD)](https://www.emidius.eu/AHEAD)
