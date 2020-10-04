@@ -527,6 +527,7 @@ slug: Learning
     - [Tutorials](https://matplotlib.org/tutorials/index.html)
     - Other learning sources
         - [Scipy lecture notes](http://scipy-lectures.org/intro/matplotlib/index.html)
+- [strftime](http://strftime.org): Python strftime reference
 
 
 ###  Perl

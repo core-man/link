@@ -48,7 +48,6 @@ slug: tools
 ## Programming
 
 - [regex101](https://regex101.com): Online regular expressions tester and debugger
-- [strftime](http://strftime.org): Python strftime reference
 - [DevDocs](https://devdocs.io): API documentations of multiple programming languages/tools in one place
 - [Choose an open source license](https://choosealicense.com/): Simple way to choose a license
 
@@ -56,6 +55,11 @@ slug: tools
 ## ESL (English as a Second Language)
 
 - [Grammarly](www.grammarly.com): Free writing assistant to check your grammar
+
+
+## Life
+
+- [万年日历查询](https://wannianrili.51240.com/)
 
 
 ## Revision history
