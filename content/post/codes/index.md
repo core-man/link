@@ -329,6 +329,7 @@ slug: codes
 
 - [CLUSTER2000](https://www.usgs.gov/software/cluster2000): Identify clusters (e.g., aftershocks) in an earthquake catalog
 - [ZMAP](http://www.seismo.ethz.ch/en/research-and-teaching/products-software/software/ZMAP): A software package to analyze seismicity
+- [GR_EST](https://github.com/MatteoTaroniINGV/GR_EST): An OCTAVE/MATLAB Toolbox to Estimate Gutenberg–Richter Law Parameters and Their Uncertainties
 
 
 ### Stress
@@ -354,6 +355,8 @@ slug: codes
     - [FMTOMO](http://rses.anu.edu.au/~nick/fmtomo.html): 3-D traveltime tomography based on fast marching method | [FMTOMO at iEarth](http://www.iearth.org.au/codes/FMTOMO)
     - [FMTT](http://rses.anu.edu.au/~nick/teletomo.html): Teleseismic tomography based on fast marching method | [FMTT at iEarth](http://www.iearth.org.au/codes/FMTT)
 - [SIMUL2000](https://www.usgs.gov/software/3d-velocity-modeling): Traveltime tomography
+- [RAYINVR](http://terra.rice.edu/department/faculty/zelt/rayinvr.html): 2-D traveltime inversion and amplitude modeling programs | [A modified version](https://github.com/hzhu212/rayinvr)
+- [FAST](http://terra.rice.edu/department/faculty/zelt/fast.html): 3-D First Arrival Seismic Tomography programs
 - [tomoDD](http://seismo.training.ustc.edu.cn/index.php/info): double-difference tomography | [bilibili vedio](https://www.bilibili.com/video/av841708479?p=4) & [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
 
 
@@ -654,6 +657,7 @@ slug: codes
 ### Analyzing and Visualization
 
 - [MATLAB for Analyzing and Visualizing Geospatial Data](https://ww2.mathworks.cn/matlabcentral/fileexchange/49813-matlab-for-analyzing-and-visualizing-geospatial-data): IRIS webinar
+- [Ghostscript](https://www.ghostscript.com/): an interpreter for the PostScript language and PDF files | [Download](https://www.ghostscript.com/download/gsdnld.html) & [Old releases](https://github.com/ArtifexSoftware/ghostpdl-downloads/releases)
 
 
 ## Thermodynamics
