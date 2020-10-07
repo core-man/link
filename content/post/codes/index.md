@@ -648,7 +648,7 @@ slug: codes
 
 ### Gravity
 
-- [Harmonica](https://www.fatiando.org/): Forward modeling, inversion, and processing gravity and magnetic data
+- [Harmonica](https://www.fatiando.org/#projects): Forward modeling, inversion, and processing gravity and magnetic data
 - [Moho inversion](https://github.com/pinga-lab/paper-moho-inversion-tesseroids): Fast non-linear gravity inversion in spherical coordinates with application to the South American Moho.
 - [GRAV3D](https://grav3d.readthedocs.io/en/latest/index.html): Forward modelling and inversion of surface, borehole, and airborne gravity data in 3D
 - [Gravity modelling and inversion in 2D](https://www.juanafonso.com/software): A very simple matlab code to illustrate the basics of gravity modelling and inversion
@@ -735,6 +735,7 @@ slug: codes
 ### Geophysical Library
 
 - [Fatiando](https://www.fatiando.org/): Open-source Python tools for geophysics
+    - Looking for the below `fatiando package`? Please check the last paragarphy
     - [fatiando package](https://www.fatiando.org/v0.5/): An open-source Python library for modeling and inversion in geophysics. Its development has been stoped in favor of [new libraries](https://www.fatiando.org/#projects).
 - [softwares in UNAVCO](https://www.unavco.org/software/software.html): softwares used in Geodesy studies.
 
