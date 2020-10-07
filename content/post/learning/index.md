@@ -415,23 +415,7 @@ slug: Learning
 
 # 4. Data Analysis
 
-## 4.1 Machine Learning
-
-- [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732): [gen.lib.rus.ec](http://gen.lib.rus.ec/search.php?req=Pattern+Recognition+and+Machine+Learning&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) | [知乎](https://www.zhihu.com/question/20970802)
-- [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng, Staford University | [youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-- [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF): StatQuest with Josh Starmer
-    - [PCA in Python](https://www.youtube.com/watch?v=Lsue2gEM9D0&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=28)
-    - [Hierarchical clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=33)
-    - [K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=34)
-- [Machine Learning Plus](https://www.machinelearningplus.com/)
-    - [Data Manipulation](https://www.machinelearningplus.com/category/data-manipulation/)
-    - [Plots](https://www.machinelearningplus.com/category/plots/)
-    - [Time Series](https://www.machinelearningplus.com/category/time-series/)
-    - [Principal Components Analysis (PCA)](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
-- [Get Over With the Machine Learning Hype](https://medium.com/@sapy/get-over-the-machine-learning-hype-79abcbe37272)
-
-
-## 4.2 Signal
+## 4.1 Signal
 
 ### Course
 
@@ -449,6 +433,29 @@ slug: Learning
 ### Communication
 
 - [无线通信：从1G到5G](https://mp.weixin.qq.com/s/aEFoAYNCsdwgEfo1sWm6UQ)
+
+
+## 4.2 Pattern Recognition & Machine Learning
+
+- [Pattern Recognition and Machine Learning](https://www.springer.com/gp/book/9780387310732): [gen.lib.rus.ec](http://gen.lib.rus.ec/search.php?req=Pattern+Recognition+and+Machine+Learning&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) | [知乎](https://www.zhihu.com/question/20970802)
+- [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng, Staford University | [youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF): StatQuest with Josh Starmer
+    - [PCA in Python](https://www.youtube.com/watch?v=Lsue2gEM9D0&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=28)
+    - [Hierarchical clustering](https://www.youtube.com/watch?v=7xHsRkOdVwo&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=33)
+    - [K-means clustering](https://www.youtube.com/watch?v=4b5d3muPQmA&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=34)
+- [Machine Learning Plus](https://www.machinelearningplus.com/)
+    - [Data Manipulation](https://www.machinelearningplus.com/category/data-manipulation/)
+    - [Plots](https://www.machinelearningplus.com/category/plots/)
+    - [Time Series](https://www.machinelearningplus.com/category/time-series/)
+    - [Principal Components Analysis (PCA)](https://www.machinelearningplus.com/machine-learning/principal-components-analysis-pca-better-explained/)
+- [Get Over With the Machine Learning Hype](https://medium.com/@sapy/get-over-the-machine-learning-hype-79abcbe37272)
+- [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
+
+
+## 4.3 Computer Vision
+
+- [计算机视觉](https://easyai.tech/ai-definition-category/computer-vision/)
+    - [计算机视觉](https://easyai.tech/ai-definition/computer-vision/)
 
 
 # 5. Programming
