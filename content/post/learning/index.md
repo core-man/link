@@ -63,6 +63,7 @@ slug: Learning
 #### SAC skills
 
 - [SAC不同格式间的转换](https://blog.seisman.info/conversion-of-different-sac-formats)
+- [SAC Tools](https://github.com/core-man/SACTools)
 - [SAC技巧](https://blog.seisman.info/tags/SAC%E6%8A%80%E5%B7%A7) | [SAC 技巧与陷阱](https://seisman.github.io/SAC_Docs_zh/tricks-and-traps/)
 - [调用SAC进行Hilbert变换](https://blog.seisman.info/trash/sac-hilbert-transform)
 
@@ -390,6 +391,8 @@ slug: Learning
         - [Differential Equations and Linear Algebra](https://www.mathworks.com/videos/series/differential-equations-and-linear-algebra-117657.html): Prof. Gilbert Strang
         - [Solving ODEs in MATLAB](https://www.mathworks.com/videos/series/solving-odes-in-matlab-117658.html): Prof. Cleve Moler
 - [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6): 3Blue1Brown
+- [advection–diffusion equation](https://en.wikipedia.org/wiki/Convection%E2%80%93diffusion_equation)
+    - [Definitions: Advection & Diffusion](http://www.dartmouth.edu/~cushman/courses/engs43/Definitions.pdf)
 
 
 ## 3.6 Mathematical Methods for Physicis
