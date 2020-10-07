@@ -408,7 +408,12 @@ slug: Learning
 - [Mathematical Methods for Physicists](http://web.mit.edu/al24406/www/mathmeth.html)
 
 
-## 3.7 Other
+## 3.7 Inverse Problems
+
+- [Markov-chain Monte Carlo Interactive Gallery](http://chi-feng.github.io/mcmc-demo/): [GitHub](https://github.com/chi-feng/mcmc-demo)
+
+
+## 3.8 Other
 
 - [Secretary problem](https://en.m.wikipedia.org/wiki/Secretary_problem)
 
