@@ -8,17 +8,17 @@ categories: ["Institutions"]
 slug: institutions
 ---
 
-
 ## Institutions
 
 ### International
 
-- [International Union of Geodesy and Geophysics (IUGG)](http://www.iugg.org): [Associations of the IUGG](http://www.iugg.org/associations)
 - [Incorporated Research Institutions for Seismology (IRIS)](https://www.iris.edu/hq)
     - [IRIS Data Services](https://ds.iris.edu/ds)
         - [IRIS Data Management Center (DMC)](https://ds.iris.edu/ds/nodes/dmc)
 - [International Seismological Centre (ISC)](http://www.isc.ac.uk)
 - [Global Earthquake Model Foundation](https://www.globalquakemodel.org)
+- [University NAVSTAR Consortium (UNAVCO)](https://www.unavco.org/): a non-profit university-governed consortium, facilitates geoscience research and education using geodesy
+    - [Seafloor Geodesy](https://sites.google.com/view/seafloor-geodesy-community/)
 
 ### Regional
 
@@ -43,7 +43,7 @@ slug: institutions
 
 ## Academic unions
 
-- [International Union of Geodesy and Geophysics](http://iugg.org)
+- [International Union of Geodesy and Geophysics (IUGG)](http://www.iugg.org): [Associations of the IUGG](http://www.iugg.org/associations)
     - [International Association of Seismology and Physics of the Earth's Interior (IASPEI)](http://www.iaspei.org)
     - [Study of the Earth's Deep Interior](https://hope.simons-rock.edu/~bergman/sedi/index.html)
 - [American Geophysical Union (AGU)](https://www.agu.org)
