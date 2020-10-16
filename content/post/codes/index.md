@@ -280,6 +280,7 @@ slug: codes
 
 ### Other forward modelling
 
+- [Waveform modelling of fault zone](https://earth.usc.edu/~ybz/): Yehuda Ben-Zion's codes used to model point/line dislocation in fault zone layers.
 - [CPSPy](https://github.com/NoisyLeon/CPSPy): Python interface for CPS330
 
 
