@@ -179,7 +179,7 @@ slug: Learning
 
 ## 1.5 Tectonics
 
-### Tectonicmovement
+### Tectonic movement
 
 - [地球历史上的构造“运动会”](https://mp.weixin.qq.com/s/EBj7DdRdpaAV_bTrsDljnQ)
 
@@ -231,6 +231,10 @@ slug: Learning
 - [青藏高原东南缘地壳上地幔三维S波速度结构及动力学意义](https://mp.weixin.qq.com/s/GTllS9FOyA9YeoyAYJWbcg)
 - [峨眉山古地幔柱改造岩石圈对青藏高原东南向深部弱物质流阻挡作用的大地电磁证据](https://mp.weixin.qq.com/s/TOky2I1NUW3DikgYEcOOVw)
 - [哀牢山南段新生代造山和成矿的地震学证据](https://mp.weixin.qq.com/s/cRcKacIbOb18r-giQPF0kg)
+
+### Asia
+
+- [Tectonics of Asia](https://tectonicsofasia.weebly.com/)
 
 ### Myanmar
 
