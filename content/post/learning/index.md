@@ -235,6 +235,7 @@ slug: Learning
 ### Myanmar
 
 - [缅甸第四纪火山岩研究揭示洋-陆板块撕裂和青藏高原地幔流出](https://mp.weixin.qq.com/s/dBiURhQxlr9UjVQh9NUgNw)
+- [The Bay of Bengal and the Curious Case of the Missing Rift](https://eos.org/features/the-bay-of-bengal-and-the-curious-case-of-the-missing-rift)
 
 
 ## 1.6 Geology
