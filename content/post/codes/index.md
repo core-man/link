@@ -39,6 +39,7 @@ slug: codes
 - [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl): Data download, processing and visulization software written in Julia
 - [GISMO](http://geoscience-community-codes.github.io/GISMO): Data download, processing and visulization software written in Matlab
 - [HinetPy](https://seisman.github.io/HinetPy): Request data from Hi-net server, written in Python | [Hinet notes](https://blog.seisman.info/hinet)
+- [FnetPy](https://github.com/seisman/FnetPy): A Python package to request seismic waveform data from F-net
 - [StrongMotion Fetch](https://www.usgs.gov/software/strongmotion-fetch): download and/or process strong motion data from various networks
 
 
@@ -69,6 +70,7 @@ slug: codes
 - [ObsPy](https://github.com/obspy/obspy): Data download, processing and visulization software written in Python
 - [SeisIO.jl](https://github.com/jpjones76/SeisIO.jl): Data download, processing and visulization software written in Julia
 - [GISMO](http://geoscience-community-codes.github.io/GISMO): Data download, processing and visulization software written in Matlab
+- [hinet_decon](https://github.com/tktmyd/hinet_decon): A Fortran 2003 code to deconvolve Hi-net velocity record by its seismometer response by using inverse filtering technique
 - [Geopsy](http://www.geopsy.org/download.php): An open source software for geophysical research and application written in C++
 
 
@@ -271,7 +273,7 @@ slug: codes
 - [Couplage](http://www.quest-itn.org/library/software/couplage): Modelling of propagation of surface waves in 3D structures by mode coupling method
 
 
-### Hybrid method
+### Other hybrid methods
 
 - [PSV Hybrid](http://geophysics.geo.sunysb.edu/wen/resource/index.html): Calculating synthetic seismograms involving two-dimensional localized hetergeneous structures based on GRT-FD hybrid method.
 
@@ -345,9 +347,10 @@ slug: codes
 - [GR_EST](https://github.com/MatteoTaroniINGV/GR_EST): An OCTAVE/MATLAB Toolbox to Estimate Gutenberg–Richter Law Parameters and Their Uncertainties
 
 
-### Stress
+### Stress/Strain
 
 - [Coulomb 3](https://www.usgs.gov/software/coulomb-3): Investigate Coulomb stress changes on mapped faults and earthquake nodal planes
+- [DC3D0/DC3D](https://www.bosai.go.jp/information/dc3d.html): Calculate displacement, strain and tilt at depth due to a point/rectangular strike/dip/tensile source in a half-space
 - [SATSI](https://www.usgs.gov/software/satsi): Spatially and/or temporally varying stress field from focal mechanisms
 - [MSATSI](https://www.induced.pl/software): MATLAB package for stress tensor inversion
 - [STRESSINVERSE](https://www.ig.cas.cz/en/stress-inverse): A Matlab or Python software package for an iterative joint inversion for stress and fault orientations from focal mechanisms
