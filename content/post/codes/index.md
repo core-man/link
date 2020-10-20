@@ -778,6 +778,7 @@ slug: codes
 - [NuQuake Software](http://www.nuquake.eu/Computer_Codes)
 - [GPIAG-Software](https://git.scc.kit.edu/GPIAG-Software)
 - [EarthByte software](https://www.earthbyte.org/category/resources/software-workflows)
+- [MTNet](http://www.mtnet.info/main/source.html): source codes in electromagnetic community
 
 
 ## Revision history
