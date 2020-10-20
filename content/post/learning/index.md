@@ -329,7 +329,7 @@ slug: Learning
 
 - [Highlights of Calculus](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/): Prof. Gilbert Strang, MIT-OCW
 - [Essence of Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr): 3Blue1Brown
-- [Multivariable calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7): Khan Academy
+- [Multivariable calculus](https://www.youtube.com/playlist?list=PLSQl0a2vh4HC5feHa6Rc5c0wbRTx56nF7): Khan Academy | [content](https://www.khanacademy.org/math/multivariable-calculus)
 
 ### Topics
 
@@ -367,6 +367,7 @@ slug: Learning
 - Matrix Derivative
     - [Derivative of a Matrix: Data Science Basics](https://www.youtube.com/watch?v=e73033jZTCI)
     - How to differentiate with respect to a vector: [Part 1](https://www.youtube.com/watch?v=iWxY7VdcSH8&t=10s) | [Part 2](https://www.youtube.com/watch?v=uoejt0FCWWA&t=6s) | [Part 3](https://www.youtube.com/watch?v=i6fqfH5hx60&t=22s)
+- [矩阵分解](https://zh.wikipedia.org/wiki/%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3)
 - Eigenvalues
     - [Eigenvalues](https://www.youtube.com/watch?v=H-NxPABQlxI&list=PLJb1qAQIrmmC72x-amTHgG-H_5S19jOSf)
 
@@ -398,6 +399,8 @@ slug: Learning
 - [Differential equations](https://www.youtube.com/playlist?list=PLZHQObOWTQDNPOjrT6KVlfJuKtYTftqH6): 3Blue1Brown
 - [advection–diffusion equation](https://en.wikipedia.org/wiki/Convection%E2%80%93diffusion_equation)
     - [Definitions: Advection & Diffusion](http://www.dartmouth.edu/~cushman/courses/engs43/Definitions.pdf)
+- [计算数学](http://math.ecnu.edu.cn/~jypan/Teaching.html): 潘建瑜, 华东师范大学
+- [计算方法](http://staff.ustc.edu.cn/~tongwh/NA_2019/index.html): 童伟华, 中国科学技术大学
 
 
 ## 3.6 Mathematical Methods for Physicis
