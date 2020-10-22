@@ -1,5 +1,4 @@
-
-core-man's link
+# core-man's link
 
 I have been cooperated with [seisman](https://github.com/seisman) to maintain [SeisLinks](https://link.seisman.info/) since Oct. 2020. All the links in the website are currently being merged to [SeisLinks](https://link.seisman.info/).
 
@@ -7,13 +6,12 @@ This site collects a lot of useful sites I found during my daily life and resear
 
 The links are available on [GitHub](https://github.com/core-man/link).
 
-- [Journal](content/post/journals/index.md)
-- [Codes](content/post/codes/index.md)
-- [Database](content/post/database/index.md)
-- [Learning](content/post/learning/index.md)
-- [Tools](content/post/tools/index.md)
-- [Institutions](content/post/institutions/index.md)
+- [Journal](content/post/journals/index.md): already merged to [SeisLinks](https://link.seisman.info/journals/)
+- [Codes](content/post/codes/index.md): being merged to [SeisLinks](https://link.seisman.info/codes/)
+- [Database](content/post/database/index.md): being merged to [SeisLinks](https://link.seisman.info/database/)
+- [Tools](content/post/tools/index.md): being merged to [SeisLinks](https://link.seisman.info/tools/)
 - [Scientists](content/post/scientists/index.md)
 - [Jobs](content/post/jobs/index.md)
+- [Institutions](content/post/institutions/index.md)
+- [Learning](content/post/learning/index.md)
 - [NTU](content/post/ntu/index.md)
-
