@@ -44,7 +44,7 @@ slug: ntu
 - [Seating Capacity For Lecture Theatres & Tutorial Rooms](http://www.ntu.edu.sg/odfm/usefulinfo/academicfacilities/seatingcapacity/Pages/tr.aspx)
 - [Personal website for students admitted before 2010-11 and Staff](https://ts.ntu.edu.sg/sites/CITS/homepage/Getting%20Help/Web-EventPublishing/Pages/Personal-Website-for-Staff.aspx)
 - [Office of Housing & Auxiliary Services](https://www.ntu.edu.sg/has/Pages/index.aspx)
-- [Campus Recreation And Wellness (校园娱乐健康福利)](https://intranet2.ntu.edu.sg/CReW/Pages/CorporatePassesBooking.aspx)
+- [Campus Recreation And Wellness (校园娱乐健康福利)](https://ts.ntu.edu.sg/sites/intranet/dept/crew/Pages/index.aspx)
 - [Centre for IT services](http://www.ntu.edu.sg/cits/Pages/default.aspx)
 - [Qualifying Examinations](http://spms.ntu.edu.sg/MathematicalSciences/Graduate/Pages/Qualifying-Examinations.aspx)
 
