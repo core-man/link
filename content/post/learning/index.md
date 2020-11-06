@@ -164,6 +164,7 @@ slug: Learning
 - [地幔的氧化还原状态和结构](https://mp.weixin.qq.com/s/_oZmFOkWC4AJi6zucSw7Lw)
 - [富集地幔的前世今生](https://mp.weixin.qq.com/s/0rMimuTqX60itlNbwOgXEg)
 - [CaSiO3钙钛矿的地震波速实验测定及其对下地幔LLSVPs的启示](https://mp.weixin.qq.com/s/0CUD3mWPKzk_LLMXjgdV3Q)
+- [不一样的钙钛矿](https://mp.weixin.qq.com/s/Vj69QsKxbLsyMyZ6HH1h_A)
 - [下地幔稳定存在超富水斯石英](https://mp.weixin.qq.com/s/LqNCsootWJh1tdWUGX3CNw)
 - [核幔边界与内外核边界处元素分配的第一原理模拟](https://mp.weixin.qq.com/s/MHjmmveleAk-faWTHRxVDg)
 
