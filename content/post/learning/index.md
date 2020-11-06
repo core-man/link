@@ -155,8 +155,12 @@ slug: Learning
 - [Pacific Northwest Earth Science Animations](https://www.youtube.com/playlist?list=PLngDHXr1w29SVVyip5E9bYnuCcEeL-CGw): 俯冲带变形过程的卡通描述
 - [中国大陆地壳变形最大GPS数据集](https://mp.weixin.qq.com/s/UA_90DhiTNT0wio15xPYHg)
 
+## 1.3 Electromagnetic Methods
 
-## 1.3 Mineral physics
+- [大地电磁法及其在地震、火山等活动构造研究中的应用](https://mp.weixin.qq.com/s/R_Qq5nUQggZ6hjx0UpOl6A)
+
+
+## 1.4 Mineral physics
 
 ### Mantle
 
@@ -173,12 +177,12 @@ slug: Learning
 - [地核——巨大的水库？](https://mp.weixin.qq.com/s/vAqFqq3cThaD-brzbDg88g)
 
 
-## 1.4 Geodynamics
+## 1.5 Geodynamics
 
 - [难以捉摸的地幔动力地形](https://mp.weixin.qq.com/s/IqUSnvamS8FO8ZIYPCN-Zw)
 
 
-## 1.5 Tectonics
+## 1.6 Tectonics
 
 ### Tectonic movement
 
@@ -243,12 +247,12 @@ slug: Learning
 - [The Bay of Bengal and the Curious Case of the Missing Rift](https://eos.org/features/the-bay-of-bengal-and-the-curious-case-of-the-missing-rift)
 
 
-## 1.6 Geology
+## 1.7 Geology
 
 - [Geology Cafe](http://geologycafe.com/)
 
 
-## 1.7 Geography
+## 1.8 Geography
 
 - [中国到底有多少个“天府之国”?](https://mp.weixin.qq.com/s/UD12SFgrnE25VJDnExiSmQ)
 - [鄱阳湖是如何形成的](https://mp.weixin.qq.com/s/Jq5Yl85uH_CIPnBD22iY4g)
@@ -256,18 +260,18 @@ slug: Learning
 - [中国隧道工程的前世今生](https://mp.weixin.qq.com/s/SkjyVO0l9v_CjKnDYSzSOw)
 
 
-## 1.8 Geosciences
+## 1.9 Geosciences
 
 - [如何认识地球深部结构: 固体地球物理学的六种分支学科概述](https://mp.weixin.qq.com/s/DTFzCq6A_SbGrpdAjAxQaQ)
 - [研究对象：地球！](https://mp.weixin.qq.com/s/vuphHk0pYKiCnlOvua143g)
 
 
-## 1.9 Planetary Sciences
+## 1.10 Planetary Sciences
 
 - [日冕磁场的全球性分布](https://mp.weixin.qq.com/s/zWGA5pt7ZurtpVKH0WaxQw)
 
 
-## 1.10 Continuum mechanics
+## 1.11 Continuum mechanics
 
 - [Malleable And Ductile](https://www.youtube.com/watch?v=99DQdM29ib8)
 - [Behaviour of Springs and Materials](https://www.youtube.com/playlist?list=PLlDtVvefFYT8h1s5owifl85J92_9ulwYg)
