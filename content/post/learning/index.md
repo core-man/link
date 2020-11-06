@@ -110,7 +110,6 @@ slug: Learning
 
 #### Early Warning
 
-- [后发先至：跑赢时间的地震预警](https://mp.weixin.qq.com/s/SsrtTjMSpvf6EdqsKMxAoQ)
 - [他山之石：美国地震预警系统的发展之路](https://mp.weixin.qq.com/s?__biz=MzU2NjA3MjYyNg==&mid=2247488292&amp;idx=1&amp;sn=9b0cc27d911d7966b5887b28bbb423f1&source=41#wechat_redirect)
 
 #### 格震至源
@@ -120,8 +119,9 @@ slug: Learning
     - [倚天长剑飞寒芒：地震学中的利器](https://mp.weixin.qq.com/s/vSbm6_cMxV0f8tiwIRe3EQ): 密集台阵
 - Seismicity
     - [7月12日唐山5.1级地震是余震吗？](https://mp.weixin.qq.com/s/dsG-Km5Qhd1BKCAYileKjQ)
-    - [擒龙功：神乎其技的地震远程触发](https://mp.weixin.qq.com/s/vBHiCvuhK6pjC41pMfWtbQ)
     - [诱发地震的“气剑”之争](https://mp.weixin.qq.com/s/JUrvmr0iCVVCK001CC8-2Q)
+    - [擒龙功：神乎其技的地震远程触发](https://mp.weixin.qq.com/s/vBHiCvuhK6pjC41pMfWtbQ)
+    - [动触派(DynTriPy)：检测地震动态触发的工具来了](https://mp.weixin.qq.com/s/s0YT-A-GOQw6BybyasjjCQ)
 - Early Warning
     - [后发先至：跑赢时间的地震预警](https://mp.weixin.qq.com/s/SsrtTjMSpvf6EdqsKMxAoQ)
 - Source Physics
