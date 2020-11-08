@@ -149,15 +149,19 @@ slug: Learning
 
 ### Seismic Structure
 
-### Lower Mantle
+#### Lower Mantle
 
 - [LLSVPs viewed by tomography and fluid mechanics : bundles of mantle thermochemical hot](https://www.youtube.com/watch?v=Z4kfiZDO-KE&t=3345s)
 
-### Core-Mantle Boundary
+#### Core-Mantle Boundary
 
 - [High-resolution seismic mapping of the Hawaiian ULVZ](https://www.youtube.com/watch?v=Pb0cMMHa4sk&feature=emb_logo)
 
-#### Temporal Change
+#### Inner Core
+
+- [46亿岁的地球，有一颗年轻的“心”](https://mp.weixin.qq.com/s/kL5WyXZf-WfLhHDpPNNfkg)
+
+#### Ocean
 
 - [地震波测量深海温度](https://mp.weixin.qq.com/s/aZKNBr-FO5-Uf-5IXkIIvg)
 - [Anne Obermann: Time-lapse imaging of the subsurface with seismig noise](https://harvard.zoom.us/rec/play/nukEnHuL851mLEkbd2cQ37qZjeqMnyYlTyQZ6UX0rGYZ4XAEEze89fApRT5zYjzMJHBs5Tn5NK8dwO-i.eg4J9-cTXGht3uZC?continueMode=true&_x_zm_rtaid=4WAa9sUKSD-4mVhQ2pLEAA.1604823564186.e90c9d5ae760f09589132af5c205b103&_x_zm_rhtaid=356)
@@ -202,10 +206,17 @@ slug: Learning
 ### Summary
 
 - [大陆边缘与海底构造学](https://www.bilibili.com/video/BV1Yf4y1B7tv?share_medium=android&share_plat=android&share_source=WEIXIN&share_tag=s_i&timestamp=1602720320&unique_k=lFZyxl)
+- [What Did Pangaea Look like?](https://www.youtube.com/watch?v=VKq0pr4rbRs)
 
 ### Tectonic movement
 
 - [地球历史上的构造“运动会”](https://mp.weixin.qq.com/s/EBj7DdRdpaAV_bTrsDljnQ)
+
+### Plate tectonics & Plumes
+
+- [地幔柱与板块构造的关系](https://mp.weixin.qq.com/s/hOmW-PYb93dqgIN9XdS8fg)
+- [俯冲构造vs.地幔柱构造——板块运动驱动力探讨](https://mp.weixin.qq.com/s/4RT-V1G9KUOKx-yazLBtkw)
+- [板内地幔岩浆作用成因之争：板块构造还是地幔柱](https://mp.weixin.qq.com/s/8ogjZly5VYwYbjS8tTe_5w)
 
 ### Subduction initation
 
@@ -234,16 +245,6 @@ slug: Learning
 
 - [水在大陆地壳形成中的关键作用](https://mp.weixin.qq.com/s/cyppbY4klvx5sg7SdauxsQ)
 
-### Plate tectonics & Plumes
-
-- [地幔柱与板块构造的关系](https://mp.weixin.qq.com/s/hOmW-PYb93dqgIN9XdS8fg)
-- [俯冲构造vs.地幔柱构造——板块运动驱动力探讨](https://mp.weixin.qq.com/s/4RT-V1G9KUOKx-yazLBtkw)
-- [板内地幔岩浆作用成因之争：板块构造还是地幔柱](https://mp.weixin.qq.com/s/8ogjZly5VYwYbjS8tTe_5w)
-
-### Sea floor spreading
-
-- [稳定的洋中脊扩张速度](https://mp.weixin.qq.com/s/56b7C_jjGOt2bg2Lrqblow)
-
 ### Craton
 
 - [克拉通破坏本质与机理](https://mp.weixin.qq.com/s/I7-JxAGLmqgPXTmh6w231w)
@@ -256,6 +257,10 @@ slug: Learning
 - [峨眉山古地幔柱改造岩石圈对青藏高原东南向深部弱物质流阻挡作用的大地电磁证据](https://mp.weixin.qq.com/s/TOky2I1NUW3DikgYEcOOVw)
 - [哀牢山南段新生代造山和成矿的地震学证据](https://mp.weixin.qq.com/s/cRcKacIbOb18r-giQPF0kg)
 
+### Tibetan Plateau
+
+- [Localized foundering of Indian lower crust in the India–Tibet collision zone](http://www.cags.cgs.gov.cn/kjyw_4644/202009/t20200930_655925.html)
+
 ### Asia
 
 - [Tectonics of Asia](https://tectonicsofasia.weebly.com/)
@@ -264,6 +269,12 @@ slug: Learning
 
 - [缅甸第四纪火山岩研究揭示洋-陆板块撕裂和青藏高原地幔流出](https://mp.weixin.qq.com/s/dBiURhQxlr9UjVQh9NUgNw)
 - [The Bay of Bengal and the Curious Case of the Missing Rift](https://eos.org/features/the-bay-of-bengal-and-the-curious-case-of-the-missing-rift)
+
+### Sea Floor
+
+- [稳定的洋中脊扩张速度](https://mp.weixin.qq.com/s/56b7C_jjGOt2bg2Lrqblow)
+- [洋中脊或海岭俯冲的岩浆和金属作用](https://mp.weixin.qq.com/s/HPBctjm92wVlC3pZ51oJqQ)
+- [Earth's REAL Lost Landmasses](https://www.youtube.com/watch?v=NmFUFnMj5Jw)
 
 
 ## 1.7 Geology
