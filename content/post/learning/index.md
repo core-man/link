@@ -147,6 +147,21 @@ slug: Learning
 
 - [基于地震波场的跨尺度地球内部成像](https://mp.weixin.qq.com/s/1WhmkWma7wZZjzX_wujYYg)
 
+### Seismic Structure
+
+### Lower Mantle
+
+- [LLSVPs viewed by tomography and fluid mechanics : bundles of mantle thermochemical hot](https://www.youtube.com/watch?v=Z4kfiZDO-KE&t=3345s)
+
+### Core-Mantle Boundary
+
+- [High-resolution seismic mapping of the Hawaiian ULVZ](https://www.youtube.com/watch?v=Pb0cMMHa4sk&feature=emb_logo)
+
+#### Temporal Change
+
+- [地震波测量深海温度](https://mp.weixin.qq.com/s/aZKNBr-FO5-Uf-5IXkIIvg)
+- [Anne Obermann: Time-lapse imaging of the subsurface with seismig noise](https://harvard.zoom.us/rec/play/nukEnHuL851mLEkbd2cQ37qZjeqMnyYlTyQZ6UX0rGYZ4XAEEze89fApRT5zYjzMJHBs5Tn5NK8dwO-i.eg4J9-cTXGht3uZC?continueMode=true&_x_zm_rtaid=4WAa9sUKSD-4mVhQ2pLEAA.1604823564186.e90c9d5ae760f09589132af5c205b103&_x_zm_rhtaid=356)
+
 
 ## 1.2 Geodesy
 
@@ -183,6 +198,10 @@ slug: Learning
 
 
 ## 1.6 Tectonics
+
+### Summary
+
+- [大陆边缘与海底构造学](https://www.bilibili.com/video/BV1Yf4y1B7tv?share_medium=android&share_plat=android&share_source=WEIXIN&share_tag=s_i&timestamp=1602720320&unique_k=lFZyxl)
 
 ### Tectonic movement
 
@@ -613,14 +632,15 @@ slug: Learning
 ### Course & Workshop
 
 - [Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python](https://www.coursera.org/learn/computers-waves-simulations)
-- [2020 Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students | [youtube](https://www.youtube.com/watch?v=jCjTwUl17RY&list=PLD4D607C2FA317E6D&index=1)
-- [2020 USTC seismological algorithms training](http://seismo.training.ustc.edu.cn/index.php): [bilibili videos](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
-- [2020 Peking University Seismic Noise Interferometry and Imaging Workshop](https://sess.pku.edu.cn/docs/2020-08/20200819195037832382.pdf): [bilibili videos](https://space.bilibili.com/668681871?spm_id_from=333.788.b_765f7570696e666f.2)
-- [2020 Geophysics & Tectonics Seminar](https://sites.google.com/g.uky.edu/gtseminar/schedule?authuser=0): [videos](https://sites.google.com/g.uky.edu/gtseminar/videos) | [youtube](https://www.youtube.com/channel/UChCunKfO4RT2GKIRs84J2zg)
-- 2020 五刊联盟学术论坛
+- [Geophysics & Tectonics Seminar](https://sites.google.com/g.uky.edu/gtseminar/schedule?authuser=0): [videos](https://sites.google.com/g.uky.edu/gtseminar/videos) | [youtube](https://www.youtube.com/channel/UChCunKfO4RT2GKIRs84J2zg)
+- [MTNet webinars on EM](http://www.mtnet.info/webinars/webinars.html): A series of webinars on EM Induction in the Earth in the broadest sense | [youtube](https://www.youtube.com/channel/UCttyEyUBjLAk8ieBwGN6z4Q)
+- 五刊联盟学术论坛
     - [八：一场人工智能地震学的“锵锵三人行”](https://mp.weixin.qq.com/s/EhfMuZH4HSz3uTgJwx9mPw)
     - [十一：MT火山/地热结构成像及地震和电磁联合反演](https://mp.weixin.qq.com/s/jBCk_zuDNC7x4qSCxPXAwQ)
     - [十二：走滑断层上超剪切破裂的可持续性讨论](https://mp.weixin.qq.com/s/ggKgD_UrmtnWzv7sNfEVqA)
+- [2020 Remote Online Sessions for Emerging Seismologists](https://www.iris.edu/hq/inclass/course/roses): a very good seismological course for Ph.D. students | [youtube](https://www.youtube.com/watch?v=jCjTwUl17RY&list=PLD4D607C2FA317E6D&index=1)
+- [2020 USTC seismological algorithms training](http://seismo.training.ustc.edu.cn/index.php): [bilibili videos](https://www.bilibili.com/video/av841708479/) | [linkresearcher](https://www.linkresearcher.com/trainings/d65fe2ef-3cc8-4eef-9821-261e3d49a9ae)
+- [2020 Peking University Seismic Noise Interferometry and Imaging Workshop](https://sess.pku.edu.cn/docs/2020-08/20200819195037832382.pdf): [bilibili videos](https://space.bilibili.com/668681871?spm_id_from=333.788.b_765f7570696e666f.2)
 - [2019 Southern University of Science and Technology Workshop (password: SUSTech2019)](https://owncloud.sustc.edu.cn/s/aF4ZK5C5SoLcejj)
 - [2016 Subduction Zone Observatory Workshop](https://www.iris.edu/hq/workshops/2016/09/szo_16)
 
