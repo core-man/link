@@ -60,6 +60,11 @@ slug: ntu
 - [Matlab](https://ts.ntu.edu.sg/sites/CITS/homepage/Matlab/Pages/index.aspx)
 
 
+## NUS websites
+
+- [download.nus](http://download.nus.edu.sg/): A student-run mirror hosted by NUS computer center
+
+
 ## Singapore websites
 
 - [中国驻新加坡外交部](http://www.chinaembassy.org.sg/chn)
