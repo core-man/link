@@ -20,4 +20,4 @@ The links are available on [GitHub](https://github.com/core-man/link).
 - [Jobs](../post/jobs/)
 - [Institutions](../post/institutions/)
 - [Learning](../post/learning/)
-- [NTU](../post/ntu/)
+- [NTU](../post/ntu/): already merged to [MIG_Docs](https://migg-ntu.github.io/MIG_Docs/links)
