@@ -122,6 +122,7 @@ slug: Learning
     - [诱发地震的“气剑”之争](https://mp.weixin.qq.com/s/JUrvmr0iCVVCK001CC8-2Q)
     - [擒龙功：神乎其技的地震远程触发](https://mp.weixin.qq.com/s/vBHiCvuhK6pjC41pMfWtbQ)
     - [动触派(DynTriPy)：检测地震动态触发的工具来了](https://mp.weixin.qq.com/s/s0YT-A-GOQw6BybyasjjCQ)
+    - [水力压裂](https://mp.weixin.qq.com/s/8esBNvGPtjMAkfJ58dextA)
 - Early Warning
     - [后发先至：跑赢时间的地震预警](https://mp.weixin.qq.com/s/SsrtTjMSpvf6EdqsKMxAoQ)
 - Source Physics
