@@ -47,6 +47,7 @@ slug: Learning
     - [Distributed Acoustic Sensing Virtual Workshop and Tutorial (2020)](https://www.iris.edu/hq/event/2020_DAS_Workshop)
     - [Fiber-optic Seismology in Theory and Practice (2020)](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice)
     - [Distributed Fiber-Optic Seismology in Theory and in Practice (2018)](https://www.youtube.com/watch?v=LAcQ44YRMuM)
+- [琳琅满目的地震仪](https://mp.weixin.qq.com/s/kf9sLwZ_qluoebKjvoGTtQ)
 
 #### Instrument Response
 
@@ -123,6 +124,7 @@ slug: Learning
     - [擒龙功：神乎其技的地震远程触发](https://mp.weixin.qq.com/s/vBHiCvuhK6pjC41pMfWtbQ)
     - [动触派(DynTriPy)：检测地震动态触发的工具来了](https://mp.weixin.qq.com/s/s0YT-A-GOQw6BybyasjjCQ)
     - [水力压裂](https://mp.weixin.qq.com/s/8esBNvGPtjMAkfJ58dextA)
+    - [走进长宁诱发地震背后的故事](https://mp.weixin.qq.com/s/hJzP-wRlVDGQeGhtib-P5g)
 - Early Warning
     - [后发先至：跑赢时间的地震预警](https://mp.weixin.qq.com/s/SsrtTjMSpvf6EdqsKMxAoQ)
 - Source Physics
@@ -136,6 +138,7 @@ slug: Learning
     - [潜入马里亚纳海沟-人类极限挑战](https://mp.weixin.qq.com/s/OhOX3nXq5vls9Y95DG6Erg)
 - Tectonics
     - [大洋中脊核杂岩](https://mp.weixin.qq.com/s/oIN9s2pHOOrZucbehg-m0Q)
+    - [寻找前世遗留在现今南海陆缘的痕迹](https://mp.weixin.qq.com/s/J-BpCNqoL9ddW1wSysUKtg)
 
 ### Seismic Wave
 
@@ -270,6 +273,11 @@ slug: Learning
 
 - [缅甸第四纪火山岩研究揭示洋-陆板块撕裂和青藏高原地幔流出](https://mp.weixin.qq.com/s/dBiURhQxlr9UjVQh9NUgNw)
 - [The Bay of Bengal and the Curious Case of the Missing Rift](https://eos.org/features/the-bay-of-bengal-and-the-curious-case-of-the-missing-rift)
+
+### California
+
+- [California has active and hazardous volcanoes](https://www.usgs.gov/observatories/california-volcano-observatory/california-has-active-and-hazardous-volcanoes)
+
 
 ### Sea Floor
 
