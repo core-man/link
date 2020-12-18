@@ -44,6 +44,7 @@ slug: Learning
     - [Rotational Motions - a new observable for Seismology (2018)](https://www.youtube.com/watch?v=oUcVbZKRQfk): Heiner Igel's talk begins on `2:22:30`
 - Fiber-optic Seismology
     - [Review of DAS applications in geophysics](https://doi.org/10.1785/0220190112)
+    - [AGU Workshop on Distributed Acoustic Sensing (2020)](https://www.iris.edu/hq/event/2020_agu_workshop_on_distributed_acoustic_sensing)
     - [Distributed Acoustic Sensing Virtual Workshop and Tutorial (2020)](https://www.iris.edu/hq/event/2020_DAS_Workshop)
     - [Fiber-optic Seismology in Theory and Practice (2020)](https://www.iris.edu/hq/webinar/2020/01/fiberoptic_seismology_in_theory_and_practice)
     - [Distributed Fiber-Optic Seismology in Theory and in Practice (2018)](https://www.youtube.com/watch?v=LAcQ44YRMuM)
