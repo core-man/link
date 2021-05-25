@@ -13,11 +13,11 @@ This site collects a lot of useful sites I found during my daily life and resear
 The links are available on [GitHub](https://github.com/core-man/link).
 
 - [Journals](../post/journals/): already merged to [Seismo Links](https://seismo-learn.org/links/journals/)
+- [Codes](../post/codes/): being merged to [Seismo Links](https://link.seisman.info/codes/)
 - [Database](../post/database/): already merged to [Seismo Links](https://seismo-learn.org/links/database/)
 - [Tools](../post/tools/): already merged to [Seismo Links](https://seismo-learn.org/links/tools/)
-- [Codes](../post/codes/): being merged to [Seismo Links](https://link.seisman.info/codes/)
-- [Jobs](../post/jobs/)
+- [Jobs](../post/jobs/): already merged to [Seismo Links](https://seismo-learn.org/links/jobs/)
 - [Scientists](../post/scientists/)
-- [Institutions](../post/institutions/)
-- [Learning](../post/learning/)
+- [Institutions](../post/institutions/): not maintained any more
+- [Learning](../post/learning/): not maintained any more
 - [NTU](../post/ntu/): already merged to [MIG_Docs](https://migg-ntu.github.io/MIG_Docs/links)
