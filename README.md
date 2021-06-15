@@ -8,9 +8,9 @@ The links are available on [GitHub](https://github.com/core-man/link).
 
 - [Journals](content/post/journals/): already merged to [Seismo Links](https://seismo-learn.org/links/journals/)
 - [Codes](content/post/codes/): already merged to [Seismo Links](https://seismo-learn.org/links/codes/)
-- [Database](contentpost/database/): already merged to [Seismo Links](https://seismo-learn.org/links/database/)
+- [Database](content/post/database/): already merged to [Seismo Links](https://seismo-learn.org/links/database/)
 - [Tools](content/post/tools/): already merged to [Seismo Links](https://seismo-learn.org/links/tools/)
-- [Jobs](contentpost/jobs/): already merged to [Seismo Links](https://seismo-learn.org/links/jobs/)
+- [Jobs](content/post/jobs/): already merged to [Seismo Links](https://seismo-learn.org/links/jobs/)
 - [Scientists](content/post/scientists/): not maintained any more
 - [Institutions](content/post/institutions/): not maintained any more
 - [Learning](content/post/learning/): not maintained any more
