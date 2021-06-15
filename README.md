@@ -6,12 +6,12 @@ Most links in the website have been merged to [Seismo Links](https://github.com/
 This site collects a lot of useful sites I found during my daily life and researches.
 The links are available on [GitHub](https://github.com/core-man/link).
 
-- [Journals](../post/journals/): already merged to [Seismo Links](https://seismo-learn.org/links/journals/)
-- [Codes](../post/codes/): already merged to [Seismo Links](https://seismo-learn.org/links/codes/)
-- [Database](../post/database/): already merged to [Seismo Links](https://seismo-learn.org/links/database/)
-- [Tools](../post/tools/): already merged to [Seismo Links](https://seismo-learn.org/links/tools/)
-- [Jobs](../post/jobs/): already merged to [Seismo Links](https://seismo-learn.org/links/jobs/)
-- [Scientists](../post/scientists/): not maintained any more
-- [Institutions](../post/institutions/): not maintained any more
-- [Learning](../post/learning/): not maintained any more
-- [NTU](../post/ntu/): already merged to [MIG_Docs](https://migg-ntu.github.io/MIG_Docs/links)
+- [Journals](content/post/journals/): already merged to [Seismo Links](https://seismo-learn.org/links/journals/)
+- [Codes](content/post/codes/): already merged to [Seismo Links](https://seismo-learn.org/links/codes/)
+- [Database](contentpost/database/): already merged to [Seismo Links](https://seismo-learn.org/links/database/)
+- [Tools](content/post/tools/): already merged to [Seismo Links](https://seismo-learn.org/links/tools/)
+- [Jobs](contentpost/jobs/): already merged to [Seismo Links](https://seismo-learn.org/links/jobs/)
+- [Scientists](content/post/scientists/): not maintained any more
+- [Institutions](content/post/institutions/): not maintained any more
+- [Learning](content/post/learning/): not maintained any more
+- [NTU](content/post/ntu/): already merged to [MIG_Docs](https://migg-ntu.github.io/MIG_Docs/links)
