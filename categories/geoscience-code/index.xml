@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoscience code on core-man&#39;s links</title>
+    <link>https://core-man.github.io/link/categories/geoscience-code/</link>
+    <description>Recent content in Geoscience code on core-man&#39;s links</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/link/categories/geoscience-code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Codes</title>
+      <link>https://core-man.github.io/link/post/codes/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/codes/</guid>
+      <description>Seismic Data Downloading and Processing Data Request Tools FDSN Web Services | Chinese note IRIS DMC: IRIS Data Management Center Web Services: clients FDSNWS: Chinese note of IRIS Fetch scripts IRISWS: e.g., fedcatalog &amp;amp; sacpz MUSTANG: data quality analysis services PH5WS: provide PH5 data and metadata | Accessing PH5 Archive with FetchData | wiki ROVER: A command line tool to robustly retrieve geophysical timeseries data from data centers BREQ_FAST: Seismic</description>
+    </item>
+    
+  </channel>
+</rss>

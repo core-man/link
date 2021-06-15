@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>core-man&#39;s links</title>
+    <link>https://core-man.github.io/link/</link>
+    <description>Recent content on core-man&#39;s links</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/link/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content</title>
+      <link>https://core-man.github.io/link/content/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/content/</guid>
+      <description>I have been cooperated with seisman to maintain Seismo Links since Oct. 2020. Most links in the website have been merged to Seismo Links, while the left will not been maintained any more.
+This site collects a lot of useful sites I found during my daily life and researches. The links are available on GitHub.
+ Journals: already merged to Seismo Links Codes: already merged to Seismo Links Database: already merged to Seismo Links Tools: already merged to Seismo Links Jobs: already merged to Seismo Links Scientists: not maintained any more Institutions: not maintained any more Learning: not maintained any more NTU: already merged to MIG_Docs  </description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://core-man.github.io/link/post/tools/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/tools/</guid>
+      <description>Geophysics IRIS Message Center IRIS Seismic Monitor IRIS Station Monitor 3-D earthquake display IASPEI standard phase list Free oscillations of the Earth Chemistry Periodic Table Interactive periodic table of the elements Document Processing Squoosh: Image compression web app provided by Googl PDF2JPG: Free PDF to JPG converter Smallpdf: Solve any problems with PDF (conversion, compression, rotate, merge, unlock) ILovePDF: Every tool you need to work with PDFs ILoveIMG: Every tool</description>
+    </item>
+    
+    <item>
+      <title>Scientists</title>
+      <link>https://core-man.github.io/link/post/scientists/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/scientists/</guid>
+      <description>North America America: Western   Caltech
+ Robert W. Clayton | Seismology Zhongwen Zhan | Observatory Seismology    Scripps Institution of Oceanography, UC San Diego
+ Peter Gerstoft | Geophysist Gabi Laske Guy Masters: Personal Website | Observatory Seismology Peter Shearer: Personal Website | Observatory Seismology    Stanford University: Earthquake seismology group
+ Gregory Beroza | Observatory Seismology BIll Ellsworth | Observatory Seismology    University of California, Berkeley: Berkeley Seismological Laboratory</description>
+    </item>
+    
+    <item>
+      <title>NTU</title>
+      <link>https://core-man.github.io/link/post/ntu/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/ntu/</guid>
+      <description>NTU websites School of Physical and Mathematical Sciences Mathematical Sciences Earth Observatory of Singapore Events at Earth Observatory of Singapore Events at Asian School of the Environment Links for Faculty &amp;amp; Staff NTU library and Introduction to NTU Library Blogs at NTU (Manual) Prof. Ping Tong&amp;rsquo;s website Prof. Shengji Wei&amp;rsquo;s website NTU services My eCampus Some examples are listed below. StaffLink: a lot of useful links for NTU staff. Now</description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://core-man.github.io/link/post/learning/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/learning/</guid>
+      <description>1. Geosciences 1.1 Seismology Scientists’ notes CPS: Documentation | Tutorials | Questions and Responses | Notes Lupei Zhu’s research notes Charles J. Ammon&amp;rsquo;s research notes Emile A. Okal’s notes William Menke’s research notes 1977-present 格震至源: Prof. Hongfeng Yang&amp;rsquo;s WeChat blog Seismological</description>
+    </item>
+    
+    <item>
+      <title>Jobs</title>
+      <link>https://core-man.github.io/link/post/jobs/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/jobs/</guid>
+      <description>Jobs Boards  IRIS Job Announcements EarthWorks Jobs Seismological Society of America Jobs Geological Society of America Geoscience Job Board USGS Mendenhall Research Fellowship Program Japan Society for the Promotion of Science Postdoctoral Fellowships AGU PathFinder CIG Jobs  Email listing  Earth Sciences Job Email list  University/Institution Jobs  Carnegie Institution for Science Jobs Listing Lamont-Doherty Earth Observatory of Columbia University Postdoctoral Fellowship University of Texas Institute for Geophysics Job Listings Caltech Academic Positions and Opportunities Scripps Institution of Oceanography, UC San Diego Jobs Wallenberg-NTU Presidential Postdoctoral Fellowship  Other Job blogs  Websites for Earth Scientists on the academic job hunt  Revision history  2019-12-25: update some drafts, commit to seisman 2019-11-10: initial draft, reference to Seisman&amp;rsquo;s links  </description>
+    </item>
+    
+    <item>
+      <title>Institutions</title>
+      <link>https://core-man.github.io/link/post/institutions/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/institutions/</guid>
+      <description>Institutions International Incorporated Research Institutions for Seismology (IRIS) IRIS Data Services IRIS Data Management Center (DMC) International Seismological Centre (ISC) Global Earthquake Model Foundation University NAVSTAR Consortium (UNAVCO): a non-profit university-governed consortium, facilitates geoscience research and education using geodesy Seafloor Geodesy Regional 中国地震局 中国地震台网中心 European Plate Observing System (EPOS): EPOS Thematic Core Services (EPOS-TCS) EPOS seismology Observatories &amp;amp; Research</description>
+    </item>
+    
+    <item>
+      <title>Database</title>
+      <link>https://core-man.github.io/link/post/database/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/database/</guid>
+      <description>Comprehensive Databases and Models USGS Data National Oceanic and Atmospheric Administration (NOAA) National Geophysical Data Center (NGDC): Data and Products NGDC and its sister data centers are merged into the NCEI National Centers for Environmental Information (NCEI): Data EarthByte Data and Model EFEHR Services IRIS EMC: IRIS Earth Model Collaboration | Web service Reference Earth models Earth models Visualization tools Earth Models: a platform to store and exchange modeling tools</description>
+    </item>
+    
+    <item>
+      <title>Codes</title>
+      <link>https://core-man.github.io/link/post/codes/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/codes/</guid>
+      <description>Seismic Data Downloading and Processing Data Request Tools FDSN Web Services | Chinese note IRIS DMC: IRIS Data Management Center Web Services: clients FDSNWS: Chinese note of IRIS Fetch scripts IRISWS: e.g., fedcatalog &amp;amp; sacpz MUSTANG: data quality analysis services PH5WS: provide PH5 data and metadata | Accessing PH5 Archive with FetchData | wiki ROVER: A command line tool to robustly retrieve geophysical timeseries data from data centers BREQ_FAST: Seismic</description>
+    </item>
+    
+    <item>
+      <title>Journals</title>
+      <link>https://core-man.github.io/link/post/journals/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/journals/</guid>
+      <description>Inter-disciplinary Journal American Association for the Advancement of Science Science: 41.063 | Archives Science Advances: 12.804 Nature Nature: 43.070 | Current Issue Nature Communications: 11.880 Scientific Reports: 4.011 PNAS: 9.58 Science Bulletin: 6.277 | ScienceDirect Geoscience AGU Advances: AGU Annual Review of Earth and Planetary Sciences: 9.235 | Annual Reviews Astronomy &amp;amp; Geophysics: 0.349 | Oxford Academic Earth and Planetary Physics | AGU Partnered Journals 2000-2018: Chinese Journal of Geophysics</description>
+    </item>
+    
+  </channel>
+</rss>

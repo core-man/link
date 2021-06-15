@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geoscience database on core-man&#39;s links</title>
+    <link>https://core-man.github.io/link/categories/geoscience-database/</link>
+    <description>Recent content in Geoscience database on core-man&#39;s links</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/link/categories/geoscience-database/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Database</title>
+      <link>https://core-man.github.io/link/post/database/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/database/</guid>
+      <description>Comprehensive Databases and Models USGS Data National Oceanic and Atmospheric Administration (NOAA) National Geophysical Data Center (NGDC): Data and Products NGDC and its sister data centers are merged into the NCEI National Centers for Environmental Information (NCEI): Data EarthByte Data and Model EFEHR Services IRIS EMC: IRIS Earth Model Collaboration | Web service Reference Earth models Earth models Visualization tools Earth Models: a platform to store and exchange modeling tools</description>
+    </item>
+    
+  </channel>
+</rss>

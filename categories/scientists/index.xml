@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientists on core-man&#39;s links</title>
+    <link>https://core-man.github.io/link/categories/scientists/</link>
+    <description>Recent content in Scientists on core-man&#39;s links</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/link/categories/scientists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scientists</title>
+      <link>https://core-man.github.io/link/post/scientists/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/scientists/</guid>
+      <description>North America America: Western   Caltech
+ Robert W. Clayton | Seismology Zhongwen Zhan | Observatory Seismology    Scripps Institution of Oceanography, UC San Diego
+ Peter Gerstoft | Geophysist Gabi Laske Guy Masters: Personal Website | Observatory Seismology Peter Shearer: Personal Website | Observatory Seismology    Stanford University: Earthquake seismology group
+ Gregory Beroza | Observatory Seismology BIll Ellsworth | Observatory Seismology    University of California, Berkeley: Berkeley Seismological Laboratory</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on core-man&#39;s links</title>
+    <link>https://core-man.github.io/link/categories/learning/</link>
+    <description>Recent content in Learning on core-man&#39;s links</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/link/categories/learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning</title>
+      <link>https://core-man.github.io/link/post/learning/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/learning/</guid>
+      <description>1. Geosciences 1.1 Seismology Scientists’ notes CPS: Documentation | Tutorials | Questions and Responses | Notes Lupei Zhu’s research notes Charles J. Ammon&amp;rsquo;s research notes Emile A. Okal’s notes William Menke’s research notes 1977-present 格震至源: Prof. Hongfeng Yang&amp;rsquo;s WeChat blog Seismological</description>
+    </item>
+    
+  </channel>
+</rss>

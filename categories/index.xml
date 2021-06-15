@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on core-man&#39;s links</title>
+    <link>https://core-man.github.io/link/categories/</link>
+    <description>Recent content in Categories on core-man&#39;s links</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/link/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools</title>
+      <link>https://core-man.github.io/link/categories/tools/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/categories/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientists</title>
+      <link>https://core-man.github.io/link/categories/scientists/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/categories/scientists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NTU</title>
+      <link>https://core-man.github.io/link/categories/ntu/</link>
+      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/categories/ntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://core-man.github.io/link/categories/learning/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/categories/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jobs</title>
+      <link>https://core-man.github.io/link/categories/jobs/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/categories/jobs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Institutions</title>
+      <link>https://core-man.github.io/link/categories/institutions/</link>
+      <pubDate>Mon, 11 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/categories/institutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoscience database</title>
+      <link>https://core-man.github.io/link/categories/geoscience-database/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/categories/geoscience-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoscience code</title>
+      <link>https://core-man.github.io/link/categories/geoscience-code/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/categories/geoscience-code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geoscience Journal</title>
+      <link>https://core-man.github.io/link/categories/geoscience-journal/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/categories/geoscience-journal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

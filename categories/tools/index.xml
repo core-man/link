@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on core-man&#39;s links</title>
+    <link>https://core-man.github.io/link/categories/tools/</link>
+    <description>Recent content in Tools on core-man&#39;s links</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 16 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://core-man.github.io/link/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools</title>
+      <link>https://core-man.github.io/link/post/tools/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://core-man.github.io/link/post/tools/</guid>
+      <description>Geophysics IRIS Message Center IRIS Seismic Monitor IRIS Station Monitor 3-D earthquake display IASPEI standard phase list Free oscillations of the Earth Chemistry Periodic Table Interactive periodic table of the elements Document Processing Squoosh: Image compression web app provided by Googl PDF2JPG: Free PDF to JPG converter Smallpdf: Solve any problems with PDF (conversion, compression, rotate, merge, unlock) ILovePDF: Every tool you need to work with PDFs ILoveIMG: Every tool</description>
+    </item>
+    
+  </channel>
+</rss>
